@@ -1,0 +1,39 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+
+# Logo Image Source
+logo_src: /images/logo.svg
+
+# Theme Main Subtitle
+# subtitle_main: A blog about things I've learned
+
+# Theme Secondary subtitle
+# susbtitle_secondary: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+
+# Footer About Section
+about_footer: Hi, my name is Anita and I love to learn. This blog is here to capture all the fascinating things I'm learning about. I write code, when I'm not reading, listening to podcasts, climbing or hanging out with people I like.
+
+# Default post title
+default_post_title: Untitled
+
+# Default post cover index page (Recommended)
+default_cover_index: "http://placehold.it/450x450"
+
+# Default post cover index page (Optional)
+default_cover_detail:
+
+# Show Dates for posts and pages
+show_dates:
+
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+twitter_url: https://twitter.com/Neats29
+instagram_url: https://www.instagram.com/Neats29
+github_url: https://github.com/Neats29
+email_url: mailto:baadge29@gmail.com
