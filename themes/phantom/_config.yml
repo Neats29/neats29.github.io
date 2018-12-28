@@ -2,10 +2,11 @@
 menu:
   Home: /
   Archives: /archives
-  About: /about.html
+  # About: /about.html
 
 # Logo Image Source
-logo_src: /images/logo.svg
+# logo_src: /images/logo.svg
+logo_src: /images/anita-icon.png
 
 # Theme Main Subtitle
 # subtitle_main: A blog about things I've learned
@@ -37,3 +38,4 @@ twitter_url: https://twitter.com/Neats29
 instagram_url: https://www.instagram.com/Neats29
 github_url: https://github.com/Neats29
 email_url: mailto:baadge29@gmail.com
+
