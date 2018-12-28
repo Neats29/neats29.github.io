@@ -79,7 +79,7 @@ theme: phantom
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/Neats29/neats29.github.io
+  repo: git@github.com:Neats29/neats29.github.io.git
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
