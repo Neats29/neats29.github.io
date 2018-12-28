@@ -5,7 +5,8 @@ menu:
   # About: /about.html
 
 # Logo Image Source
-logo_src: /images/logo.svg
+# logo_src: /images/logo.svg
+logo_src: /images/anita-icon.png
 
 # Theme Main Subtitle
 # subtitle_main: A blog about things I've learned

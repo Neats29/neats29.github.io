@@ -1,11 +1,9 @@
 ---
-title: Self-Awareness
+title: Why self-awareness is the most important skill to develop
 date: 2018-12-28 17:09:47
 tags:
 cover_index: /assets/self-awareness.jpg
 ---
-
-## Why self-awareness is the most important skill to develop
 
 How self-aware are you? Do you know how others feel around you? Are you aware of all your tendencies?
 
