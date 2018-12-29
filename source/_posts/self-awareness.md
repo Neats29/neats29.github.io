@@ -11,7 +11,7 @@ Most people believe they are quite self-aware, but we are all delusional. We can
 
 Walking in life with fragile egos, trapped knee deep in the patterns we've picked up since childhood. The best part though, is that we can step out and see ourselves; self-awareness is just another skill that could be developed.
 
-Passionate about the work of [Yuval Noah Harari](https://www.ynharari.com/), author of Sapiens and Homo Deus, I read 21 Lessons for the 21st century in September. Yuval believes humanity is faced with 3 challenges in the coming decades: nuclear war, climate change, and technological disruption. He seems to have 2 aims writing this book. Firstly, he wants to inspire a minority of the readers to tackle these issues in their field of work. Secondly, he wants to spark an interest in the reader to become mindful and self-aware.
+Passionate about the work of [Yuval Noah Harari](https://www.ynharari.com/), author of Sapiens and Homo Deus, I read [21 Lessons for the 21st Century](https://www.ynharari.com/book/21-lessons/) in September. Yuval believes humanity is faced with 3 challenges in the coming decades: nuclear war, climate change, and technological disruption. He seems to have 2 aims writing this book. Firstly, he wants to inspire a minority of the readers to tackle these issues in their field of work. Secondly, he wants to spark an interest in the reader to become mindful and self-aware, to at least be more prepared for the third challenge.
 
 
 As the book came to an end, I was faced with the reality that I hadn’t taken my own self knowledge seriously enough. I was aware of the discrepancy between reality and my perception of it based on the feedback I had received. So I dove in and came across the book Insight by Tasha Eurich who claims **"Self-awareness is the secret ingredient for success in the 21st century.”**
@@ -49,13 +49,12 @@ Interestingly, there is no correlation between the two, meaning being self-aware
 ― C.G. Jung
 
 Combine self-awareness with mindfulness, and you have a super power. If you recognise an emotion as it happens, the emotion looses its grip on you. The next time you are wrapped up in anger, take a moment to observe the feeling. It’s not easy, but doing it once can be a powerful experience that will encourage you to do it again. Just try it next time.
-The person that communicates this best, is Sam Harris. Listen to this episode to learn more: [Sam Harris, Ph.D.: The transformative power of mindfulness (EP.34) - Peter Attia](https://peterattiamd.com/samharris/)
-Tasha also explores this in her book.
+The person that communicates this best, is Sam Harris. Listen to this episode to learn more: [Sam Harris, Ph.D.: The transformative power of mindfulness (EP.34) - Peter Attia](https://peterattiamd.com/samharris/). Tasha also explores this in her book.
 
 > Strong people have a strong sense of self-worth and self-awareness; they don’t need the approval of others.”
 ― Roy T. Bennett,
 
-Perhaps the most powerful insight is the moment you come to the realisation that you are unique and have your own set of strengths (see internal self-awareness above). You can stop comparing yourself to others and carve out your own path. Personally, this has helped reduce my anxiety, and lessen the murmurs of self doubt and imposter syndrome.
+Perhaps the most powerful insight is the moment you come to the realisation that you are unique and have your own set of strengths. You can stop comparing yourself to others and carve out your own path. Personally, this has helped reduce my anxiety, and lessen the murmurs of self doubt and imposter syndrome.
 
 
 
