@@ -75,7 +75,7 @@ I highly recommend reading [the book](http://insight-book.com/default.aspx) if y
 ― Marcus Aurelius
 
 
-One of the delightful side effects of developing self-awareness is empathy. As you become aware of your own shortfalls first and foremost, you learn that people's wrongdoings are not a product of planned malevolent, but a product of absentmindedness or incompetence. In order words, you know that when you make errors, it’s due to forgetfulness or lack of knowhow, rather than some elaborate plan to hurt others. It might seem obvious but many relationships are harmed when we fail to acknowledge this simple fact. Recognising your own weaknesses, makes you empathic towards the weaknesses of others.
+One of the delightful side effects of developing self-awareness is empathy. As you become aware of your own shortfalls first and foremost, you learn that people's wrongdoings are not a product of planned malevolence, but a product of absentmindedness or incompetence. In other words, you know that when you make errors, it’s due to forgetfulness or lack of knowhow, rather than some elaborate plan to hurt others. It might seem obvious but many relationships are harmed when we fail to acknowledge this simple fact. Recognising your own weaknesses, makes you empathic towards the weaknesses of others.
 
 
 

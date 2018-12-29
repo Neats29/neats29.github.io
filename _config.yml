@@ -78,8 +78,15 @@ theme: phantom-non-jekyll
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:Neats29/neats29.github.io.git
-  branch: master
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  - type: git
+    repo: git@github.com:Neats29/neats29.github.io.git
+    branch: master
+    message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  - type: git
+    repo: git@github.com:Neats29/neats29.github.io.git
+    branch: develop
+    extend_dirs: /
+    ignore_hidden: false
+    ignore_pattern:
+        public: .
 
