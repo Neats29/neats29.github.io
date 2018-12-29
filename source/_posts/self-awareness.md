@@ -14,7 +14,7 @@ Walking in life with fragile egos, trapped knee deep in the patterns we've picke
 Passionate about the work of [Yuval Noah Harari](https://www.ynharari.com/), author of [Sapiens](https://www.ynharari.com/book/sapiens/) and [Homo Deus](https://www.ynharari.com/book/homo-deus/), I read [21 Lessons for the 21st Century](https://www.ynharari.com/book/21-lessons/) in September. Yuval believes humanity is faced with 3 challenges in the coming decades: nuclear war, climate change, and technological disruption. He seems to have 2 aims writing this book. Firstly, he wants to inspire a minority of the readers to tackle these issues in their field of work. Secondly, he wants to spark an interest in the reader to become mindful and self-aware, to at least be more prepared for the third challenge.
 
 
-As the book came to an end, I was faced with the reality that I hadn’t taken my own self knowledge seriously enough. I was aware of the discrepancy between reality and my perception of it based on the feedback I had received. So I dove in and came across the book Insight by Tasha Eurich who claims **"Self-awareness is the secret ingredient for success in the 21st century.”**
+As the book came to an end, I was faced with the reality that I hadn’t taken my own self knowledge seriously enough. I was aware of the discrepancy between reality and my perception of it based on the feedback I had received. So I dove in and came across the book [Insight](http://insight-book.com/default.aspx) by [Tasha Eurich](http://insight-book.com/AboutTasha.aspx) who claims **"Self-awareness is the secret ingredient for success in the 21st century.”**
 
 <img src="/2018/12/28/self-awareness/insight.png"
     style="width: 60%;
@@ -43,13 +43,13 @@ Their hallmark? they make choices that are compatible with the above.
 
 Their hallmark? they build stronger and more trusting relationships.
 
-Interestingly, there is no correlation between the two, meaning being self-aware in one type doesn’t mean you are necessarily aware in the other. In fact, being both internally and externally self-aware is quite rare. Though Tasha’s unicorns had elements of both.
+Interestingly, there is no correlation between the two, meaning being self-aware in one type doesn’t mean you are necessarily aware in the other. In fact, being both internally and externally self-aware is quite rare. Though [Tasha’s](http://insight-book.com/AboutTasha.aspx) unicorns had elements of both.
 
 > “Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.”
 ― C.G. Jung
 
 Combine self-awareness with mindfulness, and you have a super power. If you recognise an emotion as it happens, the emotion looses its grip on you. The next time you are wrapped up in anger, take a moment to observe the feeling. It’s not easy, but doing it once can be a powerful experience that will encourage you to do it again. Just try it next time.
-The person that communicates this best, is Sam Harris. Listen to this episode to learn more: [Sam Harris, Ph.D.: The transformative power of mindfulness (EP.34) - Peter Attia](https://peterattiamd.com/samharris/). Tasha also explores this in her book.
+The person that communicates this best, is Sam Harris. Listen to this episode to learn more: [Sam Harris, Ph.D.: The transformative power of mindfulness (EP.34) - Peter Attia](https://peterattiamd.com/samharris/). [Tasha](http://insight-book.com/AboutTasha.aspx) also explores this in her book.
 
 > Strong people have a strong sense of self-worth and self-awareness; they don’t need the approval of others.”
 ― Roy T. Bennett,
@@ -58,7 +58,7 @@ Perhaps the most powerful insight is the moment you come to the realisation that
 
 
 
-### Tips for developing self-awareness, borrowed from the book Insight:
+### Tips for developing self-awareness, borrowed from the book [Insight](http://insight-book.com/):
 - **"Think about what gives you and takes away your energy”:**
 This is a compelling way to help reflect and amend your environment accordingly. This will help you determine which type of people to keep in your life and which types to avoid. Which type of situations to go into and which to avoid. Which type of activities to do and which to avoid. Since time is one of our most important assets, the implications are profound.
 
@@ -66,7 +66,7 @@ This is a compelling way to help reflect and amend your environment accordingly.
 If you said something to a friend that you later regret, you may find yourself saying things like: why did I say that? Why do I always make a fool out of myself? Why didn’t I just think before I opened my month? Ruminating on a past behaviour by asking why you did X is never that productive. In face, research has shown that it negatively impacts our well-being and weakens our immune system. So instead if you ask, *what* questions, such as, what can I do to make her feel better, what can I do to avoid finding myself in this situation again? you will come up with solutions to improve the situation.
 
 - **Asking for feedback:**
-Tasha recommends finding a ‘loving critic’ such as a friend, family member, mentor etc, who is willing to give you honest feedback. Watch out though as some loved ones will only tell you what you want to hear as they don’t want to hurt you, while others such as a competitive colleague might have a hidden motive. Once you find the right individual, plan a dinner with them and ask them what is the thing that annoys them most about you. For this to work well, you can’t get defensive, instead name the emotion and listen. They are giving you a gift and getting defensive will prevent them from telling you the full story, the parts that you desperately need to know.
+[Tasha](http://insight-book.com/AboutTasha.aspx) recommends finding a ‘loving critic’ such as a friend, family member, mentor etc, who is willing to give you honest feedback. Watch out though as some loved ones will only tell you what you want to hear, while others such as a competitive colleague might have a hidden motive. Once you find the right individual, plan a dinner with them and ask them what is the thing that annoys them most about you. For this to work well, you can’t get defensive, instead name the emotion and listen. They are giving you a gift and getting defensive will prevent them from telling you the full story, the parts that you desperately need to know.
 
 I highly recommend reading [the book](http://insight-book.com/default.aspx) if you’d like to learn more.
 
@@ -78,7 +78,7 @@ One of the delightful side effects of developing self-awareness is empathy. As y
 
 
 
-In the end, everything improves with self-awareness, health, work, relationships, and more. I’ll leave you with a quote from Yuval’s book:
+In the end, everything improves with self-awareness, health, work, relationships, and more. I’ll leave you with a quote from [Yuval’s](https://www.ynharari.com/) [book](https://www.ynharari.com/book/21-lessons/):
 
 > "If you really know the truth about yourself and the world, nothing can make you miserable”.
 ― Yuval Noah Harari
