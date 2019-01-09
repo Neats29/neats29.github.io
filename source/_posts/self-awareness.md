@@ -7,7 +7,7 @@ cover_index: /assets/self-awareness.jpg
 
 How self-aware are you? Do you know how others feel around you? Are you aware of all your tendencies?
 
-Most people believe they are quite self-aware, but we are all delusional. We can all think of people in our lives who are unaware of their impact on others. They make bad choices, obvious to everyone around them: the friend that always picks the wrong guy, the boss that gets in your away of doing great work. Now imagine, how different their lives would be if they could see what you can see so clearly. All of us are that person.
+Most people believe they are quite self-aware, but we are all delusional. We can all think of people in our lives who are unaware of their impact on others. They make bad choices, obvious to everyone around them: the friend that always picks the wrong guy, the boss that gets in your way of doing great work. Now imagine, how different their lives would be if they could see what you can see so clearly. All of us are that person.
 
 Walking in life with fragile egos, trapped knee deep in the patterns we've picked up since childhood. The best part though, is that we can step out and see ourselves; self-awareness is just another skill that could be developed.
 
@@ -84,3 +84,5 @@ In the end, everything improves with self-awareness, health, work, relationships
 ― Yuval Noah Harari
 
 [Tweet me](https://twitter.com/Neats29) your thoughts and let me know if you consider another skill more important to develop, I’d love to learn.
+
+<p style="font-size:12px">28 December 2018</p>
