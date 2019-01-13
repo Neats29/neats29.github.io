@@ -2,6 +2,8 @@
 title: How to overcome imposter-syndrome
 date: 2019-01-11 20:50:13
 tags:
+- self-improvement
+cover_index: /assets/imposter.jpg
 ---
 
 In January 2015, I left my old career in order to join [Founders & Coders](https://www.foundersandcoders.com/) to learn software development. It was a wonderful life changing experience that I loved and cherished. But I also suffered from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). I didn’t have a name for it at the time or know what it was. I thought I was experiencing low self-esteem, something I was familiar with growing up. Somehow though, I emerged at the other end qualified to apply for coding jobs. Since then, I've experienced imposter syndrome at various jobs, and at times it has been quite dreadful. However, in mid 2018, something changed in my belief system and I now experience imposter syndrome much *less*. I’d like to emphasise that I haven’t yet found a away to completely eradicate it but I experience it less. So, I would like to share this in the hopes that someone could benefit from it. First, I’d like to define what it is. Imposter syndrome is the self-doubt that you don’t really deserve your accomplishments, that you have somehow cheated your way or got lucky, and any moment now, they will find you out.
@@ -78,4 +80,4 @@ David Walsh - [I’m an imposter](https://davidwalsh.name/impostor-syndrome)
 Dan Abramov - [Things I don’t know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
 
-
+<p style="font-size:12px">12 January 2019</p>
