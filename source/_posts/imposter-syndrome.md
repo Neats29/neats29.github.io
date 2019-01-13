@@ -92,4 +92,4 @@ David Walsh - [I’m an imposter](https://davidwalsh.name/impostor-syndrome)
 Dan Abramov - [Things I don’t know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
 
-<p style="font-size:12px">12 January 2019</p>
+<p style="font-size:12px">13 January 2019</p>
