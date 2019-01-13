@@ -6,7 +6,9 @@ tags:
 cover_index: /assets/imposter.jpg
 ---
 
-In January 2015, I left my old career in order to join [Founders & Coders](https://www.foundersandcoders.com/) to learn software development. It was a wonderful life changing experience that I loved and cherished. But I also suffered from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). I didn’t have a name for it at the time or know what it was. I thought I was experiencing low self-esteem, something I was familiar with growing up. Somehow though, I emerged at the other end qualified to apply for coding jobs. Since then, I've experienced imposter syndrome at various jobs, and at times it has been quite dreadful. However, in mid 2018, something changed in my belief system and I now experience imposter syndrome much *less*. I’d like to emphasise that I haven’t yet found a away to completely eradicate it but I experience it less. So, I would like to share this in the hopes that someone could benefit from it. First, I’d like to define what it is. Imposter syndrome is the self-doubt that you don’t really deserve your accomplishments, that you have somehow cheated your way or got lucky, and any moment now, they will find you out.
+In January 2015, I left my old career in order to join [Founders & Coders](https://www.foundersandcoders.com/) to learn software development. It was a wonderful life changing experience that I loved and cherished. But I also suffered from [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). I didn’t have a name for it at the time or know what it was. I thought I was experiencing low self-esteem, something I was familiar with growing up. Somehow though, I emerged at the other end qualified to apply for coding jobs. Since then, I've experienced imposter syndrome at various jobs, and at times it has been quite dreadful. 
+
+However, in mid 2018, something changed in my belief system and I now experience imposter syndrome much *less*. I’d like to emphasise that I haven’t yet found a away to completely eradicate it but I experience it less. So, I would like to share this in the hopes that someone could benefit from it. First, I’d like to define what it is. Imposter syndrome is the self-doubt that you don’t really deserve your accomplishments, that you have somehow cheated your way or got lucky, and any moment now, they will find you out.
 
 It’s likely that you have experienced imposter syndrome if you've had thoughts along these lines:
 
@@ -27,15 +29,16 @@ My understanding is that imposter syndrome essentially comes down to two main fa
 
 Breaking these down further, we will notice they are both __fear-based__:
 
-  1. Wanting it badly - you want it badly because:
-    -  It is giving you things you want - sense of purpose, passion, money, status, challenge, community, etc
+  1. __Wanting it badly__ - you want it badly because:
+    - It is giving you things you want - sense of purpose, passion, money, status, challenge, community, etc
     - It is part of your identity, and by extension, parts of your self worth is locked up in it
 
 You experience fear, because you could potentially loose these. So the next time you face an overwhelming task, this fear sets in.
-  2. Comparing yourself to others - you compare yourself to others because:
-    - You don’t want to be worse than others
+  2. __Comparing yourself to others__ - you compare yourself to others because:
+    - Others create an expectation in your mind, of what someone in this domain should know
+    - You feel you know or are capable of less than others
 
-You are fearful that you may be worse than others because we are all competitive in nature even if we don’t care to admit it. Whats more, we are a hiereachical society that ranks individuals, even though we are not quantitatively comparable.
+You are fearful that you are less qualified to do what you do than others, and you don't want to be worse than them. We are all competitive in nature even if we don’t care to admit it. What's more, we are a hiereachical society that ranks individuals, even though we are not quantitatively comparable.
 
 Though this makes sense intellectually, it’s harder to grasp *emotionally*, __that when we compare two individuals, we are comparing apples to oranges__.
 
@@ -49,7 +52,7 @@ It meant that we each used the same opportunity differently, because our core in
 
 When you come across someone who knows about, say, *compilers* and you don’t, and you feel imposter syndrome creeping in, remind yourself that you have been spending your time learning about something else; or simply, you may have been spending quality time with people you care about. This is absolutely fine.
 
-You just need to know what you value, what you are drawn to and what you are good at. Figuring out your interests and strengths comes with self-awareness and reflection. I find this invaluable and have written a post about it [here](https://neats29.github.io/2018/12/28/self-awareness/).
+You just need to know what you value, what you are drawn to and what you are good at. Figuring out your interests and strengths comes with self-awareness and reflection. I find this invaluable and have written a post about it [here](/2018/12/28/self-awareness/).
 
 Now you may be thinking, I can think of people who are *objectively* better than others, so it is possible to compare. This is our hierarchical thinking, but I will say this:
 1. Sticking to the engineering example, someone may be great at solving coding problems, but that is just one part of what makes the job, there are skills such as communication, empathy, patience, strategy, planning, focus, time-management, curiosity, integrity and so much more that contribute to good engineering. Unfortunately though, some of these skills are undervalued because they are hard to measure.
@@ -61,16 +64,25 @@ To be clear, I’m not saying that two “equal" skills can’t be compared in t
 <br>
 ## Tips for overcoming imposter syndrome:
 I don’t know if it’s possible to completely eradicate imposter syndrome, but it is possible to dampen it considerably by shifting your thinking:
-* Determine your strengths and interests - perhaps reflect on your childhood and think about what you were/are drawn to both then and now. Do you spot any patterns?
+* __Determine your strengths and interests__ - perhaps reflect on your childhood and think about what you were/are drawn to both then and now. Do you spot any patterns? Make a list
+
 * Realise that everyone who is considered “successful” has many flaws and gaps in their knowledge, they have just found a way to go all in on  2/3 strengths and applied them to their interests, some of which they discovered later on
-* Find questions that help you get out of this mindset, for example:
-* “What are some things I have spent my time on that I am getting better at?” (Doesn’t have to be related to work). Just focus on this for a few minutes
-* “What am I good at?” - prod until you can think of something if it doesn’t come to you right away
-* Acknowledge that what you’re feeling stems from fear and ask: "Which fear am I feeling right now?” - simply naming the fear helps
-* When you can’t help but compare yourself to someone, ask “Would I switch lives with them entirely” - You’re likely to find that you prefer certain aspects of your own life
+
+* Find questions that help you get out of this mindset when the feeling creeps in, for example:
+
+* __“What are some things I have spent my time on that I am getting better at?”__ - doesn’t have to be related to work. Just focus on this for a few minutes
+
+* __“What am I good at?”__ - prod until you can think of something if it doesn’t come to you right away, or refer to your list of strengths
+
+* Acknowledge that what you are feeling stems from fear and ask: __"Which fear am I feeling right now?”__ - simply naming the fear helps
+
+* When you can’t help but compare yourself to someone, ask __“Would I switch lives with them entirely”__ - You’re likely to find that you prefer certain aspects of your own life
+
 * Simply share your feelings with the people you trust - Not only will they remind you of the things you’re good at, they might also benefit from learning that it is a common experience
-* When it comes to tasks like programming, buffer your estimates - this will reduce the pressure
-* When stuck on a problem, don’t be afraid to ask for help - it may feel damaging to your pride but you may otherwise lose hours, adding to your frustration
+
+* When it comes to tasks like programming, __buffer your estimates__ - this will reduce the pressure
+
+* When stuck on a problem, __don’t be afraid to ask for help__ - it may feel damaging to your pride but you may otherwise lose hours, adding to your frustration
 
 Disclaimer: this is my personal observations of imposter syndrome that may not apply to everyone. There is bound to be some survivorship bias and other types of biases. But I hope to help at least one person.
 
