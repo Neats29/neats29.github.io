@@ -9,10 +9,10 @@ menu:
 logo_src: /images/anita-icon.png
 
 # Theme Main Subtitle
-# subtitle_main: A blog about things I've learned
+subtitle_main: A Distillery of Information
 
-# Theme Secondary subtitle
-# susbtitle_secondary: Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+# # Theme Secondary subtitle
+susbtitle_secondary: A blog that does the heavy lifting of research, distilling knowledge down to digestable pieces of information.
 
 # Footer About Section
 about_footer: Hi, my name is Anita and I love to learn. This blog is here to capture all the fascinating things I'm learning about. I write code, when I'm not reading, listening to podcasts, climbing or hanging out with people I like.
