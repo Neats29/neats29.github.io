@@ -4,7 +4,7 @@ date: 2019-01-24 20:18:20
 tags:
 ---
 
-Podcasts are like having a thousand different mentors available to you at your convenience. It is one of the things that makes me incredibly excited to be alive right now. I’ve made a list of some of my favourite episodes from different podcasts I enjoy, for anyone who would like to sample each podcast.
+Podcasts are like having a thousand different mentors available to you at your convenience. It is one of the things that makes me incredibly excited to be alive right now. I’ve made a list of some of the best episodes of my favourite podcasts.
 
 ## The Tim Ferriss Show
 <img src="/2019/01/24/podcasts/timferriss.jpeg"
@@ -15,12 +15,12 @@ Podcasts are like having a thousand different mentors available to you at your c
 </img>
 
 
-This is a life changing podcast, as bold of a statement that may sound. Tim finds the most inspiring individuals to explore all things life related, by asking them them well thought out questions. I can’t begin to describe how much impact it has had on my thinking.
+This is a life changing podcast, as bold of a statement as that may sound. Tim finds the most inspiring individuals to explore all things life related, by asking them them well thought out questions. I can’t begin to describe how much impact it has had on my thinking.
 
 
 ###  🎙 Recent-ish episodes
 
-🧠 [Michael Pollan — Exploring The New Science of Psychedelics](https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/)
+🧠 [Michael Pollan — Exploring The New Science of Psychedelics (#313)](https://tim.blog/2018/05/06/michael-pollan-how-to-change-your-mind/)
 🧠 [Nick Kokonas — How to Apply World-Class Creativity to Business, Art, and Life (#341)](https://tim.blog/2018/10/18/nick-kokonas/)
 🧠 [Ann Miura-Ko — The Path from Shyness to World-Class Debater and Investor (#331)](https://tim.blog/2018/08/02/ann-miura-ko/)
 🧠 [Seth Godin on How to Say “No,” Market Like a Professional, and Win at Life (#343)](https://tim.blog/2018/11/01/seth-godin-this-is-marketing/)
@@ -64,8 +64,9 @@ This is very well put together podcast covering a wide range of topics such as t
 
 👀 [Episode 34: David Reich | Ancient DNA](https://after-on.com/episodes-31-60/034)
 👀 [Episode 22: David Eagleman | Creating the 6th, 7th & 8th Human Sense?](https://after-on.com/episodes/022)
-👀 [Episode 6: Sam Harris | On Terrorism](https://after-on.com/episodes/006)
+👀 [Episode 26: Don Hoffman | Reality Isn't](https://after-on.com/episodes/026)
 👀 [Episode 27: Katya Malievskaia & George Goldsmith | Depression – The Psychedelic Cure?](https://after-on.com/episodes/027)
+<!-- 👀 [Episode 6: Sam Harris | On Terrorism](https://after-on.com/episodes/006) -->
 
 ___
 
@@ -77,10 +78,11 @@ ___
     alt="The North Star Podcast">
 </img>
 
-This is a surprisingly great podcast for such a young host. Marketing, the internet, cities, communities and a lot more.
+This is a very fun and insightful podcast, especially when you consider how young the host is compared to the rest on this list. It covers marketing, technology, cities, communities and a lot more.
 
 🕵️‍♂️ [Keith Rabois: Accumulating Advantages](https://www.perell.com/podcast/keith-rabois)
 🕵️‍♂️ [Daniel Gross: Dreams And Determination](https://www.perell.com/podcast/daniel-gross)
+🕵️‍♂️ [Kevin Kwok: How Systems Work](https://www.perell.com/podcast/kevin-kwok)
 🕵️‍♂️ [Tyler Cowen: Two Blundering Fools](https://www.perell.com/podcast/tyler)
 
 ___
@@ -93,7 +95,7 @@ ___
     alt="Anatomy of Next">
 </img>
 
-This is sci-fi for real life. A hopeful reminder of what we are capable of as a race.
+This is real life sci-fi. A hopeful reminder of what we are capable of as a race.
 
 👩‍🚀 [Season 2 Episode 0](https://foundersfund.com/2018/05/anatomy-next-season-two/)
 👩‍🚀 [Episode 1: Nuclear](https://foundersfund.com/2016/06/anatomy-of-next-utopia-episode-1-nuclear/)
@@ -108,6 +110,8 @@ ___
     margin: auto;"
     alt="Found My Fitness">
 </img>
+
+All things health-related. Be prepared to hear some biochemistry jargon, but the episodes are videoed and Rhonda helpfully provides definitions on the screen as they are being mentioned.
 
 🥑 [Valter Longo, Ph.D. on the Fasting-Mimicking Diet & Fasting for Longevity, Cancer & Multiple Sclerosis](https://www.foundmyfitness.com/episodes/valter-longo)
 🥑 [How The Gut Microbiota Affects Our Health with Dr. Erica & Dr. Justin Sonnenburg](https://www.foundmyfitness.com/episodes/the-sonnenburgs)
@@ -124,6 +128,11 @@ ___
 https://www.kevinrose.com/single-post/andreas-antonopolous
 Serge Faguet - biohacking -->
 
+<!-- ___
+## The Drive by Peter Attia
+
+Another health-related podcast focused on living better and longer. -->
+
 ___
 
 ## Software Engineering Daily
@@ -134,7 +143,7 @@ ___
     alt="Software Engineering Daily">
 </img>
 
-Jeff Meyerson is a machine. He publishes an episode everyday 😱. These are very insightful programming (though not always) episodes that delve deep in a given topic. The episodes range from machine learning to devops, blockchain and more.
+Jeff Meyerson is a machine. He publishes an episode everyday 😱. These are very insightful programming (though not always) episodes that delve deep into a given topic. The episodes range from machine learning to dev-ops, blockchain and more.
 
 👩‍💻 [Reality with Donald Hoffman](https://softwareengineeringdaily.com/2017/02/02/reality-with-donald-hoffman/)
 (_Not a programming episode per se but a mindbending one nevertheless, Donald Hoffman also appears on [After On](https://after-on.com/episodes/026)_)
@@ -144,6 +153,8 @@ Technical episodes:
 👩‍💻 [ShapeShift with Erik Voorhees](https://softwareengineeringdaily.com/2018/03/30/shapeshift-with-erik-voorhees/)
 
 
-Bonus episodes
+Bonus:
+## [Radiolab](https://www.wnycstudios.org/shows/radiolab)
+
 
 
