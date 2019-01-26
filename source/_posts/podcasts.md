@@ -2,17 +2,14 @@
 title: Podcasts that make a lasting impact
 date: 2019-01-24 20:18:20
 tags:
+- podcasts & books
+cover_index: /assets/podcasts.png
 ---
 
 Podcasts are like having a thousand different mentors available to you at your convenience. It is one of the things that makes me incredibly excited to be alive right now. I’ve made a list of some of the best episodes of my favourite podcasts.
 
 ## The Tim Ferriss Show
-<img src="/2019/01/24/podcasts/timferriss.jpeg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="The Tim Ferriss Show">
-</img>
+<img src="/2019/01/24/podcasts/timferriss.jpeg" class="post-image" alt="The Tim Ferriss Show"></img>
 
 
 This is a life changing podcast, as bold of a statement as that may sound. Tim finds the most inspiring individuals to explore all things life related, by asking them them well thought out questions. I can’t begin to describe how much impact it has had on my thinking.
@@ -35,12 +32,7 @@ ___
 
 
 ## The Waking Up podcast by Sam Harris
-<img src="/2019/01/24/podcasts/wakingup.jpeg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="The Waking Up podcast">
-</img>
+<img src="/2019/01/24/podcasts/wakingup.jpeg" class="post-image" alt="The Waking Up podcast"></img>
 
 
 Sam Harris is one of the most eloquent speakers out there, he has an ability to lay out his points like no other. He invites guests from various domains, some of whom he agrees with, and some he disagrees with. If you like his podcasts you may also like his books.
@@ -53,30 +45,20 @@ ___
 
 
 ## After On by Rob Reid
-<img src="/2019/01/24/podcasts/afteron.jpg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="After On">
-</img>
+<img src="/2019/01/24/podcasts/afteron.jpg" class="post-image" alt="After On"></img>
 
-This is very well put together podcast covering a wide range of topics such as technology, anthropology, evolution, physics and so much more. Also it has the best intro music 🎶.
+This is a very well put together podcast covering a wide range of topics such as technology, anthropology, evolution, physics and so much more. Also it has the best intro music 🎶.
 
 👀 [Episode 34: David Reich | Ancient DNA](https://after-on.com/episodes-31-60/034)
 👀 [Episode 22: David Eagleman | Creating the 6th, 7th & 8th Human Sense?](https://after-on.com/episodes/022)
 👀 [Episode 26: Don Hoffman | Reality Isn't](https://after-on.com/episodes/026)
-👀 [Episode 27: Katya Malievskaia & George Goldsmith | Depression – The Psychedelic Cure?](https://after-on.com/episodes/027)
+<!-- 👀 [Episode 27: Katya Malievskaia & George Goldsmith | Depression – The Psychedelic Cure?](https://after-on.com/episodes/027) -->
 <!-- 👀 [Episode 6: Sam Harris | On Terrorism](https://after-on.com/episodes/006) -->
 
 ___
 
 ## The North Star podcast by David Perell
-<img src="/2019/01/24/podcasts/northstar.png"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="The North Star Podcast">
-</img>
+<img src="/2019/01/24/podcasts/northstar.png" class="post-image" alt="The North Star Podcast"></img>
 
 This is a very fun and insightful podcast, especially when you consider how young the host is compared to the rest on this list. It covers marketing, technology, cities, communities and a lot more.
 
@@ -88,12 +70,7 @@ This is a very fun and insightful podcast, especially when you consider how youn
 ___
 
 ## Anatomy of Next
-<img src="/2019/01/24/podcasts/anatomyofnext.jpg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="Anatomy of Next">
-</img>
+<img src="/2019/01/24/podcasts/anatomyofnext.jpg" class="post-image" alt="Anatomy of Next"></img>
 
 This is real life sci-fi. A hopeful reminder of what we are capable of as a race.
 
@@ -104,46 +81,33 @@ This is real life sci-fi. A hopeful reminder of what we are capable of as a race
 ___
 
 ## Found My Fitness By Rhonda Patrick
-<img src="/2019/01/24/podcasts/foundmyfitness.jpg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="Found My Fitness">
-</img>
+<img src="/2019/01/24/podcasts/foundmyfitness.jpg" class="post-image" alt="Found My Fitness"></img>
 
 All things health-related. Be prepared to hear some biochemistry jargon, but the episodes are videoed and Rhonda helpfully provides definitions on the screen as they are being mentioned.
 
 🥑 [Valter Longo, Ph.D. on the Fasting-Mimicking Diet & Fasting for Longevity, Cancer & Multiple Sclerosis](https://www.foundmyfitness.com/episodes/valter-longo)
 🥑 [How The Gut Microbiota Affects Our Health with Dr. Erica & Dr. Justin Sonnenburg](https://www.foundmyfitness.com/episodes/the-sonnenburgs)
 
-<!-- ___ -->
-<!-- ## The Kevin Rose Show
-<img src="/2019/01/24/podcasts/kevinrose.jpg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="The Kevin Rose Show">
-</img>
+___
 
-https://www.kevinrose.com/single-post/andreas-antonopolous
-Serge Faguet - biohacking -->
-
-<!-- ___
 ## The Drive by Peter Attia
 
-Another health-related podcast focused on living better and longer. -->
+<img src="/2019/01/24/podcasts/drive.png" class="post-image" alt="The Drive"></img>
+
+Another health-related podcast focused on living better and longer. It is a new one so I haven't listened to too many episodes but the following episodes are a nice way to get to know the hosts mentioned earlier.
+
+
+👨‍🌾 [Sam Harris, Ph.D.: The transformative power of mindfulness (EP.34)](https://peterattiamd.com/samharris/)
+👨‍🌾 [Rhonda Patrick, Ph.D.: the performance and longevity paradox of IGF-1, ketogenic diets and genetics, the health benefits of sauna, NAD+, and more (EP.02)](https://peterattiamd.com/rhondapatrick/)
+👨‍🌾 [Tim Ferriss: depression, psychedelics, and emotional resilience (EP.01)](https://peterattiamd.com/timferriss/)
+
 
 ___
 
 ## Software Engineering Daily
-<img src="/2019/01/24/podcasts/softwareengineering.jpg"
-    style="width: 60%;
-    display: block;
-    margin: auto;"
-    alt="Software Engineering Daily">
-</img>
+<img src="/2019/01/24/podcasts/softwareengineering.jpg" class="post-image" alt="Software Engineering Daily"></img>
 
-Jeff Meyerson is a machine. He publishes an episode everyday 😱. These are very insightful programming (though not always) episodes that delve deep into a given topic. The episodes range from machine learning to dev-ops, blockchain and more.
+Jeff Meyerson is a machine. He publishes an episode everyday 😱. These are very insightful, mostly programming episodes that delve deep into a given topic. The episodes range from machine learning to dev-ops, blockchain and more.
 
 👩‍💻 [Reality with Donald Hoffman](https://softwareengineeringdaily.com/2017/02/02/reality-with-donald-hoffman/)
 (_Not a programming episode per se but a mindbending one nevertheless, Donald Hoffman also appears on [After On](https://after-on.com/episodes/026)_)
@@ -152,9 +116,8 @@ Technical episodes:
 👩‍💻 [Blockchain Building with Daniel van Flymen](https://softwareengineeringdaily.com/2017/10/12/blockchain-building-with-daniel-van-flymen/)
 👩‍💻 [ShapeShift with Erik Voorhees](https://softwareengineeringdaily.com/2018/03/30/shapeshift-with-erik-voorhees/)
 
+___
+P.S. I'm going to add to this list as I find more gems.
 
-Bonus:
-## [Radiolab](https://www.wnycstudios.org/shows/radiolab)
-
-
+Tweet me your favourite podcast episodes, I love discovering new podcasts.
 
