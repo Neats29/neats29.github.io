@@ -2,10 +2,7 @@
 <footer id="footer">
     <div class="inner">
         <section>
-            <h2>About</h2>
-            <div>
-                <%- theme.about_footer %>
-            </div>
+            <%- partial('subscribe') %>
         </section>
         <section>
             <h2>Follow</h2>
@@ -42,8 +39,16 @@
                 <% } %>
             </ul>
         </section>
+        <section>
+            <h2>About</h2>
+            <div>
+                <%- theme.about_footer %>
+            </div>
+        </section>
         <ul class="copyright">
             <li>&copy; Anita Amini. All rights reserved</li>
         </ul>
     </div>
 </footer>
+
+
