@@ -1,6 +1,6 @@
 ---
 title: How to overcome imposter-syndrome
-date: 2019-01-11 20:50:13
+date:  2019-01-11 20:50:13
 tags:
 - self-improvement
 cover_index: /assets/imposter.jpg
