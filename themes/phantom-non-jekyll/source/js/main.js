@@ -6,9 +6,9 @@
 
 (function($) {
 
-	if (window.location.href.startsWith('https://neats29.github.io')) {
-    window.location.href = 'https://infodistillery.com';
-	}
+	// if (window.location.href.startsWith('https://neats29.github.io')) {
+  //   window.location.href = 'https://infodistillery.com';
+	// }
 
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
