@@ -14,7 +14,7 @@ Many people are willing to give their life for their country or religion because
 
 > “Nationalism is an infantile disease. It is the measles of mankind.” - Albert Einstein
 
-The debates we see on social media have something to do with this. When you don't have a strong sense of identity, nothing matters to you strongly enough to lead you to argue or debate intensely. But you might want to raise awareness about something that matters to you immensely, this is great, as long as __*you*__ don’t get wrap up in it. If people attack the cause, it shouldn’t feel synonymous to them attacking __*you*__.
+The debates we see on social media have something to do with this. When you don't have a strong sense of identity, nothing matters to you strongly enough to lead you to argue or debate intensely. But you might want to raise awareness about something that matters to you immensely, this is great, as long as __*you*__ don’t get wrapped up in it. If people attack the cause, it shouldn’t feel synonymous to them attacking __*you*__.
 
 *When we have a big identity, in a way our self worth and our sense of who we are is locked up in those adjectives.*
 
@@ -37,4 +37,4 @@ Positive aspects of having an identity:
 1. Create a sense of belonging in a community that identifies with a given identity.
 2. Make change easier. For instance, you want to give up meat, identifying as vegetarian creates a psychological barrier against eating meat because “vegetarians don't eat meat”.
 
-These are helpful in the early days, for example coming to terms with growing up non-white in a white society or picking up a new habit like giving up meat. But once we come to terms with our differences or live the desired habits, identifying strongly with things adds no value but makes us susceptible to suffering. To be clear, it's totally fine to be part of as many communities as you like, as long as they don't define you as to leave you vulnerable.
+These are helpful in the early days, for example coming to terms with growing up non-white in a white society or picking up a new habit like giving up meat. But once we come to terms with our differences or live the desired habits, identifying strongly with things adds no value but makes us susceptible to suffering. It's fruitful to be part of different communities; as long as they don't define us as to leave us vulnerable.
