@@ -4,7 +4,7 @@ date: 2019-03-01 21:46:30
 tags:
 ---
 
-Two decades into the 21st century, we find ourselves in the age of abundance of *information* and *choice*. We no longer end up in a profession determined at birth by what our father, his father and __his__ father did. In those days, you weren’t presented much choice, you just worked on you father’s farm, and there were a small number of total professions in your community that you knew about. But today, almost everyone is confused and dissatisfied because we are faced with 4 problems:
+Two decades into the 21st century, we find ourselves in the age of abundance of *information* and *choice*. We no longer end up in a profession determined at birth by what our father, his father and __his__ father did. In those days, you weren’t presented much choice, you just worked on your father’s farm, and there were a small number of total professions in your community that you knew about. But today, almost everyone is confused and dissatisfied because we are faced with 3 problems:
 
 1. __The wealth of choice__ - there is a wide range of professions to choose from but we can only do one at a time, and only a handful in our lifetime
 
