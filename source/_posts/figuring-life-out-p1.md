@@ -1,7 +1,8 @@
 ---
-title: Figuring out what to do with your life&#58; the modern day dilemma
+title: Figuring out what to do with your life&#58; the modern day dilemma - Part 1
 date: 2019-03-01 21:46:30
 tags:
+cover_index: /assets/identity.jpg
 ---
 
 Today, we are drowning in an age of abundant __information__ and __choice__. We no longer find ourselves in a profession determined at birth, bound by an ancestral legacy. In those days, we weren’t presented much choice, we worked on the family farm or maybe apprenticed as a blacksmith. For Instance, in 1820, [72% of the American workforce were farmers](https://www.nytimes.com/1988/07/20/us/farm-population-lowest-since-1850-s.html). Today however, the opposite is true. We are endowed with choices, and this creates an immense amount of confusion and pressure. Almost everyone I know is experiencing this. 
@@ -41,37 +42,37 @@ There are no good solutions to these challenges, but I’m on a quest to find an
 Now on to the resources...
 
 <!-- 1. Know your priorities (⏱️~3 hrs): -->
-<h1 style="font-size: 1.5em;">1. Know Your Priorities:</h1>
+<h1 style="font-size: 1.5em;">1. Knowing Your Priorities:</h1>
 
 👉[How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) - ⏱️~3 hrs
 
 <img src="/figuring-life-out-p1/waitbutwhy.png"
     style="width: 60%;
     display: block;
-    border: 1px solid black;"
+    border: 1px solid lightgrey;"
     alt="How to Pick a Career (That Actually Fits You)">
 </img>
 
 What is important to you? Why are you currently not fulfilled?
 To work this out I recommend reading Tim Urban’s post on picking a career that suits you.
 
-__TL;DR__: Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. 
+Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. 
 
 ---
-<h1 style="font-size: 1.5em;">2. Know Where You Belong:</h1>
+<h1 style="font-size: 1.5em;">2. Knowing Where You Belong:</h1>
 
 👉[Managing Oneself](https://www.amazon.co.uk/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) - ⏱️~30 mins
 
 <img src="/figuring-life-out-p1/managing-oneself.jpeg"
     style="width: 50%;
     display: block;
-    border: 1px solid grey;"
-    alt="How to Pick a Career (That Actually Fits You)">
+    border: 1px solid lightgrey;"
+    alt="Managing Oneself">
 </img>
 
 Written by [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker), the father of management thinking. He argues that by __knowing where you belong__, you can be highly effective.
 
-TL;DR:  By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successfull careers are not planned, they develop when people are prepared for opportunities because they know their *strengths*, their *method of work* and their *values*. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
+By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successfull careers are not planned, they develop when people are prepared for opportunities because they know their *strengths*, their *method of work* and their *values*. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
 If you know the following three things about your self, then you will know where you belong:
 - Your strengths
 - How you perform
@@ -84,20 +85,18 @@ How to figure out the above:
 
 
 ---
-<h1 style="font-size: 1.5em;">3. Accountability and Your Response to Expectations:</h1>
+<h1 style="font-size: 1.5em;">3. Knowing Your Response to Expectations:</h1>
 
 👉 [The 'Four Tendencies Framework'](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) - ⏱️~10 mins
 
 <img src="/figuring-life-out-p1/four-tendencies.jpeg"
     style="width: 50%;
     display: block;
-    border: 1px solid grey;"
-    alt="How to Pick a Career (That Actually Fits You)">
+    border: 1px solid lightgrey;"
+    alt="The 'Four Tendencies Framework'">
 </img>
 
-The 'Four Tendencies Framework' splits people into four categories based on how they respond to expectations.
-
-The tendencies are based on how you response to internal and external expectations:
+The 'Four Tendencies Framework' splits people into four categories based on how they respond to internal and external expectations.
 
 - Upholders: both internal and external
 - Questioners: internal only
@@ -106,11 +105,28 @@ The tendencies are based on how you response to internal and external expectatio
 
 The idea is that if you know which tendency you fall into, you can plan an accountability system that will maximise your chances of achieving your goals. For example, if your goal is to eat more  healthily and you are a questioner, you need to make sure you know exactly __why__ you want to eat healthily. Whereas, if you are an obliger you might buddy up with someone with the same goal to hold each other accountable.
 
-and take a quiz [here](https://quiz.gretchenrubin.com/)
-This won’t take long but knowing which category you fit into best will help you determine how to achieve your goals. This knowledge will come in handy in part two of this series.
+You can take a quiz [here](https://quiz.gretchenrubin.com/) to find out your tendency. This won’t take much time but knowing which category you fit into best will help you determine how to achieve your goals. This knowledge will come in handy in part two of this series.
 
-4. __Principles__ (⏱️varied): If we agree that life is a series of choices, and how we make them in a large part dictates the trajectory of our lives, then we should have a system that helps to make decisions more effectively. Having a set of principles not only helps us make better decisions, but it saves us time with the smaller decisions since the principles already decide for us. “Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be applied again and again in similar situations to help you achieve your goals.”
-― Ray Dalio, Principles: Life and Work If you want to read more about principles, you can read this summary of Ray Dalio's book on principles https://inside.bwater.com/publications/principles_excerpt but ultimately principles are unique to each person.
+---
+<h1 style="font-size: 1.5em;">4. __Knowing Your Principles__:</h1>
+
+👉 [Summary of Principles by Ray Dalio](https://inside.bwater.com/publications/principles_excerpt) - ⏱️varied
+
+<img src="/figuring-life-out-p1/principles.jpeg"
+    style="width: 50%;
+    display: block;
+    border: 1px solid lightgrey;"
+    alt="Principles">
+</img>
 
 
+If we agree that life is a series of choices, and how we make them in a large part dictates the trajectory of our lives, then we should have a system to help us make decisions more effectively. Having a set of principles not only helps with better decision making, but it saves us time with the smaller decisions since the principles already decide for us.
+
+> “Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be applied again and again in similar situations to help you achieve your goals.”
+― Ray Dalio, Principles: Life and Work
+
+
+You can read the summary of Ray Dalio's principles book but ultimately principles are unique to each person.
+
+---
 Please let me know on [Twitter](https://twitter.com/Neats29) which of these you found useful and if you have come across others that you think should be on this list.
