@@ -1,5 +1,5 @@
 ---
-title: On Shedding Identity
+title: On shedding identity
 date: 2019-02-16 13:56:09
 tags:
 - self-improvement
