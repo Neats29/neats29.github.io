@@ -1,53 +1,116 @@
 ---
-title: Steps towards figuring out what to do with your life - Part 1
+title: Figuring out what to do with your life&#58; the modern day dilemma
 date: 2019-03-01 21:46:30
 tags:
 ---
 
-Two decades into the 21st century, we find ourselves in the age of abundance of *information* and *choice*. We no longer end up in a profession determined at birth by what our father, his father and __his__ father did. In those days, you weren’t presented much choice, you just worked on your father’s farm, and there were a small number of total professions in your community that you knew about. But today, almost everyone is confused and dissatisfied because we are faced with 3 problems:
+Today, we are drowning in an age of abundant __information__ and __choice__. We no longer find ourselves in a profession determined at birth, bound by an ancestral legacy. In those days, we weren’t presented much choice, we worked on the family farm or maybe apprenticed as a blacksmith. For Instance, in 1820, [72% of the American workforce were farmers](https://www.nytimes.com/1988/07/20/us/farm-population-lowest-since-1850-s.html). Today however, the opposite is true. We are endowed with choices, and this creates an immense amount of confusion and pressure. Almost everyone I know is experiencing this. 
+
+I believe there are 4 fundamental reasons for this widespread confusion:
+
 
 1. __The wealth of choice__ - there is a wide range of professions to choose from but we can only do one at a time, and only a handful in our lifetime
 
-3. __Known unknown possibilities__ - we know there must be professions that would match our skills and interests but we don’t always know what they are, or we don't yet have access to information that would otherwise help us invent our own path
+2. __Known unknown possibilities__ - we know there must be professions or entrepreneurial endeavours that would match us well but we don’t always know what they are
 
-4. __FOMO__ - the internet creates dissatisfaction because there are always those who are perceived to be doing better, which perpetuates the other 2 problems
+3. __Career FOMO__ - the internet serves as a comparison machine, which perpetuates the above problems
 
-Another common problem that some of us face is [sunk cost fallacy](https://en.wikipedia.org/wiki/Sunk_cost) - we think we might be on the wrong path but we’ve already spent a number of years in this current area, so we don’t want all that time to go to waste and start from scratch. To confuse matters more, it’s incredibly hard to know whether your mind telling you to stick it out is due to sunk cost fallacy or the grit you need to get through a temporary phase of dissatisfaction.
+4. __Sunk Cost Fallacy__ - it’s easier to stay in an unsatisfying career because of the number of years already invested in it
 
-This is like going to a restaurant where you are presented with a buffet from all cuisines, but you are supposed to choose only one cuisine, after which you are only allowed to eat this cuisine until further notice. Meanwhile you find out that you weren’t actually presented with all of the cuisines, there are some you didn’t know about. To make matters worse, the restaurants your friends eat at which seem better are not accessible to you. Of course you are going to be dissatisfied sooner or later. The above scenario might seem comical, but it’s actually the reality we find ourselves in, at a much broader scale.
 
-I don’t excatly have a solution to the above, but I’m nevertheless obsessed with it and over the last couple of years I have been collecting resources that have helped me better navigate this conundrum.
+The following thought experiment shows why the above issues create so much confusion:
 
-Ultimately, most of it comes down to access to the right information. Information from within and without.
+- Imagine you find yourself in a restaurant where you are presented a buffet consisting of all cuisines
+- You are supposed to only choose one cuisine
+- But you are to solely eat *this* cuisine everyday, until further notice
+- Meanwhile you find out that you were not in fact presented the full range of available cuisines
+- You also find that the restaurants others eat at are seemingly better, but not accessible to you
 
-I’ve also found that managing one’s own career is a meta job in itself, the two things I’ve found most effective are:
-* Every few months, taking a step back to reflect on things - by doing this you can pivot or place yourself in a position that lends itself to better opportunities
-* Compounding effects - following your curiosity so that the person going to bed tonight knows more than the person that woke up this morning
+It might seem like a comical thought experiment, but it’s close to the reality most of us find ourselves in.
+
+There are no good solutions to these challenges, but I’m on a quest to find answers nevertheless. Along the way, I’ve been collecting resources to help me better navigate this riddle. I’ve split these into two parts. Part one, being this post, focuses on resources that help to reflect inwards, while part two focuses on the wisdom of great thinkers, authors, entrepreneurs and so on.
+
+
+<!-- Above all though, there are 3 methods that have consistently helped me personally over the years:
+
+- Reflection - periodically, taking time out to reflect internally and externally. This lets me calibrate, pivot or place myself in a position that lends itself to better opportunities
+- Talking to trusted individuals - talking to those who know me well and would call me out on my fears and biases; as well as talking to those who have been in a similar situation
+- Compounding effects - learning and following my curiosity so that the person going to bed tonight knows more than the person that woke up this morning -->
+
 ---
-I’ve split the list of resources into 2 parts. Part one focuses on internal factors, while part two focuses on external factors.
-## INTERNAL aka Who are you?
+Now on to the resources...
 
-1. (⏱️~3 hours) __Know your priorities__: what is important to you? Why are you currently not fulfilled?
-To work this out I recommend reading Tim Urban’s post on the Wait But Why blog about [picking a career that suits you](https://waitbutwhy.com/2018/04/picking-career.html).
+<!-- 1. Know your priorities (⏱️~3 hrs): -->
+<h1 style="font-size: 1.5em;">1. Know Your Priorities:</h1>
 
-TL;DR: Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of such as status for instance, then rank them in order of importance. The one highest on the list is your “priority”. This is the minimum you need in order to feel fulfilled.
+👉[How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) - ⏱️~3 hrs
 
-2. (⏱️~30mins) __Know where you belong__: [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker), father of management thinking and the author of the short book ['Managing Oneself'](https://www.amazon.co.uk/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) argues that by __knowing where you belong__ you can be highly effective.
+<img src="/figuring-life-out-p1/waitbutwhy.png"
+    style="width: 60%;
+    display: block;
+    border: 1px solid black;"
+    alt="How to Pick a Career (That Actually Fits You)">
+</img>
 
-TL;DR:  By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successfull careers are not planned, they develop when people are prepared for opportunities because they know their strengths, their method of work and their values. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
+What is important to you? Why are you currently not fulfilled?
+To work this out I recommend reading Tim Urban’s post on picking a career that suits you.
+
+__TL;DR__: Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. 
+
+---
+<h1 style="font-size: 1.5em;">2. Know Where You Belong:</h1>
+
+👉[Managing Oneself](https://www.amazon.co.uk/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) - ⏱️~30 mins
+
+<img src="/figuring-life-out-p1/managing-oneself.jpeg"
+    style="width: 50%;
+    display: block;
+    border: 1px solid grey;"
+    alt="How to Pick a Career (That Actually Fits You)">
+</img>
+
+Written by [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker), the father of management thinking. He argues that by __knowing where you belong__, you can be highly effective.
+
+TL;DR:  By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successfull careers are not planned, they develop when people are prepared for opportunities because they know their *strengths*, their *method of work* and their *values*. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
 If you know the following three things about your self, then you will know where you belong:
 - Your strengths
 - How you perform
 - Your values
 
-Ways to figure out the above:
-* Your strengths: keep a track of any big decisions you make by making a note of the result you expect, then 9-12 months later, compare your notes with the actual results. With time, you will learn where your strengths lay, where you are or are not making a use of those strengths, where you are competent and where you don’t have a strength.
-* How you perform: determine how you learn, wether you work well with people or prefer to work alone, whether you are an adviser or a decision maker etc
+How to figure out the above:
+* Your *strengths*: keep a track of any big decisions you make by making a note of the result you expect, then 9-12 months later, compare your notes with the actual results. With time, you will learn where your strengths lay, where you are or are not making a use of those strengths, where you are competent and where you don’t have a strength.
+* How you perform (method of work): determine how you learn, wether you work well with people or prefer to work alone, whether you are an adviser or a decision maker etc
 * You values: this one’s self explanatory
 
 
-3. (⏱️~10mins) __Accountability and your response to expectations__: The 'Four Tendencies Framework' splits people into four categories based on how they respond to expectations. You can read about it [here](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) and take a quiz [here](https://quiz.gretchenrubin.com/). This won’t take long but knowing which category you fit into best will help you determine how to best keep yourself accountable. We will use this knowledge in part 2 of this series.
+---
+<h1 style="font-size: 1.5em;">3. Accountability and Your Response to Expectations:</h1>
 
-4. (⏱️varied) __Principles__:
+👉 [The 'Four Tendencies Framework'](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) - ⏱️~10 mins
 
--The importance of principles? Have your own set of principles to live by eg: https://fs.blog/principles/
+<img src="/figuring-life-out-p1/four-tendencies.jpeg"
+    style="width: 50%;
+    display: block;
+    border: 1px solid grey;"
+    alt="How to Pick a Career (That Actually Fits You)">
+</img>
+
+The 'Four Tendencies Framework' splits people into four categories based on how they respond to expectations.
+
+The tendencies are based on how you response to internal and external expectations:
+
+- Upholders: both internal and external
+- Questioners: internal only
+- Rebels: neither internal nor external, resist all expectations
+- Obligers: external only
+
+The idea is that if you know which tendency you fall into, you can plan an accountability system that will maximise your chances of achieving your goals. For example, if your goal is to eat more  healthily and you are a questioner, you need to make sure you know exactly __why__ you want to eat healthily. Whereas, if you are an obliger you might buddy up with someone with the same goal to hold each other accountable.
+
+and take a quiz [here](https://quiz.gretchenrubin.com/)
+This won’t take long but knowing which category you fit into best will help you determine how to achieve your goals. This knowledge will come in handy in part two of this series.
+
+4. __Principles__ (⏱️varied): If we agree that life is a series of choices, and how we make them in a large part dictates the trajectory of our lives, then we should have a system that helps to make decisions more effectively. Having a set of principles not only helps us make better decisions, but it saves us time with the smaller decisions since the principles already decide for us. “Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be applied again and again in similar situations to help you achieve your goals.”
+― Ray Dalio, Principles: Life and Work If you want to read more about principles, you can read this summary of Ray Dalio's book on principles https://inside.bwater.com/publications/principles_excerpt but ultimately principles are unique to each person.
+
+
+Please let me know on [Twitter](https://twitter.com/Neats29) which of these you found useful and if you have come across others that you think should be on this list.
