@@ -53,7 +53,7 @@ Now on to the resources...
 </img><span style="font-size:0.7em">Source: [waitbutwhy.com](https://waitbutwhy.com)</span>
 
 What is important to you? Why are you currently not fulfilled?
-To work this out I recommend reading Tim Urban’s post on picking a career that suits you.
+To work this out I recommend reading the above [Wait Buy Why](waitbutwhy.com) post.
 
 Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. But this summary does not do it justice.
 
