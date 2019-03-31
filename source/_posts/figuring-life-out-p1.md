@@ -2,7 +2,7 @@
 title: Figuring out what to do with your life&#58; the modern day dilemma - Part 1
 date: 2019-03-01 21:46:30
 tags:
-cover_index: /assets/identity.jpg
+cover_index: /assets/figure-1.jpg
 ---
 
 Today, we are drowning in an age of abundant __information__ and __choice__. We no longer find ourselves in a profession determined at birth, bound by an ancestral legacy. In those days, we weren’t presented much choice, we worked on the family farm or maybe apprenticed as a blacksmith. For Instance, in 1820, [72% of the American workforce were farmers](https://www.nytimes.com/1988/07/20/us/farm-population-lowest-since-1850-s.html). Today however, the opposite is true. We are endowed with choices, and this creates an immense amount of confusion and pressure. Almost everyone I know is experiencing this. 
@@ -41,7 +41,6 @@ There are no good solutions to these challenges, but I’m on a quest to find an
 ---
 Now on to the resources...
 
-<!-- 1. Know your priorities (⏱️~3 hrs): -->
 <h1 style="font-size: 1.5em;">1. Knowing Your Priorities:</h1>
 
 👉[How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html) - ⏱️~3 hrs
@@ -51,12 +50,12 @@ Now on to the resources...
     display: block;
     border: 1px solid lightgrey;"
     alt="How to Pick a Career (That Actually Fits You)">
-</img>
+</img><span style="font-size:0.7em">Source: [waitbutwhy.com](https://waitbutwhy.com)</span>
 
 What is important to you? Why are you currently not fulfilled?
 To work this out I recommend reading Tim Urban’s post on picking a career that suits you.
 
-Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. 
+Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. But this summary does not do it justice.
 
 ---
 <h1 style="font-size: 1.5em;">2. Knowing Where You Belong:</h1>
@@ -68,20 +67,21 @@ Make a list of all the things that you need and want (Tim refers to these as yea
     display: block;
     border: 1px solid lightgrey;"
     alt="Managing Oneself">
-</img>
+</img><span style="font-size:0.7em">Source: [amazon.com](https://www.amazon.co.uk)</span>
 
 Written by [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker), the father of management thinking. He argues that by __knowing where you belong__, you can be highly effective.
 
 By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successfull careers are not planned, they develop when people are prepared for opportunities because they know their *strengths*, their *method of work* and their *values*. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
-If you know the following three things about your self, then you will know where you belong:
+
+If you know the following three things about yourself, then you will know where you belong:
 - Your strengths
-- How you perform
+- How you perform (method of work)
 - Your values
 
 How to figure out the above:
-* Your *strengths*: keep a track of any big decisions you make by making a note of the result you expect, then 9-12 months later, compare your notes with the actual results. With time, you will learn where your strengths lay, where you are or are not making a use of those strengths, where you are competent and where you don’t have a strength.
-* How you perform (method of work): determine how you learn, wether you work well with people or prefer to work alone, whether you are an adviser or a decision maker etc
-* You values: this one’s self explanatory
+* __Your strengths__: keep a track of any big decisions you make by making a note of the result you expect, then 9-12 months later, compare your notes with the actual results. With time, you will learn where your strengths lay, where you are or are not making a use of those strengths, where you are competent and where you don’t have a strength.
+* __How you perform (method of work)__: determine how you learn, whether you work well with people or prefer to work alone, whether you are an adviser or a decision maker etc.
+* __Your values__: this one’s self explanatory.
 
 
 ---
@@ -94,7 +94,7 @@ How to figure out the above:
     display: block;
     border: 1px solid lightgrey;"
     alt="The 'Four Tendencies Framework'">
-</img>
+</img><span style="font-size:0.7em">Source: [gretchenrubin.com](https://gretchenrubin.com)</span>
 
 The 'Four Tendencies Framework' splits people into four categories based on how they respond to internal and external expectations.
 
@@ -117,7 +117,7 @@ You can take a quiz [here](https://quiz.gretchenrubin.com/) to find out your ten
     display: block;
     border: 1px solid lightgrey;"
     alt="Principles">
-</img>
+</img><span style="font-size:0.7em">Source: [nytimes.com](https://www.nytimes.com)</span>
 
 
 If we agree that life is a series of choices, and how we make them in a large part dictates the trajectory of our lives, then we should have a system to help us make decisions more effectively. Having a set of principles not only helps with better decision making, but it saves us time with the smaller decisions since the principles already decide for us.
