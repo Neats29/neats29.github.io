@@ -1,5 +1,5 @@
 ---
-title: How to overcome imposter-syndrome
+title: How to Overcome Imposter-Syndrome
 date:  2019-01-11 20:50:13
 tags:
 - self-improvement

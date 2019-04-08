@@ -1,5 +1,5 @@
 ---
-title: On shedding identity
+title: On Shedding Identity
 date: 2019-02-16 13:56:09
 tags:
 - self-improvement
@@ -37,4 +37,4 @@ Positive aspects of having an identity:
 1. Create a sense of belonging in a community that identifies with a given identity.
 2. Make change easier. For instance, you want to give up meat, identifying as vegetarian creates a psychological barrier against eating meat because “vegetarians don't eat meat”.
 
-These are helpful in the early days, for example coming to terms with growing up non-white in a white society or picking up a new habit like giving up meat. But once we come to terms with our differences or live the desired habits, identifying strongly with things adds no value but makes us susceptible to suffering. It's fruitful to be part of different communities; as long as they don't define us as to leave us vulnerable.
+These are helpful in the early days, for example coming to terms with growing up as a person of colour in a 'white' society or picking up a new habit like giving up meat. But once we come to terms with our differences or live the desired habits, identifying strongly with things adds no value but makes us susceptible to suffering. It's fruitful to be part of different communities; as long as they don't define us as to leave us vulnerable.

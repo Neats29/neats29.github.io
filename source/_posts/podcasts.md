@@ -1,5 +1,5 @@
 ---
-title: Podcasts that make a lasting impact
+title: Podcasts that Make a Lasting Impact
 date: 2019-01-24 20:18:20
 tags:
 - books & podcasts

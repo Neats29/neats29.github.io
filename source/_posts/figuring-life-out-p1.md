@@ -1,22 +1,22 @@
 ---
-title: Figuring out what to do with your life&#58; the modern day dilemma - Part 1
+title: Figuring Out What to Do With Your Life&#58; The Modern Day Dilemma - Part 1
 date: 2019-03-01 21:46:30
 tags:
 cover_index: /assets/figure-1.jpg
 ---
 
-Today, we are drowning in an age of abundant __information__ and __choice__. We no longer find ourselves in a profession determined at birth, bound by an ancestral legacy. In those days, we weren’t presented much choice, we worked on the family farm or maybe apprenticed as a blacksmith. For Instance, in 1820, [72% of the American workforce were farmers](https://www.nytimes.com/1988/07/20/us/farm-population-lowest-since-1850-s.html). Today however, the opposite is true. We are endowed with choices, and this creates an immense amount of confusion and pressure. Almost everyone I know is experiencing this. 
+Today, we are drowning in an age of abundant __information__ and __choice__. We no longer find ourselves in a profession determined at birth, bound by an ancestral legacy. In those days, we weren’t presented much choice, we worked on the family farm or maybe apprenticed as a blacksmith. For Instance, in 1820, [72% of the American workforce were farmers](https://www.nytimes.com/1988/07/20/us/farm-population-lowest-since-1850-s.html). Today however, the opposite is true. We are endowed with choices, and this creates an immense amount of confusion and pressure. Almost everyone I know is experiencing this.
 
 I believe there are 4 fundamental reasons for this widespread confusion:
 
 
-1. __The wealth of choice__ - there is a wide range of professions to choose from but we can only do one at a time, and only a handful in our lifetime
+1. __The Wealth of Choice__ - there is a wide range of professions to choose from but we can only do one at a time, and only a handful in our lifetime
 
-2. __Known unknown possibilities__ - we know there must be professions or entrepreneurial endeavours that would match us well but we don’t always know what they are
+2. __Known Unknown Possibilities__ - we know there must be professions or entrepreneurial endeavours that would match us well but we don’t always know what they are
 
-3. __Career FOMO__ - the internet serves as a comparison machine, which perpetuates the above problems
+3. [__Career FOMO__](https://en.wikipedia.org/wiki/Fear_of_missing_out) - the internet serves as a comparison machine, which perpetuates the above problems
 
-4. __Sunk Cost Fallacy__ - it’s easier to stay in an unsatisfying career because of the number of years already invested in it
+4. [__Sunk Cost Fallacy__](https://en.wikipedia.org/wiki/Sunk_cost) - it’s easier to stay in an unsatisfying career because of the number of years already invested in it
 
 
 The following thought experiment shows why the above issues create so much confusion:

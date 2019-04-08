@@ -1,5 +1,5 @@
 ---
-title: Why self-awareness is the most important skill to develop
+title: Why Self-Awareness Is the Most Important Skill to Develop
 date: 2018-12-28 17:09:47
 tags:
 - self-improvement
