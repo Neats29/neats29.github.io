@@ -29,14 +29,8 @@ The following thought experiment shows why the above issues create so much confu
 
 It might seem like a comical thought experiment, but it’s close to the reality most of us find ourselves in.
 
-There are no good solutions to these challenges, but I’m on a quest to find answers nevertheless. Along the way, I’ve been collecting resources to help me better navigate this riddle. I’ve split these into two parts. Part one, being this post, focuses on resources that help to reflect inwards, while part two focuses on the wisdom of great thinkers, authors, entrepreneurs and so on.
+There are no good solutions to these challenges, but I’m on a quest to find answers nevertheless. Along the way, I’ve been collecting resources to help me better navigate this riddle. I’ve split these into two parts. Part one, being this post, focuses on resources that help to reflect inwards, while [part two](/figuring-life-out-p1) focuses on the wisdom of great thinkers, authors, entrepreneurs and so on.
 
-
-<!-- Above all though, there are 3 methods that have consistently helped me personally over the years:
-
-- Reflection - periodically, taking time out to reflect internally and externally. This lets me calibrate, pivot or place myself in a position that lends itself to better opportunities
-- Talking to trusted individuals - talking to those who know me well and would call me out on my fears and biases; as well as talking to those who have been in a similar situation
-- Compounding effects - learning and following my curiosity so that the person going to bed tonight knows more than the person that woke up this morning -->
 
 ---
 Now on to the resources...
@@ -53,7 +47,7 @@ Now on to the resources...
 </img><span style="font-size:0.7em">Source: [waitbutwhy.com](https://waitbutwhy.com)</span>
 
 What is important to you? Why are you currently not fulfilled?
-To work this out I recommend reading the above [Wait Buy Why](waitbutwhy.com) post.
+To work this out I recommend reading the above [Wait Buy Why](waitbutwhy.com) post by Tim Urban.
 
 Make a list of all the things that you need and want (Tim refers to these as yearnings) such as, passion, money, freedom, respect, meaning, impact etc. Including ones that you may not feel particularly proud of, such as status for instance, then rank them in order of importance. The couple of items highest on the list are your “priorities”. This is the minimum you need in order to feel fulfilled. But this summary does not do it justice.
 
@@ -96,7 +90,7 @@ How to figure out the above:
     alt="The 'Four Tendencies Framework'">
 </img><span style="font-size:0.7em">Source: [gretchenrubin.com](https://gretchenrubin.com)</span>
 
-The 'Four Tendencies Framework' splits people into four categories based on how they respond to internal and external expectations.
+The 'Four Tendencies Framework' by Gretchen Rubin, splits people into four categories based on how they respond to internal and external expectations.
 
 - Upholders: both internal and external
 - Questioners: internal only
@@ -129,4 +123,4 @@ If we agree that life is a series of choices, and how we make them in a large pa
 You can read the summary of Ray Dalio's principles book but ultimately principles are unique to each person.
 
 ---
-Please let me know on [Twitter](https://twitter.com/Neats29) which of these you found useful and if you have come across others that you think should be on this list.
+Please let me know on [Twitter](https://twitter.com/Neats29) which of these you found useful and if you have come across others that you think should be on this list. To see the second part of this series click [here](/figuring-life-out-p1).
