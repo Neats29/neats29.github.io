@@ -50,7 +50,7 @@ Taylor Pearson, the author of the book, argues that with tools such as cloud com
     alt="How to Get Rich (without getting lucky)">
 </img><span style="font-size:0.7em">Source: [twitter.com](https://twitter.com)</span>
 
-I believe the title is intentionally provocative but the premise is on how to create wealth and achieve financial freedom. Regardless of what your goals are in life, money is an inescapable aspect of modern life. Most of us exchange time for money, but this is mostly unsustainable. The moment you stop working, for instance due to a long term sickness or a career break, your income stream comes to a halt. To break out of this cycle, you need to build a system where your income is not directly dependent on the number of hours you work.
+I believe the title is intentionally provocative but the premise is how to create wealth and achieve financial freedom. Regardless of what your goals are, money is an inescapable aspect of modern life. Most of us exchange time for money, but this is mostly unsustainable. The moment you stop working, for instance due to a long term sickness or a career break, your income stream comes to a halt. To break out of this cycle, you need to build a system where your income is not directly dependent on the number of hours you work.
 
 ---
 
@@ -64,13 +64,13 @@ I believe the title is intentionally provocative but the premise is on how to cr
     <!-- border: 1px solid lightgrey; -->
     "
     alt="Antifragile Planning">
-</img><span style="font-size:0.7em">Source: [taylorpearson.me/planning/](https://taylorpearson.me/planning/)</span>
+</img><span style="font-size:0.7em">Source: [taylorpearson.me/planning](https://taylorpearson.me/planning)</span>
 
 Taylor Pearson has devised a system to get stuff done by maximising focus. It rests on the notion that doing 10% of 10 things is far less fruitful than 100% of 1 thing. Focus is everything. But how do you know what to focus on? When you have a couple of spare hours, how do you know how to best utilise this time? It’s far too easy to end up on YouTube for example. Taylor’s system is based on the concept “vertical coherence”, the idea that if you know where you want to be in the long run, you can determine how to spend your time today by connecting it to your long term vision.
 
-First, you work out your long term goals, imagining yourself in 25 years time, of course no-one could plan that far in the future but the goal of the exercise is to place you in a mindset where you allow yourself to dream big. Then you work your way back down and set goals for the next 90 days, 1 month, 1 week and 1 day. Ultimately, it helps you to determine what to say yes/no to on a daily basis.
+First, you work out your long term goals, imagining yourself in 25 years time. Of course no-one could plan that far in the future but the goal of the exercise is to place you in a mindset where you allow yourself to dream big. Then you work your way back down and set goals for the next 90 days, 1 month, 1 week and 1 day. Ultimately, it helps you to determine what to say yes/no to on a daily basis.
 
-If you prefer a more interactive learning experience, I recommend his online course [The Effective Entrepreneur](https://the-effective-entrepreneur.teachable.com/p/the-effective-entrepreneur). If you like and end up implementing this system in your own life, it would be natural to want to stick to it. For this, I found the ['Four Tendencies Framework’](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) by Gretchen Rubin mentioned in [part 1](/figuring-life-out-p1) of this series to be very helpful. For instance, if you’re an [Obliger](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/), then you might want to find an accountability buddy that will help you stick to your weekly goals.
+If you'd like to dig deeper or prefer a more interactive learning experience, I recommend his online course [The Effective Entrepreneur](https://the-effective-entrepreneur.teachable.com/p/the-effective-entrepreneur). If you like and end up implementing this system in your own life, it would be natural to want to stick to it. For this, I found the ['Four Tendencies Framework’](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) by Gretchen Rubin, mentioned in [part 1](/figuring-life-out-p1) to be very helpful. For instance, if you’re an [Obliger](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/), then you might want to find an accountability buddy that will help you stick to your weekly goals.
 
 ---
 
@@ -90,13 +90,11 @@ If you prefer a more interactive learning experience, I recommend his online cou
 
 ---
 
-Finally, these resources are bound to have survivorship biases, some of the ‘advice’ may come from people with more privilege and opportunities. The point is not to accept everything, but to benefit from the experiences of others and be exposed to different ways of thinking.
+Let me know your thoughts on [Twitter](https://twitter.com/Neats29), did you find any of these resources useful? Are there any other resources you think should be on this list?
+
 
 I’ll leave you with this quote:
 
 >"Use courage and wisdom, not labor, to make money.” - Nassim Taleb
-
-
-Let me know your thoughts on [Twitter](https://twitter.com/Neats29), did you find any of these resources useful? Are there any other resources you think should be on this list?
 
 
