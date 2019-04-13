@@ -57,7 +57,7 @@ Make a list of all the things that you need and want (Tim refers to these as yea
 👉[Managing Oneself](https://www.amazon.co.uk/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) - ⏱️~30 mins
 
 <img src="/figuring-life-out-p1/managing-oneself.jpeg"
-    style="width: 50%;
+    style="width: 45%;
     display: block;
     border: 1px solid lightgrey;"
     alt="Managing Oneself">
