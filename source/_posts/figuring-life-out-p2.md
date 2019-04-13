@@ -26,12 +26,11 @@ Now on to the resources...
 
 👉[The End of Jobs](https://taylorpearson.me/eojbook/) - ⏱️~5 hrs
 
-<img src="/figuring-life-out-p2/end-of-jobs.jpg"
-    style="width: 40%;
-    display: block;
-    border: 1px solid lightgrey;"
+<img src="/figuring-life-out-p2/end.png"
+    style="width: 50%;
+    display: block;"
     alt="The End of Jobs">
-</img><span style="font-size:0.7em">Source: [goodreads.com](https://goodreads.com)</span>
+</img><span style="font-size:0.7em">Source: [taylorpearson.me](https://taylorpearson.me/eojbook)</span>
 
 It may sound cliche, but this is was one of those books that absolutely shifted my thinking. Depending on where you stand on entrepreneurship, you might already know the message of this book, which is, technology has made entrepreneurship "safer, more accessible, and more profitable than ever before". 
 
