@@ -2,7 +2,7 @@
 title: Figuring Out What to Do With Your Life&#58; The Modern Day Dilemma - Part 2
 date: 2019-04-11 22:23:34
 tags:
-# cover_index: /assets/figure-1.jpg
+cover_index: /assets/figure-2.jpg
 ---
 
 This is the second part of a series on figuring out what to do with your life. If you’d like to read part 1 of the series, you can read it [here](/figuring-life-out-p1). This part is a curation of my favourite resources on understanding how the world works in the context of work and success, from the perspective of those who have deeply reflected on it.
