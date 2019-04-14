@@ -7,7 +7,7 @@ cover_index: /assets/figure-2.jpg
 
 This is the second part of a series on figuring out what to do with your life. If you’d like to read part 1 of the series, you can read it [here](/figuring-life-out-p1). This part is a curation of my favourite resources on understanding how the world works in the context of work and success, from the perspective of those who have deeply reflected on it.
 
-But if there is only one thing to take away from this post is that, figuring out what to do with your life is a *journey* not a destination. Everyone will experience doubt about whether they are on the right path or not; many times over. As new industries emerge, we all have to reinvent ourselves more than once. And managing one’s own career becomes a job in itself. The resources laid out here and in the last post, serve as tools to a) view things from a different standpoint and b) implement some sort of a system that feels natural to you.
+But if there is only one thing to take away from this post, it it that figuring out what to do with your life is a *journey* not a destination. Everyone will experience doubt about whether they are on the right path or not; many times over. As new industries emerge, we all have to reinvent ourselves more than once. And managing one’s own career becomes a job in itself. The resources laid out here and in the last post, serve as tools to a) view things from a different standpoint and b) implement some sort of a system that feels natural to you.
 
 <!-- Personally, the system that has work best for me is: -->
 <!--
@@ -32,7 +32,7 @@ Now on to the resources...
     alt="The End of Jobs">
 </img><span style="font-size:0.7em">Source: [taylorpearson.me](https://taylorpearson.me/eojbook)</span>
 
-It may sound cliche, but this is was one of those books that absolutely shifted my thinking. Depending on where you stand on entrepreneurship, you might already know the message of this book, which is, technology has made entrepreneurship "safer, more accessible, and more profitable than ever before". 
+It may sound cliche, but this is was one of those books that absolutely shifted my thinking. Depending on where you stand on entrepreneurship, you might already know the message of this book, which is, technology has made entrepreneurship "safer, more accessible, and more profitable than ever before".
 
 Taylor Pearson, the author of the book, argues that with tools such as cloud computing, Alibaba, and the ability to easily hire affordable talent as and when you need it on sites like Upwork, you no longer need huge upfront capital to get up and running. The biggest shift for me was learning that employment is now riskier than entrepreneurship, as [Naval](https://twitter.com/naval) says "If society can train you, it can train someone else, and replace you”. This takes us to the next recommendation.
 
@@ -49,7 +49,9 @@ Taylor Pearson, the author of the book, argues that with tools such as cloud com
     alt="How to Get Rich (without getting lucky)">
 </img><span style="font-size:0.7em">Source: [twitter.com](https://twitter.com)</span>
 
-I believe the title is intentionally provocative but the premise is how to create wealth and achieve financial freedom. Regardless of what your goals are, money is an inescapable aspect of modern life. Most of us exchange time for money, but this is mostly unsustainable. The moment you stop working, for instance due to a long term sickness or a career break, your income stream comes to a halt. To break out of this cycle, you need to build a system where your income is not directly dependent on the number of hours you work.
+I believe the title is intentionally provocative but the premise is how to create wealth and achieve financial freedom. Regardless of what your goals are, money is an inescapable aspect of modern life. Most of us exchange time for money, but this is mostly unsustainable. The moment you stop working, for instance due to a long term sickness or a career break, your income stream comes to a halt.
+
+To break out of this cycle, you need to build a system where your income is not directly dependent on the number of hours you work. In such a system, your "work" compounds over time, and works for you when you're not. An example is an app that is built once, but is distributed to thousands of people. Or a podcast that attracts opportunities while the host is asleep. The key is not to achieve money, but to achieve wealth. But really, the key is not even to achieve wealth, but to achieve freedom.
 
 ---
 
@@ -69,7 +71,7 @@ Taylor Pearson has devised a system to get stuff done by maximising focus. It re
 
 First, you work out your long term goals, imagining yourself in 25 years time. Of course no-one could plan that far in the future but the goal of the exercise is to place you in a mindset where you allow yourself to dream big. Then you work your way back down and set goals for the next 90 days, 1 month, 1 week and 1 day. Ultimately, it helps you to determine what to say yes/no to on a daily basis.
 
-If you'd like to dig deeper or prefer a more interactive learning experience, I recommend his online course [The Effective Entrepreneur](https://the-effective-entrepreneur.teachable.com/p/the-effective-entrepreneur). If you like and end up implementing this system in your own life, it would be natural to want to stick to it. For this, I found the ['Four Tendencies Framework’](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) by Gretchen Rubin, mentioned in [part 1](/figuring-life-out-p1) to be very helpful. For instance, if you’re an [Obliger](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/), then you might want to find an accountability buddy that will help you stick to your weekly goals.
+If you'd like to dig deeper or prefer a more interactive learning experience, I recommend Taylor's online course [The Effective Entrepreneur](https://the-effective-entrepreneur.teachable.com/p/the-effective-entrepreneur). If you end up implementing this system, you will naturally come away with a number of goals, but goals are hard to stick to. And depending on your personality type, you respond to goals differently. For this, I found the ['Four Tendencies Framework’](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) by Gretchen Rubin, mentioned in [part 1](/figuring-life-out-p1) to be very helpful. For instance, if you’re an [Obliger](https://gretchenrubin.com/2013/10/what-kind-of-person-are-you-the-four-rubin-tendencies/) meaning you're more likely to stick to goals when you have external pressure, then finding an accountability buddy is a good way to help achieve the goals.
 
 ---
 
@@ -85,7 +87,7 @@ If you'd like to dig deeper or prefer a more interactive learning experience, I 
     alt="How to be Successful">
 </img><span style="font-size:0.7em">Source: [twitter.com](https://twitter.com)</span>
 
-[Sam Altman](https://twitter.com/sama) is a successful entrepreneur and angel investor, he is also a chairman at Y Combinator and OpenAI. I found his blog post on success a great read. In a way it summarises most of what is covered in this series. "As your career progresses, each unit of work you do should generate more and more results. There are many ways to get this leverage, such as capital, technology, brand, network effects, and managing people.”
+[Sam Altman](https://twitter.com/sama) is a successful entrepreneur and angel investor, he is also a chairman at Y Combinator and OpenAI. I found his blog post about "success" a great read. In a way it summarises most of what is covered in this series. "As your career progresses, each unit of work you do should generate more and more results. There are many ways to get this leverage, such as capital, technology, brand, network effects, and managing people.”
 
 ---
 
