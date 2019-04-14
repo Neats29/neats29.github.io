@@ -51,7 +51,7 @@ Taylor Pearson, the author of the book, argues that with tools such as cloud com
 
 I believe the title is intentionally provocative but the premise is how to create wealth and achieve financial freedom. Regardless of what your goals are, money is an inescapable aspect of modern life. Most of us exchange time for money, but this is mostly unsustainable. The moment you stop working, for instance due to a long term sickness or a career break, your income stream comes to a halt.
 
-To break out of this cycle, you need to build a system where your income is not directly dependent on the number of hours you work. In such a system, your "work" compounds over time, and works for you when you're not. An example is an app that is built once, but is distributed to thousands of people. Or a podcast that attracts opportunities while the host is asleep. The key is not to achieve money, but to achieve wealth. But really, the key is not even to achieve wealth, but to achieve freedom.
+To break out of this cycle, you need to build a system where your income is not directly dependent on the number of hours you work. In such a system, your "work" compounds over time, and works for you when you're not. An example is an app that is built once, but is distributed to thousands of people. Or a podcast that attracts opportunities while the host is asleep. The key is not to obtain money, but wealth. But really, the key is not even to obtain wealth, but freedom.
 
 ---
 
