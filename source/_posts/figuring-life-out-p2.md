@@ -7,7 +7,7 @@ cover_index: /assets/figure-2.jpg
 
 This is the second part of a series on figuring out what to do with your life. If you’d like to read part 1 of the series, you can read it [here](/figuring-life-out-p1). This part is a curation of my favourite resources on understanding how the world works in the context of work and success, from the perspective of those who have deeply reflected on it.
 
-But if there is only one thing to take away from this post, it it that figuring out what to do with your life is a *journey* not a destination. Everyone will experience doubt about whether they are on the right path or not; many times over. As new industries emerge, we all have to reinvent ourselves more than once. And managing one’s own career becomes a job in itself. The resources laid out here and in the last post, serve as tools to a) view things from a different standpoint and b) implement some sort of a system that feels natural to you.
+But if there is only one thing to take away from this post, it is that figuring out what to do with your life is a *journey* not a destination. Everyone will experience doubt about whether they are on the right path or not; many times over. As new industries emerge, we all have to reinvent ourselves more than once. And managing one’s own career becomes a job in itself. The resources laid out here and in the last post, serve as tools to a) view things from a different standpoint and b) implement some sort of a system that feels natural to you.
 
 <!-- Personally, the system that has work best for me is: -->
 <!--
@@ -24,7 +24,7 @@ Now on to the resources...
 
 <h1 style="font-size: 1.5em;">1. On Work:</h1>
 
-👉[The End of Jobs](https://taylorpearson.me/eojbook/) - ⏱️~5 hrs
+👉[The End of Job Book](https://taylorpearson.me/eojbook/) - ⏱️~5 hrs
 
 <img src="/figuring-life-out-p2/end.png"
     style="width: 50%;
@@ -32,7 +32,7 @@ Now on to the resources...
     alt="The End of Jobs">
 </img><span style="font-size:0.7em">Source: [taylorpearson.me](https://taylorpearson.me/eojbook)</span>
 
-It may sound cliche, but this is was one of those books that absolutely shifted my thinking. Depending on where you stand on entrepreneurship, you might already know the message of this book, which is, technology has made entrepreneurship "safer, more accessible, and more profitable than ever before".
+It may sound cliche, but this was one of those books that absolutely shifted my thinking. Depending on where you stand on entrepreneurship, you might already know the message of this book, which is, technology has made entrepreneurship "safer, more accessible, and more profitable than ever before".
 
 Taylor Pearson, the author of the book, argues that with tools such as cloud computing, Alibaba, and the ability to easily hire affordable talent as and when you need it on sites like Upwork, you no longer need huge upfront capital to get up and running. The biggest shift for me was learning that employment is now riskier than entrepreneurship, as [Naval](https://twitter.com/naval) says "If society can train you, it can train someone else, and replace you”. This takes us to the next recommendation.
 
