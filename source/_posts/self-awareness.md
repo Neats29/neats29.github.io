@@ -17,7 +17,7 @@ Passionate about the work of [Yuval Noah Harari](https://www.ynharari.com/), aut
 
 As the book came to an end, I was faced with the reality that I hadn’t taken my own self knowledge seriously enough. I was aware of the discrepancy between reality and my perception of it based on the feedback I had received. So I dove in and came across the book [Insight](http://insight-book.com/default.aspx) by [Tasha Eurich](http://insight-book.com/AboutTasha.aspx) who claims **"Self-awareness is the secret ingredient for success in the 21st century.”**
 
-<img src="/2018/12/28/self-awareness/insight.png"
+<img src="/self-awareness/insight.png"
     style="width: 60%;
     display: block;
     margin: auto;" alt="Insight book cover">

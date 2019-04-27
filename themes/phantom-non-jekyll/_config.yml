@@ -2,6 +2,7 @@
 menu:
   Home: /
   Start Here: /start-here
+  Subscribe: /subscribe
   Archives: /archives
 
 # Logo Image Source
@@ -38,4 +39,3 @@ twitter_url: https://twitter.com/Neats29
 instagram_url: https://www.instagram.com/Neats29
 github_url: https://github.com/Neats29
 email_url: mailto:baadge29@gmail.com
-

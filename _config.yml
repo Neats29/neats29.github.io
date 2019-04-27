@@ -93,3 +93,7 @@ deploy:
     ignore_pattern:
         public: .
 
+# stops markdown from adding <br> tags when adding html in markdown
+marked:
+  gfm: true
+  breaks: false

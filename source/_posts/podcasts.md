@@ -9,7 +9,7 @@ cover_index: /assets/podcasts.png
 Podcasts are like having a thousand different mentors available to you at your convenience. It is one of the things that makes me incredibly excited to be alive right now. I’ve made a list of some of the best episodes of my favourite podcasts.
 
 ## The Tim Ferriss Show
-<img src="/2019/01/24/podcasts/timferriss.jpeg"
+<img src="/podcasts/timferriss.jpeg"
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -37,7 +37,7 @@ ___
 
 
 ## The Waking Up podcast by Sam Harris
-<img src="/2019/01/24/podcasts/wakingup.jpeg"
+<img src="/podcasts/wakingup.jpeg"
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -55,7 +55,7 @@ ___
 
 
 ## After On by Rob Reid
-<img src="/2019/01/24/podcasts/afteron.jpg"
+<img src="/podcasts/afteron.jpg"
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -73,7 +73,7 @@ This is a very well put together podcast covering a wide range of topics such as
 ___
 
 ## The North Star podcast by David Perell
-<img src="/2019/01/24/podcasts/northstar.png" 
+<img src="/podcasts/northstar.png" 
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -90,7 +90,7 @@ This is a very fun and insightful podcast, especially when you consider how youn
 ___
 
 ## Anatomy of Next
-<img src="/2019/01/24/podcasts/anatomyofnext.jpg" 
+<img src="/podcasts/anatomyofnext.jpg" 
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -106,7 +106,7 @@ This is real life sci-fi. A hopeful reminder of what we are capable of as a race
 ___
 
 ## Found My Fitness By Rhonda Patrick
-<img src="/2019/01/24/podcasts/foundmyfitness.jpg" 
+<img src="/podcasts/foundmyfitness.jpg" 
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -120,7 +120,7 @@ All things health-related. Be prepared to hear some biochemistry jargon, but the
 
 <!-- ___ -->
 <!-- ## The Kevin Rose Show
-<img src="/2019/01/24/podcasts/kevinrose.jpg"
+<img src="/podcasts/kevinrose.jpg"
         style="width: 60%;
     display: block;
     margin: auto;"
@@ -134,7 +134,7 @@ ___
 
 ## The Drive by Peter Attia
 
-<img src="/2019/01/24/podcasts/drive.png" 
+<img src="/podcasts/drive.png" 
     style="width: 60%;
     display: block;
     margin: auto;"
@@ -152,7 +152,7 @@ Another health-related podcast focused on living better and longer. It is a new 
 ___
 
 ## Software Engineering Daily
-<img src="/2019/01/24/podcasts/softwareengineering.jpg" 
+<img src="/podcasts/softwareengineering.jpg" 
     style="width: 60%;
     display: block;
     margin: auto;"
