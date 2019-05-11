@@ -45,4 +45,4 @@ My name is Anita Amini and I’m a Software Developer. I love to learn and figur
 - [Podcasts that Make a Lasting Impact](/podcasts)
 
 
-<h1 style="font-size: 1.4em;">Twitter</h1> And finally, I’d love to connect on [Twitter](twitter.com/neats29): 
+<h1 style="font-size: 1.4em;">Twitter</h1> And finally, I’d love to connect on [Twitter](twitter.com/neats29).
