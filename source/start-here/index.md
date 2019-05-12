@@ -40,9 +40,9 @@ My name is Anita Amini and I’m a Software Developer. I love to learn and figur
 
 <h1 style="font-size: 1.4em;">Top Posts</h1>
 
-- [Why Self-Awareness Is the Most Important Skill to Develop](figuring-life-out-p1) 
-- Figuring Out What to Do With Your Life [Part 1](figuring-life-out-p1) and [Part 2](figuring-life-out-p2)
+- [Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness) 
+- Figuring Out What to Do With Your Life [Part 1](/figuring-life-out-p1) and [Part 2](/figuring-life-out-p2)
 - [Podcasts that Make a Lasting Impact](/podcasts)
 
 
-<h1 style="font-size: 1.4em;">Twitter</h1> And finally, I’d love to connect on [Twitter](twitter.com/neats29).
+<h1 style="font-size: 1.4em;">Twitter</h1> And finally, I’d love to connect on [Twitter](https://twitter.com/neats29).
