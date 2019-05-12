@@ -1,5 +1,5 @@
 ---
-title: Tim Urban - Wait But Why
+title: Wait But Why&#58; A List of Tim Urban's Best Ideas
 date: 2019-05-11 19:15:33
 tags:
 cover_index: /assets/wbw.jpg
@@ -7,7 +7,7 @@ cover_index: /assets/wbw.jpg
 
 Tim urban is an internet nerd.
 
-He was sent to this planet to observe a phenomenon, break it down to its absolute core elements and then describe it in a memorable way using analogies, diagrams and humour.
+He is my favourite blogger of all time, sent to this planet to observe a phenomenon, break it down to its absolute core elements and then describe it in a memorable way using analogies, diagrams and humour.
 
 He is a master at creating layers of abstraction. He introduces small building blocks and lines them up neatly until you come away with a deep understanding of a complex topic. So it’s not surprising that his posts are tens of thousands of words or more long. 
 
@@ -17,7 +17,7 @@ Let's cover some of his best ideas and abstraction layers.
 
 ---
 
-<h1 style="font-size: 2.1em;">Turbans</h1>
+<h1 style="font-size: 2.2em;">Turbans</h1>
 
 The name I use to call Tim Urban's ideas.
 
@@ -137,9 +137,9 @@ The instant gratification monkey is the creature responsible for procrastination
 
 ---
 
-<a href="https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html"><h1 style="font-size: 1.6em;">Social Survival Mammoth</h1><a>
+<a href="https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html"><h1 style="font-size: 1.6em;">The Social Survival Mammoth</h1><a>
 
-The social survival mammoth is yet another elegant abstraction creature that demonstrates why we are evolved to care so much about what others think.
+The social survival mammoth is yet another elegant abstraction character that demonstrates why we are evolved to care so much about what others think.
 
 <img src="/waitbutwhy/social-survival-mammoth.png"
     style="width: 90%;

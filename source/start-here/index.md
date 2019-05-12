@@ -4,7 +4,7 @@ date: 2019-04-27 13:10:22
 ---
 
 <img src="./index/me.jpg" 
-    style="width: 30%;
+    style="width: 40%;
     border: 1px solid grey;"
     alt="Anita Amini">
 </img>
