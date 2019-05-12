@@ -5,7 +5,7 @@ tags:
 cover_index: /assets/wbw.jpg
 ---
 
-Tim urban is an internet nerd.
+Tim Urban is an internet nerd.
 
 <img src="/waitbutwhy/tim.jpg"
     style="width: 80%;
