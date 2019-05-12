@@ -7,6 +7,12 @@ cover_index: /assets/wbw.jpg
 
 Tim urban is an internet nerd.
 
+<img src="/waitbutwhy/tim.jpg"
+    style="width: 80%;
+    display: block;"
+    alt="fooo">
+</img>
+
 He is my favourite blogger of all time, sent to this planet to observe a phenomenon, break it down to its absolute core elements and then describe it in a memorable way using analogies, diagrams and humour.
 
 He is a master at creating layers of abstraction. He introduces small building blocks and lines them up neatly until you come away with a deep understanding of a complex topic. So it’s not surprising that his posts are tens of thousands of words or more long. 
@@ -177,7 +183,7 @@ Curious layman
 
 --- -->
 
-<h1 style="font-size: 2.1em;">Why is Wait But Why different...</h1>
+<h1 style="font-size: 2.1em;">Why is Wait But Why Different...</h1>
 <!-- <h1 style="font-size: 2.1em;">Creating Abstraction Layers </h1> -->
 
 Tim disappears for months at a time. It's been a year since his last post, but creating abstraction layers requires incubation. To give you some perspective, I counted at least 14 layers of abstraction in [this](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) post.
