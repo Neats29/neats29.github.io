@@ -1,5 +1,5 @@
 ---
-title: Figuring Out What to Do With Your Life&#58; The Modern Day Dilemma - Part 2
+title: "Figuring Out What to Do With Your Life&#58; The Modern Day Dilemma - Part 2"
 date: 2019-04-11 22:23:34
 tags:
 cover_index: /assets/figure-2.jpg

@@ -1,5 +1,5 @@
 ---
-title: Wait But Why&#58; A List of Tim Urban's Best Ideas
+title: "Wait But Why: A List of Tim Urban's Best Ideas"
 date: 2019-05-11 19:15:33
 tags:
 cover_index: /assets/wbw.jpg
