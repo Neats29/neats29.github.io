@@ -188,10 +188,15 @@ Curious layman
 
 Tim disappears for months at a time. It's been a year since his last post, but creating abstraction layers requires incubation. To give you some perspective, I counted at least 14 layers of abstraction in [this](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) post.
 
-I’d like to imagine him in his writing cave, his right arm being pulled by the instant gratification monkey and his left arm pulled by the panic monster. Maybe once in a while he comes out of his cave at the request of his social survival mammoth, only to be sent back by his chef software. 
+Tim takes the reader on a journey by abstracting away concepts layer by layer. He dives into a concept, defines it really well, gives it an ingenious name, and then going forward, he only has to mention the name to summon the concept in the reader's mind. But what is particularly unique about Tim, is that when he is laying down the abstractions, they sometimes seem like tangents, maybe even insignificant at times. But their purpose becomes apparent later in the post when they serve as a powerful analogy or mental model. And having read many of his posts, I know Tim is very deliberate about which tangents are important to go on. 
 
+For example in the [Chef vs Cook](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) post, we are told about flood geologists and science geologists and how each group went on to "reconcile the large number of seemingly-very-old Earth features with the much shorter timeline of the Earth detailed in the Bible." At first it might seem like an unrelated detour in understanding musk's secret sauce. We're told, the flood geologists started off with the *fact* that "the Earth began 6,000 years ago and there was at one point an Earth-sweeping flood” whereas the scientists refused to take into account any assumptions unless they were backed by data. It turns out to be a perfect analogy for thinking about the concept of reasoning from first principles versus reasoning from analogy. 
 
-But it’s always worth the wait. 
+The most impactful aspect of Tim's abstraction method is how memorable they are. He taps into our naturally acute response to stories, images, humour and naming (categorisation). 
+
+When I'm eagerly waiting for his posts, I like to imagine him in his writing cave; his right arm being pulled by the instant gratification monkey and his left arm pulled by the panic monster. Maybe once in a while he comes out of his cave at the request of his social survival mammoth, only to be sent back by his chef software.
+
+But it’s always worth the wait.
 
 ---
 
