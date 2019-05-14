@@ -9,7 +9,14 @@ date: 2019-04-27 13:10:22
     alt="Anita Amini">
 </img>
 
-My name is Anita Amini and I’m a Software Developer. I love to learn and figure stuff out. Information Distillery is my online home, where I take information on interesting topics and my personal experiences and distil them to blog posts. If you are interested in being updated about new posts, please [subscribe](/subscribe).
+My name is Anita Amini and I’m a Software Developer in London. I love learning, climbing and deep conversations.
+
+I was born in Iran, but my family and I moved to London when I was 10. I ended up studying Pharmaceutical Science at University, because as any Asian kid knows, there is an expectation to study medicine or a branch of it. When I graduated, I started working in clinical trials but I didn't see a future in it. I finally started learning to code in my free time, which led to attending the [Founders & Coders](https://www.foundersandcoders.com/) bootcamp, radically changing my life. Now my dad wants to know how to learn to code! 
+
+Learning to code has shown me how life-changing access to the right information can be. Above all, the thing that brings me the most joy, is the __experience of learning__. What I love doing, is to take what I learn and distill it down to the fundamentals so that others can gain an understanding in a fraction of the time. This is why Information Distillery was born.
+
+If you are interested in hearing more from me, please [subscribe](/subscribe).
+
 
  <!-- Mailchimp Signup Form -->
  <div>
@@ -37,12 +44,19 @@ My name is Anita Amini and I’m a Software Developer. I love to learn and figur
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
  </div>
 
-
-<h1 style="font-size: 1.4em;">Top Posts</h1>
-
-- [Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness) 
-- Figuring Out What to Do With Your Life [Part 1](/figuring-life-out-p1) and [Part 2](/figuring-life-out-p2)
+<h1 style="font-size: 1.4em;">My Favourite Podcasts of All Time:</h1>
 - [Podcasts that Make a Lasting Impact](/podcasts)
 
 
-<h1 style="font-size: 1.4em;">Twitter</h1> And finally, I’d love to connect on [Twitter](https://twitter.com/neats29).
+<h1 style="font-size: 1.4em;">Stuff I Think About:</h1>
+- __Personal Development:__ [Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness)
+- __Work:__ Figuring Out What to Do With Your Life [Part 1](/figuring-life-out-p1) and [Part 2](/figuring-life-out-p2)
+- __Health & Inflammation:__ Coming soon
+
+<h1 style="font-size: 1.4em;">Connect With Me</h1> I’d love to connect on [Twitter](https://twitter.com/neats29). And if you're in the UK and want to climb, hit me up.
+
+<img src="./index/climb.jpg" 
+    style="width: 40%;
+    border: 1px solid grey;"
+    alt="Anita Amini">
+</img>
