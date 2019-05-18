@@ -22,7 +22,6 @@ If you are interested in hearing more from me, please [subscribe](/subscribe).
  <div>
     <form action="https://infodistillery.us20.list-manage.com/subscribe/post?u=23c86deb696792ce7c4cfac07&amp;id=7378bd40fd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
       <div id="mc_embed_signup_scroll">
-          <!-- <h2>Sign up for new posts</h2> -->
           <div>
               <input type="text" style="width: 50%;" name="FNAME" class="" id="mce-FNAME" placeholder="First Name">
               <div style="display: flex;">

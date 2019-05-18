@@ -7,6 +7,6 @@
 - For images that are to be used inside the post, save them in `source/_posts/<post name>` in order to compress them you can run something like: `for X in *.jpeg; do magick "$X" -scale 400x400 "$X"; done`
 
 - User `hexo server` to run
-
+- if `hexo` is not install globally you can run `npx hexo server` instead
 ---
 - To create a new page run `hexo new page <name>`
