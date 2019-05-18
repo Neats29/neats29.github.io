@@ -6,7 +6,7 @@ tags:
 ---
 Hello there 👋
 
-I’m starting a bi-weekly newsletter called “Distilled” where I write about cool stuff I’m learning about, as well as new posts on the blog. I hope you enjoy it.
+I’m starting a newsletter called “Distilled” where I write about cool stuff I’m learning about, as well as new posts on the blog. I hope you enjoy it.
 
 Let me know if there are any specific topics you’d like me to write about. And if you have any feedback, I’d love to hear your thoughts.
 
