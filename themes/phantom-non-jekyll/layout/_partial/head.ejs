@@ -43,10 +43,10 @@
     <!--Page Cover-->
     <% if(page.cover_index) { %>
         <meta property="og:image" content="<%= page.cover_index %>" />
-        <meta property="twitter:image" content="<%= page.cover_index %>" />
+        <meta property="twitter:image" name="twitter:image" content="<%= page.cover_index %>" />
     <% } else { %>
         <meta property="og:image" content="<%= theme.cover_index %>"/>
-        <meta property="twitter:image"" content="<%= theme.cover_index %>"/>
+        <meta property="twitter:image" name="twitter:image" content="<%= theme.cover_index %>"/>
     <% } %>
 
     <!-- Title -->
