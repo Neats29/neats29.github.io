@@ -4,16 +4,16 @@ cover_index: /assets/distilled.jpg
 date: 2019-05-18 15:05:34
 tags:
 ---
-Hello there 👋
+*I learn so I can live a better life; I distill them to save you time.*
 
 I’m starting a newsletter called “Distilled” where I write about cool stuff I’m learning about, as well as new posts on the blog. I hope you enjoy it.
-
-Let me know if there are any specific topics you’d like me to write about. And if you have any feedback, I’d love to hear your thoughts.
 
 # Personal Update
 I changed jobs recently and started working at [Echo Health](https://www.echo.co.uk/) this week. Echo is a UK-based online pharmacy startup that delivers your prescriptions free of charge. It makes receiving ongoing medications particularly easy. At Echo, almost every process from ordering medications from the supplier to dispensing and delivery uses tech in one way or another. It’s a well orchestrated system and I am excited to start contributing to it. I’ll be using The [Go language](https://golang.org/) and [React.js](https://reactjs.org/) to do this.
 
-Before that I had a glorious time off, camping in [Wales, UK](https://en.wikipedia.org/wiki/Wales), reading, writing and accidentally attending a brilliant magic act by [Magical Bones](https://www.instagram.com/magicalbones/). He told the story of [Henry Box Brown](https://en.wikipedia.org/wiki/Henry_Box_Brown) a 19th-century slave who had the ingenious idea of mailing himself in a wooden box to abolitionists in Philadelphia, rendering him free.
+Before that I had a glorious time off, camping in [Wales, UK](https://en.wikipedia.org/wiki/Wales), reading, writing and accidentally attending a brilliant magic act by [Magical Bones](https://www.instagram.com/magicalbones/). I was reading and writing at the [Wellcome Collection](https://wellcomecollection.org/) in London and as I was leaving I learned that there was a special event themed around magic, so I decided to stay.
+
+Magical Bones gave the most entertaining magic show of the night, doing a [backflip while catching the correct card mid-air](https://www.instagram.com/p/BrVhTS4FrTb/), for instance. But the most memorable was the story of [Henry Box Brown](https://en.wikipedia.org/wiki/Henry_Box_Brown). A 19th-century slave who had the ingenious idea of mailing himself in a wooden box to abolitionists in Philadelphia, rendering him free.
 
 <img src="/personal-update/henry-box.jpg"
     style="width: 80%;
@@ -38,13 +38,13 @@ Before that I had a glorious time off, camping in [Wales, UK](https://en.wikiped
 
 # Writing
 
-I started this project, Information Distillery, over the Christmas holidays in 2018 and since then I’ve been writing about a variety of topics I've learned about.
+My latest post is 👉[Wait But Why: A List of Tim Urban's Best Ideas](/waitbutwhy). Where I introduce my favourite blogger [Tim Urban’s](https://waitbutwhy.com) best ideas.
 <a href="/waitbutwhy"><img src="/personal-update/wbw.png"
     style="width: 90%;
     display: block;"
     alt="Climbing in Wales">
 </img></a>
-My latest post is 👉[Wait But Why: A List of Tim Urban's Best Ideas](/waitbutwhy). Where I introduce my favourite blogger [Tim Urban’s](https://waitbutwhy.com) best ideas.
+
 
 
 # Reading
@@ -78,31 +78,8 @@ Keith Rabois's career advice:
 *"Most physical pains are a manifestation of psychological pain."*
 
 ---
-<!-- If you liked this, consider [subscribing](/subscribe).
 
- <div>
-    <form action="https://infodistillery.us20.list-manage.com/subscribe/post?u=23c86deb696792ce7c4cfac07&amp;id=7378bd40fd" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-          <div>
-              <input type="text" style="width: 50%;" name="FNAME" class="" id="mce-FNAME" placeholder="First Name">
-              <div style="display: flex;">
-                <input type="email" style="width: 50%;" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address *" required>
-                <div style="width: 50%;">
-                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_23c86deb696792ce7c4cfac07_7378bd40fd" tabindex="-1" value=""></div>
-                  <div class="clear"><input type="submit" value="Sign up" style="margin-left: 20px;" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-                </div>
-              </div>
-              </br>
-              <div id="mce-responses" class="clear" style="font-style: italic;">
-                <div class="response" id="mce-error-response" style="display:none"></div>
-                <div class="response" id="mce-success-response" style="display:none"></div>
-              </div>
-          </div>
-          </div>
-    </form>
-    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
- </div> -->
-
+Let me know if there are any specific topics you’d like me to write about. And if you have any feedback, I’d love to hear your thoughts.
 
 <span style="font-size:0.7em">Cover image source: [thedld.com](thedld.com)</span>
 <p style="font-size:12px">18 May 2019</p>
