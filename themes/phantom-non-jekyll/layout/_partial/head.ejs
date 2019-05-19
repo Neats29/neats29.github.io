@@ -41,12 +41,12 @@
     <meta property="og:site_name" content="<%= config.title %>"/>
 
     <!--Page Cover-->
-    <% if(page.cover) { %>
-        <meta property="og:image" content="<%= page.cover %>" />
-        <meta property="twitter:image" content="<%= page.cover %>" />
+    <% if(page.cover_index) { %>
+        <meta property="og:image" content="<%= page.cover_index %>" />
+        <meta property="twitter:image" content="<%= page.cover_index %>" />
     <% } else { %>
-        <meta property="og:image" content="<%= theme.cover %>"/>
-        <meta property="twitter:image"" content="<%= theme.cover %>"/>
+        <meta property="og:image" content="<%= theme.cover_index %>"/>
+        <meta property="twitter:image"" content="<%= theme.cover_index %>"/>
     <% } %>
 
     <!-- Title -->
