@@ -2,8 +2,9 @@
 title: Distilled
 date: 2019-04-27 13:39:10
 ---
+*I learn so I can live a better life; I distill them to save you time.*
 
-I learn so I can live a better life; I distill them to save you time. This is my newsletter called __Distilled__ where I write about cool stuff I've learned and written about twice a month. At the core the topics I cover revolve around personal development, but do touch on others such as tech and health.
+This is my newsletter called __Distilled__ where I write about cool stuff I've learned and written about twice a month. At the core the topics I cover revolve around personal development, but do touch on others such as tech and health.
 
 
 ### __What to expect:__ 

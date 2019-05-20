@@ -1,7 +1,7 @@
 ---
 title: "Distilled - #1"
 cover_index: /assets/distilled.jpg
-date: 2019-05-18 15:05:34
+date: 2019-05-19 15:05:34
 tags:
 ---
 *I learn so I can live a better life; I distill them to save you time.*
@@ -9,7 +9,7 @@ tags:
 I’m starting a newsletter called “Distilled” where I write about cool stuff I’m learning about, as well as new posts on the blog. I hope you enjoy it.
 
 # Personal Update
-I changed jobs recently and started working at [Echo Health](https://www.echo.co.uk/) this week. Echo is a UK-based online pharmacy startup that delivers your prescriptions free of charge. It makes receiving ongoing medications particularly easy. At Echo, almost every process from ordering medications from the supplier to dispensing and delivery uses tech in one way or another. It’s a well orchestrated system and I am excited to start contributing to it. I’ll be using The [Go language](https://golang.org/) and [React.js](https://reactjs.org/) to do this.
+I changed jobs recently and started working at [Echo Health](https://www.echo.co.uk/) last week. Echo is a UK-based online pharmacy startup that delivers your prescriptions free of charge. It makes receiving ongoing medications particularly easy. At Echo, almost every process from ordering medications from the supplier to dispensing and delivery uses tech in one way or another. It’s a well orchestrated system and I am excited to start contributing to it. I’ll be using The [Go language](https://golang.org/) and [React.js](https://reactjs.org/) to do this.
 
 Before that I had a glorious time off, camping in [Wales, UK](https://en.wikipedia.org/wiki/Wales), reading, writing and accidentally attending a brilliant magic act by [Magical Bones](https://www.instagram.com/magicalbones/). I was reading and writing at the [Wellcome Collection](https://wellcomecollection.org/) in London and as I was leaving I learned that there was a special event themed around magic, so I decided to stay.
 
@@ -79,7 +79,7 @@ Keith Rabois's career advice:
 
 ---
 
-Let me know if there are any specific topics you’d like me to write about. And if you have any feedback, I’d love to hear your thoughts.
+Thanks for reading! Let me know if there are any specific topics you’d like me to write about. And if you have any feedback, I’d love to hear your thoughts. You can reply to this email or [tweet me](https://twitter.com/Neats29).
 
 <span style="font-size:0.7em">Cover image source: [thedld.com](thedld.com)</span>
-<p style="font-size:12px">18 May 2019</p>
+<p style="font-size:12px">19 May 2019</p>
