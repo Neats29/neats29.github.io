@@ -20,7 +20,7 @@ Magical Bones gave the most entertaining magic show of the night, doing a [backf
     display: block;"
     alt="Henry Box Brown">
 </img>
-<span style="font-size:0.7em">Henry Box Brown. Source: [Wikipedia](https://en.wikipedia.org/)</span>
+<span style="font-size:0.7em">Henry Box Brown. Source: [Wikipedia](https://en.wikipedia.org/wiki/Henry_Box_Brown)</span>
 
 <img src="/personal-update/wales.jpg"
     style="width: 80%;
