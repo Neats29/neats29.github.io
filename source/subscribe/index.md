@@ -4,6 +4,13 @@ date: 2019-04-27 13:39:10
 ---
 *I learn so I can live a better life; I distill them to save you time.*
 
+<img src="./index/me.png"
+    style="width: 80%;
+    display: block;
+    border: 1px solid black"
+    alt="Anita Amini">
+</img>
+
 This is my newsletter called __Distilled__ where I write about cool stuff I've learned and written about twice a month. At the core the topics I cover revolve around personal development, but do touch on others such as tech and health.
 
 
