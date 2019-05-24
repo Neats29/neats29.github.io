@@ -2,7 +2,7 @@
 title: Distilled
 date: 2019-04-27 13:39:10
 ---
-*I learn so I can live a better life; I distill them to save you time.*
+*I learn so I can live a better life; I distill the information to save you time.*
 
 <img src="./index/me.png"
     style="width: 80%;
@@ -11,7 +11,7 @@ date: 2019-04-27 13:39:10
     alt="Anita Amini">
 </img>
 
-This is my newsletter called __Distilled__ where I write about cool stuff I've learned and written about twice a month. At the core the topics I cover revolve around personal development, but do touch on others such as tech and health.
+This is my newsletter called __Distilled__ where I share the most fascinating things I've learned and blog posts I've written. Subscribe if you'd like to learn about personal development, the future of work, and technology.
 
 
 ### __What to expect:__ 
@@ -45,5 +45,3 @@ This is my newsletter called __Distilled__ where I write about cool stuff I've l
     </form>
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
  </div>
-
-You can unsubscribe whenever you like 🙂.
