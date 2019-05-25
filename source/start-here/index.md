@@ -4,19 +4,76 @@ date: 2019-04-27 13:10:22
 ---
 
 <img src="./index/me.jpg" 
-    style="width: 40%;
+    style="width: 60%;
     border: 1px solid grey;"
     alt="Anita Amini">
 </img>
 
 My name is Anita Amini and I’m a Software Developer in London. I love learning, climbing and deep conversations.
 
-I was born in Iran, but my family and I moved to London when I was 10. I ended up studying Pharmaceutical Science at University, because as any Asian kid knows, there is an expectation to study medicine or a branch of it. When I graduated, I started working in clinical trials but I didn't see a future in it. I finally started learning to code in my free time, which led to attending the [Founders & Coders](https://www.foundersandcoders.com/) bootcamp, radically changing my life. Now my dad wants to know how to learn to code! 
+__I am obsessed about personal development and managing one's own career. My mind is often preoccupied by finding the patterns common to those who excel at what they do.__
 
-Learning to code has shown me how life-changing access to the right information can be. Above all, the thing that brings me the most joy, is the __experience of learning__. What I love doing, is to take what I learn and distill it down to the fundamentals so that others can gain an understanding in a fraction of the time. This is why Information Distillery was born.
+__I am also fascinated by individuals who architect original life paths for themselves.__
 
-If you are interested in hearing more from me, please [subscribe](/subscribe).
+I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
 
+<!-- It's helpful for anyone; from those who would otherwise rely on a carer to collect their prescriptions, to millennials who are too used to getting everything delivered 😁. -->
+
+<!-- At Echo, I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on the [Ethereum](https://www.ethereum.org/) blockchain. -->
+
+<!-- I was born in Iran, but my family and I moved to London when I was 10. I ended up studying Pharmaceutical Science at University, because as any Asian kid knows, there is an expectation to study medicine or a branch of it. When I graduated, I started working in clinical trials but I didn't see a future in it. I finally started learning to code in my free time, which led to attending the [Founders & Coders](https://www.foundersandcoders.com/) bootcamp, radically changing my life. Now my dad wants to know how to learn to code! 
+
+Learning to code has shown me how life-changing access to the right information can be. Above all, the thing that brings me the most joy, is the __*experience of learning*__. What I love doing, is to take what I learn and distill it down to the fundamentals so that others can gain an understanding in a fraction of the time. This is why Information Distillery was born. -->
+---
+
+<h1 style="font-size: 1.4em;">Fun Facts</h1>
+
+- I was born in Iran 🇮🇷 but we later moved to London when I was 10 
+
+- I studied Pharmaceutical Science at University, but I changed careers in 2015 by learning to code at [Founders & Coders](https://www.foundersandcoders.com/)
+
+<!-- - My favourite thinkers are:
+  - [Naval](https://twitter.com/Naval), 
+  - [Sam Harris](https://twitter.com/SamHarrisOrg), 
+  - [Yuval Noah Harari](https://twitter.com/harari_yuval), 
+  - [Tim Urban](https://twitter.com/waitbutwhy) and 
+  - [Tim Ferriss](https://twitter.com/tferriss). -->
+- The best places I've visited: 
+  - Torres del Paine (Patagonia) in Chile 🇨🇱
+  - Hakone in Japan 🇯🇵
+  - Los Roques in Venezuela 🇻🇪
+  - Bryce Canyon and Zion Park in USA 🇺🇸
+
+
+- Superpower: __Picking up new skills and habits fast__:
+  - Securing my first coding job 7 months after I started learning to code
+  - Breaking into the blockchain space by learning about it in my spare time
+  - Going from not reading at all until the age of 21, to finishing at least 20 books a year
+
+---
+
+<h1 style="font-size: 1.4em;">Popular Posts</h1>
+
+<p style="display: block; margin:0; font-weight:bold;">👩‍💻 Career Management:</p>
+[Figuring Out What to Do With Your Life](/figuring-life-out-p1)
+
+<p style="display: block; margin:0; font-weight:bold;">💪 Personal Development:</p>
+[Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness)
+
+<p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
+[Wait But Why: A List of Tim Urban's Best Ideas](/waitbutwhy/)
+
+</br>
+
+<h1 style="font-size: 1.4em;">Favourite Podcasts of All Time</h1>
+
+🎙 [Podcasts that Make a Lasting Impact](/podcasts)
+
+---
+
+<h1 style="font-size: 1.4em;">Distilled</h1>
+
+If you are interested in learning together with me, I have a newsletter called [__Distilled__](/subscribe) where I share my learnings twice a month.
 
  <!-- Mailchimp Signup Form -->
  <div>
@@ -43,14 +100,9 @@ If you are interested in hearing more from me, please [subscribe](/subscribe).
     <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
  </div>
 
-<h1 style="font-size: 1.4em;">My Favourite Podcasts of All Time:</h1>
-- [Podcasts that Make a Lasting Impact](/podcasts)
+<!--End mc_embed_signup-->
+---
 
-
-<h1 style="font-size: 1.4em;">Stuff I Think About:</h1>
-- __Personal Development:__ [Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness)
-- __Work:__ Figuring Out What to Do With Your Life [Part 1](/figuring-life-out-p1) and [Part 2](/figuring-life-out-p2)
-- __Health & Inflammation:__ Coming soon
 
 <h1 style="font-size: 1.4em;">Connect With Me</h1> I’d love to connect on [Twitter](https://twitter.com/neats29). And if you're in the UK and want to climb, hit me up.
 
@@ -59,3 +111,4 @@ If you are interested in hearing more from me, please [subscribe](/subscribe).
     border: 1px solid grey;"
     alt="Anita Amini">
 </img>
+
