@@ -28,18 +28,18 @@ She coined the term **self-awareness unicorns** - alluding to the rareness of su
 In her research, she found that there are two types of self-awareness. Internal self-awareness and external self-awareness:
 
 #### Internally self-aware people know their:
-* values
-* passions
-* patterns
-* reactions
-* strengths and weaknesses
-* ideal environment
-* impact on others
+* Values
+* Passions
+* Patterns
+* Reactions
+* Strengths and Weaknesses
+* Ideal Environment
+* Impact on Others
 
 Their hallmark? they make choices that are compatible with the above.
 
 #### Externally self-aware people know:
-* how others see them
+* How Others See Them
 
 Their hallmark? they build stronger and more trusting relationships.
 
@@ -63,7 +63,7 @@ Perhaps the most powerful insight is the moment you come to the realisation that
 This is a compelling way to help reflect and amend your environment accordingly. This will help you determine which type of people to keep in your life and which types to avoid. Which type of situations to go into and which to avoid. Which type of activities to do and which to avoid. Since time is one of our most important assets, the implications are profound.
 
 - **"Ask *what*, not *why* questions”:**
-If you said something to a friend that you later regret, you may find yourself saying things like: why did I say that? Why do I always make a fool out of myself? Why didn’t I just think before I opened my month? Ruminating on a past behaviour by asking why you did X is never that productive. In face, research has shown that it negatively impacts our well-being and weakens our immune system. So instead if you ask, *what* questions, such as, what can I do to make her feel better, what can I do to avoid finding myself in this situation again? you will come up with solutions to improve the situation.
+If you said something to a friend that you later regret, you may find yourself saying things like: why did I say that? Why do I always make a fool out of myself? Why didn’t I just think before I opened my month? Ruminating on a past behaviour by asking why you did X is never that productive. In fact, research has shown that it negatively impacts our well-being and weakens our immune system. So instead if you ask, *what* questions, such as, what can I do to make her feel better, what can I do to avoid finding myself in this situation again? you will come up with solutions to improve the situation.
 
 - **Asking for feedback:**
 [Tasha](http://insight-book.com/AboutTasha.aspx) recommends finding a ‘loving critic’ such as a friend, family member, mentor etc, who is willing to give you honest feedback. Watch out though as some loved ones will only tell you what you want to hear, while others such as a competitive colleague might have a hidden motive. Once you find the right individual, plan a dinner with them and ask them what is the thing that annoys them most about you. For this to work well, you can’t get defensive, instead name the emotion and listen. They are giving you a gift and getting defensive will prevent them from telling you the full story, the parts that you desperately need to know.
