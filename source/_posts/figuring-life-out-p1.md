@@ -65,7 +65,7 @@ Make a list of all the things that you need and want (Tim refers to these as yea
 
 Written by [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker), the father of management thinking. He argues that by __knowing where you belong__, you can be highly effective.
 
-By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successfull careers are not planned, they develop when people are prepared for opportunities because they know their *strengths*, their *method of work* and their *values*. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
+By knowing where you belong, you will know which type of work to say yes to and which type to say no to, which team sizes you thrive in most, which type of environments positively stimulate you etc. "Successful careers are not planned, they develop when people are prepared for opportunities because they know their *strengths*, their *method of work* and their *values*. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer."
 
 If you know the following three things about yourself, then you will know where you belong:
 - Your strengths
