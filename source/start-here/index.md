@@ -13,7 +13,7 @@ My name is Anita Amini and I’m a Software Developer in London. I love learning
 
 __I am obsessed about personal development and managing one's own career. My mind is often preoccupied by finding the patterns common to those who excel at what they do.__
 
-__I am also fascinated by individuals who architect original life paths for themselves.__
+__I am also especially fascinated by individuals who architect original life paths for themselves.__
 
 I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
 
@@ -28,7 +28,7 @@ Learning to code has shown me how life-changing access to the right information 
 
 <h1 style="font-size: 1.4em;">Fun Facts</h1>
 
-- I was born in Iran 🇮🇷 but we later moved to London when I was 10 
+- I was born in Iran 🇮🇷, we later moved to London when I was 10 
 
 - I studied Pharmaceutical Science at University, but I changed careers in 2015 by learning to code at [Founders & Coders](https://www.foundersandcoders.com/)
 
@@ -48,7 +48,7 @@ Learning to code has shown me how life-changing access to the right information 
 - Superpower: __Picking up new skills and habits fast__:
   - Securing my first coding job 7 months after I started learning to code
   - Breaking into the blockchain space by learning about it in my spare time
-  - Going from not reading at all until the age of 21, to finishing at least 20 books a year
+  - Going from not reading at all until the age of 21, to becoming a book worm
 
 ---
 
