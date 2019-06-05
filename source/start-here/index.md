@@ -45,10 +45,10 @@ Learning to code has shown me how life-changing access to the right information 
   - Bryce Canyon and Zion Park in USA 🇺🇸
 
 
-- Superpower: __Picking up new skills and habits fast__:
-  - Securing my first coding job 7 months after I started learning to code
-  - Breaking into the blockchain space by learning about it in my spare time
-  - Going from not reading at all until the age of 21, to becoming a book worm
+- Superpower? __Picking up new skills and habits fast__:
+  - Secured my first coding job 7 months after I started learning to code
+  - Broke into the blockchain space by learning about it in my spare time
+  - Went from not reading at all until the age of 21, to becoming a book worm
 
 ---
 
