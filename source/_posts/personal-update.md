@@ -4,7 +4,7 @@ cover_index: /assets/distilled.jpg
 date: 2019-05-19 15:05:34
 tags:
 ---
-*I learn so I can live a better life; I distill them to save you time.*
+*I learn so I can live a better life; I distill the information to save you time.*
 
 I’m starting a newsletter called “Distilled” where I write about cool stuff I’m learning about, as well as new posts on the blog. I hope you enjoy it.
 
