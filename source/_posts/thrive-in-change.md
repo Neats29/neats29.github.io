@@ -37,11 +37,11 @@ Ultimately, the age of change rewards those who can:
 ---
 <h1 style="font-size: 1.5em;">1 - Problem Solving</h1>
 
-__What:__
+### __What__
 
 Problem-solving is the use of previous knowledge and experimentation to devise a solution to a problem. It requires one to use intuition, analytical thinking, and creativity to both understand problems, and respond to them with effective solutions. 
 
-__Why:__
+### __Why__
 
 In a constant environment where change is a rarity, such as on an assembly line, problem-solving is almost a redundant skill. Of course, problem-solving is not unique to the current age, otherwise it wouldn’t have evolved as a skill. But in the past, as long as a couple of individuals were good problem-solvers, the rest of the community could benefit. In our current environment however, where problems are constantly thrown at us like curveballs, not cultivating the skill means getting left behind.
 
@@ -67,7 +67,7 @@ One of the most essential skills within entrepreneurship is the skill of problem
 
 The world rewards those who dare to swim in the complex and chaotic world. 
 
-__How:__
+### __How__
 
 Cultivating the skill of problem-solving requires a mindset shift. It requires you to have the belief that you are capable of solving problems that you have not yet seen. This belief is strengthened by a) solving more problems and b) learning to depend on yourself and your tools:
 - Researching (Googling etc) effectively and knowing where to find answers
@@ -88,11 +88,11 @@ Individuals who are good at problem-solving tend to display the following charac
 
 "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” - Charlie Munger
 
-__What:__
+### __What__
 
 This skill is probably the most obvious of the four. Learning has always been an important skill of humanity and we are incredibly good at it. But as our world becomes more complex, the number of skills we have to learn in a lifetime, and the speed at which we have to learn them, is beyond humanity’s comfort zone.
 
-__Why:__
+### __Why__
 
 The job we will have in 20 years time likely doesn’t exist today, and we have to get comfortable with reinventing ourselves. As [Yuval Noah Harari](https://www.ynharari.com/), author of [21 Lessons for the 21st Century](https://www.ynharari.com/book/21-lessons/), says "In the 21st century you can't afford stability, if you try to hold on to some stable identity, job or world-view, you risk being left behind as the world flies by you with a woosh. To stay relevant, not just economically but above all socially, you will need the ability to constantly learn and reinvent yourself".
 
@@ -102,7 +102,7 @@ It wasn’t until I was 23 when I started learning to code—out of completely l
 
 Learning, really learning, has had an impact on my quality of life, confidence, job prospects, income, social capital and above all on how I perceive the world. I now view the world with a growth mindset, that most of the obstacles between me and what I want to achieve in the world, can be removed by learning.
 
-__How:__
+### __How__
 
 At least once a year, but ideally more frequently, set aside the time to think critically about where you want to be in the future. Picture the best version of yourself without limiting yourself. Understand that the thing that stands between you and that person is skills, habits and opportunities (luck).
 
@@ -123,11 +123,11 @@ In short:
 
 <h1 style="font-size: 1.5em;">3 - Self-awareness</h1>
 
-__What:__
+### __What__
 
 [Yuval Noah Harari](https://www.ynharari.com/), author of [21 Lessons for the 21st Century](https://www.ynharari.com/book/21-lessons/) points out "As biotech and machine learning improve it will never be easier to manipulate people's deepest emotions and desires, and it will become more dangerous than ever to just follow your heart. When Coca Cola, Amazon, Baidu or the government knows how to pull the strings of your heart and press the buttons of your brain, will you still be able to tell the difference between yourself and their marketing expert? To succeed at such a daunting task you will need to work very hard at getting to know your operating system better. To know what you are and what you want from life. This of course the oldest advice in the book, know thyself."
 
-__Why:__
+### __Why__
 
 In an age where little change happens in an entire generation, self-awareness is of little importance. Such a society is homogenous, meaning values are shared, and the path of getting from A to B is well-defined, and the number of total available paths are limited. Even if you attempt to determine your core values and interests in such a world, you likely won’t be able to find enough people in your neighbourhood with the same interests.
 
@@ -139,7 +139,7 @@ For example, the author of [Barking Up the Wrong Tree](https://www.amazon.co.uk/
 
 This reminds me of one of my favourite quotes by Peter Drucker, the father of modern management, “Successful careers are not planned, they develop when people are prepared for opportunities because they know their strengths, their method of work and their values. Knowing where one belongs can transform an ordinary person, hard working and competent but otherwise mediocre into an outstanding performer.” It’s striking though, how few of us are self-aware, yet how much the skill is neglected. As Tasha Eurich points out "95% of people think they’re self-aware, but only 10-15% actually are”.
 
-__How:__
+### __How__
 
 Yuval suggests meditation as the best technique to not only make sense of our rapidly changing world but to get to know ourselves. “How do you live in an age of bewilderment, when the old stories have collapsed, and no new story has yet emerged to replace them?...Clarity is power.” “Mediation is not an escape from reality. It is getting in touch with reality.” And a way to understand "your operating system”.
 
@@ -155,11 +155,11 @@ While Yuval suggests meditation as the main method to understand ourselves, Tash
 
 <h1 style="font-size: 1.5em;">4 - Empathy</h1>
 
-__What:__
+### __What__
  
 [This](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592359/) neuroscience research paper defines empathy as "the capacity to share and understand the thoughts and feelings of others”.
 
-__Why:__
+### __Why__
 
 Let’s talk about decision making. The age of change lends itself to a more complex world in which decision making becomes more challenging. Not to mention, the increase in the number of life-altering decisions you have to make, given how often individuals change jobs for instance.
 In a study carried out by [Careerbuilder](https://www.careerbuilder.com/share/aboutus/pressreleasesdetail.aspx?ed=12%2F31%2F2014&id=pr824&sd=5%2F15%2F2014), 45% of employees planned to stay with their employer for less than two years. Compare that to a few generations ago, where most people stayed in a job for decades. That means, less life-altering decisions.
@@ -172,7 +172,7 @@ In the past, life-long relationships were more prevalent and made up of the larg
 
 The less time you have to get the know someone, the more important it is to be empathetic and in tune to other people’s emotions. This makes you more trustworthy and likeable.
 
-__How:__
+### __How__ 
 
 - One of the best things you can do to become more empathetic is to listen intently
 - Show interest in other people, ask them questions about themselves

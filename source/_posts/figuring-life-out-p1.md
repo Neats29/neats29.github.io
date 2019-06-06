@@ -123,4 +123,6 @@ If we agree that life is a series of choices, and how we make them in a large pa
 You can read the summary of Ray Dalio's principles book but ultimately principles are unique to each person.
 
 ---
-Please let me know on [Twitter](https://twitter.com/Neats29) which of these you found useful and if you have come across others that you think should be on this list. To see the second part of this series click [here](/figuring-life-out-p1).
+Please let me know on [Twitter](https://twitter.com/Neats29) which of these you found useful and if you have come across others that you think should be on this list. To see the second part of this series click [here](/figuring-life-out-p2).
+
+## [PART 2](/figuring-life-out-p2)
