@@ -16,7 +16,7 @@ You’ve probably heard of the wheat and chessboard problem. As the legend goes,
     alt="Chessboard and wheat problem">
 </img><span style="font-size:0.7em">Source: [Wikipedia](https://en.wikipedia.org/wiki/Wheat_and_chessboard_problem)</span>
 
-Things seem uneventful until the second half of the chessboard, by the end there are 18 million trillion grains of rice. Ray Kurzweil has likened this to the exponential pace of technological progress, stating that __we are in the second half of the chessboard__.
+Things seem uneventful until the second half of the chessboard, by the end there are 18 million trillion grains of wheat. Ray Kurzweil has likened this to the exponential pace of technological progress, stating that __we are in the second half of the chessboard__.
 
 I’ve been on a quest to determine how we can turn such a rapid rate of change into an opportunity—in order to thrive rather than survive. I’ve been observing everyone I have worked with for the past number of years, from CEOs to the most junior employees. I have read 20+ books, and have listened to hundreds of hours of podcasts in service of this question. And I have found those who thrive in the age of change have 2-4 of the following four key skills:
 - Problem-solving
@@ -53,7 +53,7 @@ The following diagram is the Cynefin Framework developed by Dave Snowden as a ma
     alt="The Cynefin Framework">
 </img><span style="font-size:0.7em">Source: [researchgate.net](https://www.researchgate.net/figure/The-four-contexts-of-the-Cynefin-framework-When-in-disorder-the-actual-context-is-not_fig2_283194976)</span>
 
-In the book, [The End of Job Book](https://taylorpearson.me/eojbook/), Taylor Pearson uses it to explain how work has changed over the past few centuries. 
+In the book, [The End of Jobs](https://taylorpearson.me/eojbook/), Taylor Pearson uses it to explain how work has changed over the past few centuries. 
 
 He maps the different types of work to each quadrant as follows:
 - Simple, Best Practice: Agricultural and industrial
@@ -84,7 +84,7 @@ Individuals who are good at problem-solving tend to display the following charac
 
 ---
 
-<h1 style="font-size: 1.5em;">2 - Learning (the ability to learn, self-learn, and doing so often):</h1>
+<h1 style="font-size: 1.5em;">2 - Learning</h1>
 
 "I constantly see people rise in life who are not the smartest, sometimes not even the most diligent, but they are learning machines. They go to bed every night a little wiser than they were when they got up and boy does that help, particularly when you have a long run ahead of you.” - Charlie Munger
 
@@ -94,7 +94,7 @@ This skill is probably the most obvious of the four. Learning has always been an
 
 __Why:__
 
-The job we will have in 20 years time likely doesn’t exist today, and we have to get comfortable with reinventing ourselves. As Yuval Noah Harari, author of 21 Lessons for the 21st Century, says "In the 21st century you can't afford stability, if you try to hold on to some stable identity, job or world-view, you risk being left behind as the world flies by you with a woosh. To stay relevant, not just economically but above all socially, you will need the ability to constantly learn and reinvent yourself".
+The job we will have in 20 years time likely doesn’t exist today, and we have to get comfortable with reinventing ourselves. As [Yuval Noah Harari](https://www.ynharari.com/), author of [21 Lessons for the 21st Century](https://www.ynharari.com/book/21-lessons/), says "In the 21st century you can't afford stability, if you try to hold on to some stable identity, job or world-view, you risk being left behind as the world flies by you with a woosh. To stay relevant, not just economically but above all socially, you will need the ability to constantly learn and reinvent yourself".
 
 Personally, learning to learn has changed my life. I hated school most of my life and I couldn’t wait for adulthood to get me out of it. I was an average student. And although I found some subjects such as science really interesting, most of the time I studied for the grades. 
 
@@ -121,7 +121,7 @@ In short:
 
 ---
 
-<h1 style="font-size: 1.5em;">3 - Self-awareness:</h1>
+<h1 style="font-size: 1.5em;">3 - Self-awareness</h1>
 
 __What:__
 
@@ -153,7 +153,7 @@ While Yuval suggests meditation as the main method to understand ourselves, Tash
 
 ---
 
-<h1 style="font-size: 1.5em;">4 - Empathy:</h1>
+<h1 style="font-size: 1.5em;">4 - Empathy</h1>
 
 __What:__
  
