@@ -43,6 +43,7 @@ Learning to code has shown me how life-changing access to the right information 
   - Hakone in Japan 🇯🇵
   - Los Roques in Venezuela 🇻🇪
   - Bryce Canyon and Zion Park in USA 🇺🇸
+  - Weligama and Mirissa in Sri Lanka 🇱🇰
 
 
 - Superpower? __Picking up new skills and habits fast__:
