@@ -1,6 +1,6 @@
 ---
 title: 2019's Best Podcast Episodes For the Curious-Minded
-cover_index: /assets/
+cover_index: /assets/podcasts.jpeg
 date: 2019-12-15 09:45:47
 tags:
 ---
