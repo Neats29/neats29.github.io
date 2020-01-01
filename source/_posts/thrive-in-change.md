@@ -1,6 +1,6 @@
 ---
 title: How to Thrive in the Age of Change
-cover_index: /assets/thrive-in-change.jpg
+cover_index: /assets/thrive-in-change.jpeg
 date: 2019-06-05 21:28:37
 tags:
 ---
