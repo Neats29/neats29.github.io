@@ -1,11 +1,11 @@
 ---
-title: 2019's Best Podcast Episodes For the Curious-Minded
+title: 2019's Best Podcast Episodes For the Curiously Minded
 cover_index: /assets/podcasts.jpeg
 date: 2019-12-15 09:45:47
 tags:
 ---
-In no particular order I present my favourite podcast episodes of 2019. These conversations made me __*think*__, __*learn*__ and __*appreciate life*__.
 
+In no particular order I present my favourite podcast episodes of 2019. These conversations made me **_think_**, **_learn_** and **_appreciate life_**.
 
 <img src="/top-podcasts-2019/naval.jpeg"
     style="width: 60%;
@@ -13,7 +13,6 @@ In no particular order I present my favourite podcast episodes of 2019. These co
     margin: auto;"
     alt="Naval">
 </img>
-
 
 [How to Get Rich: Every Episode - Naval](https://nav.al/how-to-get-rich)
 
@@ -30,7 +29,6 @@ The podcast that broke the internet 😉. Based on Naval’s tweetstorm on creat
 [Mason Hartman: Building a Creative Society - The North Star Podcast](https://www.perell.com/podcast/mason-hartman)
 
 A thought-provoking conversation about education and more.
-
 
 ---
 
@@ -64,7 +62,6 @@ A thought-provoking conversation about education and more.
 On healing from trauma and living a creative lifestyle.
 
 ---
-
 
 [Kapil Gupta - Is It Possible To Stop Wasting One's Life - Crazy Wisdom](http://crazywisdom.libsyn.com/kapil-gupta-is-it-possible-to-stop-wasting-ones-life)
 
