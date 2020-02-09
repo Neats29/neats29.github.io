@@ -1,7 +1,7 @@
 ---
 title: Barking Up the Wrong Tree (Book Summary)
 cover_index: /assets/barking-bw.jpeg
-open_graph_image: ../assets/barking.jpeg
+open_graph_image: https://infodistillery.com/assets/barking.jpeg
 date: 2020-02-09 09:11:16
 tags:
 ---
