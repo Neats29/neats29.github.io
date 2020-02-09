@@ -377,7 +377,7 @@ Third "you need a plan or you’re always going to feel like you’re not doing 
 As mentioned at the start of this post, the takeaway message is alignment. "When you align your values with the employment of your signature skills in a context that reinforces these same strengths, you create a powerful and emotional engaging force for achievement, significance, happiness and legacy. When your internal choice of success goals, aligns with the group in which you operate, rewards are even higher.”
 
 
-**“How do you find alignment? Know thyself.”**
+**“How do you find alignment? Know thyself.”** (Read my post on [self-awareness](/self-awareness) if interested.)
 
 - What are your intensifiers?
 - Are you a taker, giver or matcher? 
