@@ -1,11 +1,11 @@
 ---
 title: Barking Up the Wrong Tree (Book Summary)
-cover_index: /assets/
+cover_index: /assets/barking-bw.jpeg
 date: 2020-02-09 09:11:16
 tags:
 ---
 
-I’ve always been fascinated with contradictions and dichotomies such as "live in the moment" Vs "play the long game". The answer however, is always vague and abstract.
+I’ve always been fascinated with contradictions and dichotomies such as "live in the moment" vs. "play the long game". The answer however, is always vague and abstract.
 
 I’ve been searching for answers, one dichotomy at the time. But last year I came across a book, Barking Up the Wrong Tree, that has research-backed answers to six of these contradictions, maxims or expressions.
 
@@ -188,7 +188,7 @@ Research shows that “will-power is like a muscle, it gets tired with overuse, 
 - Are you optimistic? If not, look at your explanatory style. When things seem high risk and low reward, be pessimistic; when they seem high risk and high reward, be optimistic
 - "Do you have a meaningful story? If not, think about that eulogy. Write down your story."
 - "Have you made it a game? If not, use WNGF"
-- If you are a grit machine, remove 5-10% of the useless activities and use them to try little experiments
+- "If you are a grit machine, remove 5-10% of the useless activities and use them to try little experiments"
 - "Have you added some little bets? Try, fail and learn"
 
 ---
@@ -199,13 +199,13 @@ Research shows that “will-power is like a muscle, it gets tired with overuse, 
 
 
 
-<h1 style="font-size: 1.3em;">Extroverts vs Introverts</h1>
+<h1 style="font-size: 1.3em;">Extroverts vs. Introverts</h1>
 
 Research shows extroverts make more money. "60% of top executives are highly extroverted, unlike 16% of the general public being extroverted." "You don't need to know more to be a leader. You just need to speak often and speak early. Research shows, extroverts are luckier, happier, get more promotions, get jobs more quickly, and are more likely to become leaders."
 
 "Introverts on the other hand, are much more likely to become experts." They also have better listening skills. If you’re an introvert, you might find it hard to network. But "instead of networking, just make friends." "Don't be transactional, it’s better to give than receive." Research shows, "asking others questions about themselves creates a bond as strong as a life-long friendship in a surprisingly short amount of time." "Offer to help people, be a giver. Making time is the most fundamental way to show someone is important to you and you care."
 
-In addition to having a strong social network, it’s vital to have a mentor. "Entrepreneurs with mentors raise 7X more money and their companies see 3.5X more growth."
+In addition to having a strong social network, it’s vital to have a mentor. "Entrepreneurs with mentors raise 7x more money and their companies see 3.5x more growth."
 
 <h1 style="font-size: 1.3em;">How to Find a Mentor</h1>
 
@@ -236,7 +236,7 @@ Both of you will be happier as a result. If you really can’t meet in person, t
 - Find a mentor. Have more than one for different areas of your life 
 - Use “acceptance, caring and patience” when dealing with family and coworkers 
 - "Ask for help from those above you and share your Twinkies with those below you”
-- "Your network affects you, make sure it's a good one. They can make you happier, healthier and more successful.” In other words, "The groups you associate with determine the person you become"
+- "The groups you associate with determine the person you become"
 - Express gratitude
 
 ---
@@ -312,7 +312,7 @@ If you lack confidence, then:
 
 <h1 style="font-size: 1.3em;">The Threshold Hypothesis</h1>
 
-When you look at eminent people, the majority are smarter than average. But "As long as you pass the 120 IQ mark, many studies show more IQ points have little effect", what makes the difference is all the extra hours, not luck. 
+When you look at eminent people, the majority are smarter than average. But "as long as you pass the 120 IQ mark, many studies show more IQ points have little effect", what makes the difference is all the extra hours, not luck. 
 
 "One of the 5 regrets of people on their deathbed is I wish I didn't work so hard. But things change when you find work meaningful."
 
@@ -325,9 +325,9 @@ When people do meaningful work it feels more like play.
 
 <h1 style="font-size: 1.3em;">The Case Against Working Long Hours</h1>
 
-"In general over-work is bad for you. It’s correlated with reduced exercise, fewer visits to the doctor and more smoking." What’s more "those of us who aren't in our dream jobs, have far more to lose and less to gain from long hours.
+"In general over-work is bad for you. It’s correlated with reduced exercise, fewer visits to the doctor and more smoking." What’s more "those of us who aren't in our dream jobs, have far more to lose and less to gain from long hours."
 
-“Creativity comes from being relaxed, not being stressed and overworked. To really be creative you need to step out of that hyper-focused state of tension and let your mind wander." "Focus less on hours and more on doing what it takes to make sure you’re at your best.” As Author Tony Schwartz points out “energy, not time is the fundamental currency of high performance.”
+“Creativity comes from being relaxed, not being stressed and overworked. To really be creative you need to step out of that hyper-focused state of tension and let your mind wander." "Focus less on hours and more on doing what it takes to make sure you’re at your best.” As author Tony Schwartz points out “energy, not time is the fundamental currency of high performance.”
 
 
 <h1 style="font-size: 1.3em;">So What Can We Do</h1>
@@ -379,7 +379,20 @@ As mentioned at the start of this post, the takeaway message is alignment. "When
 
 **“How do you find alignment? Know thyself.”**
 
-“What are your intensifiers? Are you a taker, giver or matcher? Are you introverted or extroverted? Underconfident or overconfident? Which of the big 4 do you naturally fulfil and which do you consistently neglect? Align those qualities with the world around you. Pick the right pond. Find a job that leverages your intensifiers. Create a story that keeps you going. Make little bets that expand your horizons. Use WOOP to turn your dreams into realities.”
+- What are your intensifiers?
+- Are you a taker, giver or matcher? 
+- Are you introverted or extroverted? 
+- Underconfident or overconfident? 
+- Which of the big 4 do you naturally fulfil and which do you consistently neglect? Align those qualities with the world around you. 
+- Pick the right pond. 
+- Find a job that leverages your intensifiers. 
+- Create a story that keeps you going. 
+- Make little bets that expand your horizons. 
+- Use WOOP to turn your dreams into realities.
 
 
 And “the most important type of alignment? Being connected to a group of friends and loved ones who help you become the person you want to be. The only thing that really matters in life, are your relationships to other people.”
+
+---
+
+If you enjoyed this post let me know on [Twitter](twitter.com/neats29). Which of these tips did you found useful? I would love your feedback!
