@@ -46,9 +46,9 @@
 
     <!--Page Cover-->
     <% if(page.cover_index) { %>
-    <meta property="og:image" content="<%= page.open_graph_image %>" />
-    <meta name="og:image" content="<%= page.open_graph_image %>" />
-    <meta name="twitter:image" content="<%= page.open_graph_image %>" />
+    <meta property="og:image" content="https://infodistillery.com<%= page.cover_index %>" />
+    <meta name="og:image" content="https://infodistillery.com<%= page.cover_index %>" />
+    <meta name="twitter:image" content="https://infodistillery.com<%= page.cover_index %>" />
     <% } else { %>
     <meta name="og:image" content="<%= theme.cover_index %>" />
     <meta name="twitter:image" content="<%= theme.cover_index %>" />
