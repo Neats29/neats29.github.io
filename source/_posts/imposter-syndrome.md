@@ -88,8 +88,8 @@ Disclaimer: this is my personal observations of imposter syndrome that may not a
 
 You can read about blog posts written by the developers we put on pedestals who themselves suffer from imposter syndrome and admit to not knowing everything.
 
-David Walsh - [I’m an imposter](https://davidwalsh.name/impostor-syndrome)
-Dan Abramov - [Things I don’t know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
+- David Walsh - [I’m an imposter](https://davidwalsh.name/impostor-syndrome)
+- Dan Abramov - [Things I don’t know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
 
 <p style="font-size:12px">13 January 2019</p>
