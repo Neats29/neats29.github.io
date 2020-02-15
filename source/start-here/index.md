@@ -9,11 +9,11 @@ date: 2019-04-27 13:10:22
     alt="Anita Amini">
 </img>
 
-My name is Anita Amini and I’m a Software Developer in London. I love learning, climbing and deep conversations.
+My name is Anita Amini and I’m a Software Engineer in London. I love learning, climbing and deep conversations.
 
-__I am obsessed about personal development and managing one's own career. My mind is often preoccupied by finding the patterns common to those who excel at what they do.__
+__My favourite thing is to learn, in order to live life intentionally. My second favourite thing is to distill that information and share my experience with others; hence this blog 😀.__
 
-__I am also especially fascinated by individuals who architect original life paths for themselves.__
+<!-- __I am also especially fascinated by individuals who architect original life paths.__ -->
 
 I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
 
@@ -30,7 +30,7 @@ Learning to code has shown me how life-changing access to the right information 
 
 - I was born in Iran 🇮🇷, we later moved to London when I was 10 
 
-- I studied Pharmaceutical Science at University, but I changed careers in 2015 by learning to code at [Founders & Coders](https://www.foundersandcoders.com/)
+- I studied Pharmaceutical Science at university, but I changed careers in 2015 by learning to code at [Founders & Coders](https://www.foundersandcoders.com/) – the most life altering decision of my life!
 
 <!-- - My favourite thinkers are:
   - [Naval](https://twitter.com/Naval), 
@@ -46,29 +46,31 @@ Learning to code has shown me how life-changing access to the right information 
   - Weligama and Mirissa in Sri Lanka 🇱🇰
 
 
-- Superpower? __Picking up new skills and habits fast__:
+- Superpower – __picking up new skills and habits fast__:
   - Secured my first coding job 7 months after I started learning to code
   - Broke into the blockchain space by learning about it in my spare time
   - Went from not reading at all until the age of 21, to becoming a book worm
 
 ---
 
-<h1 style="font-size: 1.4em;">Popular Posts</h1>
+<h1 style="font-size: 1.4em;">Top Posts</h1>
 
 <p style="display: block; margin:0; font-weight:bold;">👩‍💻 Career Management:</p>
-[Figuring Out What to Do With Your Life](/figuring-life-out-p1)
+- [Figuring Out What to Do With Your Life](/figuring-life-out-p1)
+- [How to Thrive in the Age of Change](/thrive-in-change)
+- [Barking up the Wrong Tree (book summary on the science of success)](/barking)
 
 <p style="display: block; margin:0; font-weight:bold;">💪 Personal Development:</p>
-[Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness)
+- [Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness)
+- [How to Overcome Imposter Syndrome](/imposter-syndrome)
+- [On Shedding Identity](/identity)
 
 <p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
-[Wait But Why: A List of Tim Urban's Best Ideas](/waitbutwhy/)
+- [Wait But Why: A List of Tim Urban's Best Ideas](/waitbutwhy)
+- [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
+- [Podcasts that Make a Lasting Impact](/podcasts)
 
 </br>
-
-<h1 style="font-size: 1.4em;">Favourite Podcasts of All Time</h1>
-
-🎙 [Podcasts that Make a Lasting Impact](/podcasts)
 
 ---
 
@@ -105,11 +107,4 @@ If you are interested in learning together with me, I have a newsletter called [
 ---
 
 
-<h1 style="font-size: 1.4em;">Connect With Me</h1> I’d love to connect on [Twitter](https://twitter.com/neats29). And if you're in the UK and want to climb, hit me up.
-
-<img src="./index/climb.jpg" 
-    style="width: 40%;
-    border: 1px solid grey;"
-    alt="Anita Amini">
-</img>
-
+<h1 style="font-size: 1.4em;">Connect With Me</h1> I’d love to connect on [Twitter](https://twitter.com/neats29) or meet IRL.
