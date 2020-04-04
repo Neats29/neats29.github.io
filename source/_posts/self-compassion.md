@@ -5,7 +5,7 @@ date: 2020-04-02 20:59:10
 tags:
 ---
 
-In 2019 I had a transformative psychedelic experience. I went into it with the intention to gain insight to the source of my ‘self-doubt’, something I’ve suffered from for many years.
+In 2019 I had a transformative psychedelic experience that set me off on a journey. I went into it with the intention to gain insight to the source of my ‘self-doubt’, something I’ve suffered from for many years.
 
 20 minutes in, I was giggling and laughing uncontrollably. I was secured on a rollercoaster looking over the first plunge.
 
@@ -31,8 +31,6 @@ Throughout the journey, I kept pendulating between laughing hysterically and cry
 I tried to ignore it until it became front and centre. It hit me like an asteroid. I felt...viscerally in fact, that _I didn’t like myself_. It was a total shock. It both upset me and confused me. It was a brand new feeling. How could I have been blind to this my whole life? How long has it been buried in my psyche? Then it dawned on me that this must be the source of my self-doubt.
 
 A couple hours went by and I got hungry. I went to get some food and I saw that ‘past-me’, ‘sober-me’, had left me a sandwich in case I got hungry. I felt a surge of emotions coming down on me and my heart began to shatter into pieces. I sat down on the kitchen floor sobbing. I felt loved and cared for by ‘past-me’, and for the first time during the trip, I began to see that loving myself was possible. If past-me, had loved *me*, the _current_ me, then maybe I could love myself in the present too. Once I saw, really saw, that I didn’t love myself I was able to see how my behaviour, such as my constant pursuit for personal development, was driven by that fact. And when I saw _that_, I was able to see the behaviours of others that were driven by _their_ lack of self-love.
-
-I realised that this was also the reason I hold myself back. A phenomenon I’ve witnessed in at least two areas of my life, climbing and coding. When I approach the edge of my skill, the internal dialogue turns pessimistic and fills me with conviction that I can’t do it. It usually takes an external force, such as friends encouraging me to climb a route I considered undoable, or having to actually complete a task at work, to realise that I can in fact do it. It’s like the curtain has been pulled and I’m confronted by all the areas of my life that have suffered because of not loving myself.
 
 I’m also noticing that the search for self-love is a global phenomenon. This is part of the reason why we see an increased interest in meditation, psychedelics, breathwork, yoga, trauma, mental health, crying (#sobsquad) etc. We are reaching a tipping point where we need tools to let us handle our heightened feelings of inadequacy. As Tara Brach points out in her book Radical Self-Acceptance, “there is a constant gap between who we are and who we think we should be, which makes us feel terrible about ourselves.”
 
@@ -94,7 +92,7 @@ Shame is an evolutionary tool for belonging, “when shame is healthy, it spurs 
 
 In order to fully love, we need trust. When we have shame that we are not good enough to belong, we fail to instil trust in ourselves. So we look outwards. Instead of reflecting within to reason through the shame, we seek advice and guidance from people who we assume ‘belong’. And the more we rely on external sources, the less we trust ourselves. We perpetuate the reputation we have with ourselves as someone who has repeatedly failed to belong. 
 
-I am constantly amazed that I have far more answers in me than I assume. But due to this reputation of not belonging, I am not who I turn to for guidance. This is not to say that we should never turn to others for direction. But it’s like when you ask a close friend for help, they may not be a therapist, but they know you well and often know what you need. Developing trust in ourselves is the same, it’s about relying on ourselves for guidance while acknowledging that we don’t know everything and have blindspots. 
+I am constantly amazed that I have far more answers in me than I assume. But due to this reputation of not belonging, I am not who I turn to for guidance. This is not to say that we should never turn to others for direction. But it’s like when you ask a close friend for help, they may not be a therapist, but they know you well and often know what you need. Developing trust in ourselves is the same, it’s about relying on ourselves for guidance while acknowledging that we have blindspots. 
 
 If we don’t trust ourselves, we can’t truly love ourselves. **Love in the absence of trust, is inundated with fear.**
 
@@ -107,7 +105,7 @@ Ultimately, needlessly apologising stems from the need to not be disliked. It’
 While men self-identify as having significantly [higher levels of self-compassion](https://self-compassion.org/wp-content/uploads/2018/12/Yarnell2018.pdf), they are [less likely to seek help](https://self-compassion.org/wp-content/uploads/2017/01/Wasylkiw2016.pdf) for mental health concerns, leading them to suffer in silence.
 
 
-Overall, [self-awareness](/self-awareness) is one of the best tools. In the case of needless apologising, I’ve found the mere act of continually noticing the behaviour in myself and others, has made me less apologetic.
+Overall, [self-awareness](/self-awareness) is one of the best tools. In the case of apologising needlessly, I’ve found the mere act of continually noticing the behaviour in myself and others, has made me less apologetic.
 
 
 <h1 style="font-size: 1.6em;">How to Develop Self-Compassion</h1>
@@ -122,7 +120,7 @@ Here’s what I’ve learned about defusing self-criticism:
 Since so much of shame is centred around how we fear others perceive us, reminding myself that others think a whole lot less about me than I imagine, has helped a lot.
 
 
-The other lesson I’ve learned about self-criticism has had a huge impact on me. Every time I remind myself of this, my self-criticism disappears. 
+The other lesson I’ve learned about self-criticism has had a huge impact on me. Every time I remind myself of this, my self-criticism disappears. And that is: 
 
 **Self-criticism is part self-indulgence.**
 
@@ -132,28 +130,28 @@ Because the critic says, _I’m_ the problem, not my _regimen_.
 
 The problem with saying “_I’m_ the problem” is, it’s too unspecific, so it hampers change. For instance, I often get down on myself at my rate of progress in climbing. But then I counted how many times I’d climbed in the last year and realised I’d climbed half as many times as I thought. 
 
-This was eye-opening. I just had to train _more_ rather than lament over why I had failed to improve (which wasn’t completely true in itself). So now the moment I begin to get down myself, I am reminded that if I want a different output I will need to alter the input. I also realised there was a conflict of desires. On one hand, I wanted to be better at climbing but on the other hand I wasn’t prepared to significantly increase the frequency of my sessions. And once I saw this conflict of desires, I started seeing it in other areas of my life. Weirdly enough, this has had a huge impact on dampening the self-criticism. The key is in deciding which of the two conflicting desires I am to be swayed by. Once I know that, I can make peace with letting go of the other. Until my priorities change, at which point I can decide once again which desire is stronger. Rinse and repeat.
+This was eye-opening. I just had to train _more_ rather than lament over having plateaued. So now the moment I begin to get down myself, I am reminded that if I want a different output I will need to alter the input. I also realised there was a conflict of desires. On one hand, I wanted to be better at climbing but on the other hand I wasn’t prepared to significantly increase the frequency of my sessions. And once I saw this conflict of desires, I started seeing it in other areas of my life. Weirdly enough, this has had a huge impact on dampening the self-criticism. The key is in deciding which of the two conflicting desires I am to be swayed by. Once I know that, I can make peace with letting go of the other. Until my priorities change, at which point I can decide once again which desire is stronger. Rinse and repeat.
 
 
 <h1 style="font-size: 1.3em;">Common Humanity</h1>
 
 According to Kristin Neff, “one of the most important elements of self-compassion is the recognition of our shared humanity.” So much of the shame targeted at our inadequacies comes from the incorrect assumption that we are alone in that shortcoming. While we acknowledge that others have flaws, for each of our inadequacies we have someone masterful to compare ourselves to. We cherry pick evidence to support our case. But “when we’re in touch with our common humanity, we remember that feelings of inadequacy and disappointment are universal. 
 
-How can I be so harsh with myself for something that is a perfectly normal human experience?
+How can I be so harsh with myself for things that are part of the human experience?
 
 
 <h1 style="font-size: 1.3em;">Helpful Exercises</h1>
 
 <h1 style="font-size: 1.2em;">1. RAIN</h1>
 
-I’ve been reading Tara Brach’s book, Radical Compassion about...you guessed it, self-compassion. In it, she describes a framework referred to as [RAIN](https://www.tarabrach.com/rain/), in order to deal with self-criticism, guilt, blame, and other negative emotions, in particular (but not restricted to) emotions directed at oneself. The idea is to practice RAIN when you catch yourself feeling negative emotions.
+I’ve been reading Tara Brach’s book, Radical Compassion about self-compassion. In it, she describes a framework referred to as [RAIN](https://www.tarabrach.com/rain/), in order to deal with self-criticism, guilt, blame, and other negative emotions, in particular (but not restricted to) emotions directed at oneself. The idea is to practice RAIN when you catch yourself feeling negative emotions.
 
 These are the steps: 
 
-- Recognise: what is happening inside me?
-- Allow: can I be with this?
-- Investigate: what is really happening inside me?
-- Nurture: can I be with this, with kindness?
+- **Recognise:** what is happening inside me?
+- **Allow:** can I be with this?
+- **Investigate:** what is really happening inside me?
+- **Nurture:** can I be with this, with kindness?
 
 Doing RAIN feels amazing. The ‘nurtur’ step is key in developing self-compassion. “Discover what best allows you to feel nurturing, what best allows the most vulnerable part of you to feel loved, seen and/or feel safe. Spend as much time as you need offering care inwardly and letting it be received.” 
 
@@ -176,3 +174,4 @@ And the list goes on.
 
 **I can’t think of anything having more positive downstream effects than learning to love ourselves.**
 
+<!-- <p style="font-size:12px">04 April 2020</p> -->
