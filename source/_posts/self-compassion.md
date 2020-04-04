@@ -1,6 +1,6 @@
 ---
 title: My Psychedelic Journey to Self-Compassion 
-cover_index: /assets/me.jpg
+cover_index: /assets/ceiling.jpeg
 date: 2020-04-02 20:59:10
 tags:
 ---
