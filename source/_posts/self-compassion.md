@@ -5,9 +5,9 @@ date: 2020-04-02 20:59:10
 tags:
 ---
 
-In 2019 I had a transformative psychedelic experience that set me off on a journey. I went into it with the intention to gain insight to the source of my ‘self-doubt’, something I’ve suffered from for many years.
+A few months ago I had a transformative psychedelic experience that set me off on a journey. I went into it with the intention to gain insight to the source of my ‘self-doubt’, something I’ve suffered from for many years.
 
-20 minutes in, I was giggling and laughing uncontrollably. I was secured on a rollercoaster looking over the first plunge.
+Several minutes in, I was giggling and laughing uncontrollably. I was secured on a rollercoaster looking over the first plunge.
 
 Then I closed my eyes and started seeing traditional wooden door carvings from Iran.
 
