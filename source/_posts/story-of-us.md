@@ -179,7 +179,7 @@ When humans are scared, they form **giants.**
 </img>
 
 <img src="/story-of-us/c9.png"
-    style="width: 80%;
+    style="width: 90%;
     display: block;
     margin: auto;" alt="Me against my brother comic">
 </img>
@@ -215,7 +215,7 @@ When humans are scared, they form **giants.**
 </img>
 
 <img src="/story-of-us/c15.png"
-    style="width: 80%;
+    style="width: 70%;
     display: block;
     margin: auto;" alt="Me against my brother comic">
 </img>
