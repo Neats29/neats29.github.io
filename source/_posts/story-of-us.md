@@ -220,6 +220,8 @@ When humans are scared, they form **giants.**
     margin: auto;" alt="Me against my brother comic">
 </img>
 
+Once the threat disappears, tribalism melts away and the individuals go back down the emergence tower.
+
 ---
 
 <h1 style="font-size: 1.6em;">Stories</h1>
@@ -353,4 +355,4 @@ A common theme across human history is "humans bullying other humans", if you ha
 
 And this is how we were able to push past the limit on tribe size and have millions of people cooperating in a country.
 
-
+The next few chapters in the series cover the founding of America, the media, and the different ways of thinking. If you'd like me to summarise the next parts please let me know on [Twitter](https://twitter.com/neats29), I'd love to hear from you.
