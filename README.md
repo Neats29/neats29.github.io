@@ -1,6 +1,6 @@
 - To create a new post run `hexo new <post name>` the name will be the title and the url path but you can change the title that appears on the actual post in the yaml config on top of the post
 
-- Work off of the `develop` branch but don't merge into master, when you want to publish the post run `hexo generate -d` from the develop branch, this will take the latest from develop, and push it to github, on master it will have the generated files instead.
+- Work off of the `develop` branch but don't merge into master, when you want to publish the post, commit and run `hexo generate -d` from the develop branch, this will take the latest from develop, and push it to github, on master it will have the generated files instead.
 
 - Use imagemagick to compress imagery. Such as `magick IMG.jpg -scale 400x400 IMG.jpg` For the thumbnail images, save them in `source/assets`
 - use `ls -s` to check the size of the images

@@ -13,17 +13,14 @@ My name is Anita Amini and I’m a Software Engineer in London. I love learning,
 
 __My favourite thing is to learn, in order to live life intentionally. My second favourite thing is to distill that information and share my experience with others; hence this blog 😀.__
 
-<!-- __I am also especially fascinated by individuals who architect original life paths.__ -->
-
 I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
 
-<!-- It's helpful for anyone; from those who would otherwise rely on a carer to collect their prescriptions, to millennials who are too used to getting everything delivered 😁. -->
+---
 
-<!-- At Echo, I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on the [Ethereum](https://www.ethereum.org/) blockchain. -->
+<h1 style="font-size: 1.4em;">The Curious Bunch</h1>
 
-<!-- I was born in Iran, but my family and I moved to London when I was 10. I ended up studying Pharmaceutical Science at University, because as any Asian kid knows, there is an expectation to study medicine or a branch of it. When I graduated, I started working in clinical trials but I didn't see a future in it. I finally started learning to code in my free time, which led to attending the [Founders & Coders](https://www.foundersandcoders.com/) bootcamp, radically changing my life. Now my dad wants to know how to learn to code! 
+I organise a monthly meetup for the kind and curious, you can sign up to hear about future events [here](../curious-bunch).
 
-Learning to code has shown me how life-changing access to the right information can be. Above all, the thing that brings me the most joy, is the __*experience of learning*__. What I love doing, is to take what I learn and distill it down to the fundamentals so that others can gain an understanding in a fraction of the time. This is why Information Distillery was born. -->
 ---
 
 <h1 style="font-size: 1.4em;">Fun Facts</h1>
@@ -61,12 +58,12 @@ Learning to code has shown me how life-changing access to the right information 
 - [Barking up the Wrong Tree (book summary on the science of success)](/barking)
 
 <p style="display: block; margin:0; font-weight:bold;">💪 Personal Development:</p>
-- [Why Self-Awareness Is the Most Important Skill to Develop](/self-awareness)
+- [My Psychedelic Journey to Self-Compassion ](/self-compassion)
 - [How to Overcome Imposter Syndrome](/imposter-syndrome)
 - [On Shedding Identity](/identity)
 
 <p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
-- [Wait But Why: A List of Tim Urban's Best Ideas](/waitbutwhy)
+- [Wait But Why: The Story of Us – Summary of Part 1](/story-of-us)
 - [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
 - [Podcasts that Make a Lasting Impact](/podcasts)
 
@@ -76,7 +73,7 @@ Learning to code has shown me how life-changing access to the right information 
 
 <h1 style="font-size: 1.4em;">Distilled</h1>
 
-If you are interested in learning together with me, I have a newsletter called [__Distilled__](/subscribe) where I share my learnings twice a month.
+If you are interested in learning together with me, I have a newsletter called [__Distilled__](/subscribe) where I share my learnings.
 
  <!-- Mailchimp Signup Form -->
  <div>
