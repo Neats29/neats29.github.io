@@ -175,3 +175,5 @@ And the list goes on.
 **I can’t think of anything having more positive downstream effects than learning to love ourselves.**
 
 <!-- <p style="font-size:12px">04 April 2020</p> -->
+---
+If you enjoyed this post let me know on [Twitter](https://twitter.com/neats29). Tell me your self-compassion stories!

@@ -1,5 +1,5 @@
 ---
-title: Barking Up the Wrong Tree (Book Summary)
+title: The Science of Success
 cover_index: /assets/barking-bw.jpeg
 date: 2020-02-09 09:11:16
 tags:
@@ -7,7 +7,7 @@ tags:
 
 I’ve always been fascinated with contradictions and dichotomies such as "live in the moment" vs. "play the long game". The answer however, is always vague and abstract.
 
-I’ve been searching for answers, one dichotomy at the time. But last year I came across a book, Barking Up the Wrong Tree, that has research-backed answers to six of these contradictions, maxims or expressions.
+I’ve been searching for answers, one dichotomy at the time. But last year I came across a book, __Barking Up the Wrong Tree__, that has research-backed answers to six of these contradictions, maxims or expressions.
 
 The overarching message, is how can we learn from the message behind these expressions and apply them to achieve success.
 
@@ -395,4 +395,4 @@ And “the most important type of alignment? Being connected to a group of frien
 
 ---
 
-If you enjoyed this post let me know on [Twitter](twitter.com/neats29). Which of these tips did you found useful? I would love your feedback!
+If you enjoyed this post let me know on [Twitter](https://twitter.com/neats29). Which of these tips did you found useful? I would love your feedback!
