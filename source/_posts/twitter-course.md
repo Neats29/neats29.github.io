@@ -42,4 +42,4 @@ Nevertheless, I'm constantly thinking about this so I will be sharing my progres
 
 ---
 
-P.S. this is not a sponsored post, I just enjoy learning and sharing my experience with others. Let me know on [Twitter](https://twitter.com/neats29) if you found this helpful.
+P.S. this is not a sponsored post, I just enjoy learning and sharing my experience with others. Let me know your thoughts on [Twitter](https://twitter.com/neats29).
