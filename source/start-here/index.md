@@ -67,6 +67,10 @@ I organise a monthly meetup for the kind and curious, you can sign up to hear ab
 - [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
 - [Podcasts that Make a Lasting Impact](/podcasts)
 
+<p style="display: block; margin:0; font-weight:bold;">👩‍🎤Summaries of Online Courses:</p>
+- [How to Visualize Value — Design Fundamentals](/design-course)
+- [Everyone Can Build a Twitter Audience](/twitter-course)
+
 </br>
 
 ---
