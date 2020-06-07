@@ -8,7 +8,7 @@ tags:
 I never used to finish __anything__. 3-5 reps was my average streak. And then the intensity would plummet and the project would end up in a graveyard. I felt shame and frustration about this and I wanted it to stop.
 
 <img src="/how-to-finish/graveyard.png"
-    style="width: 60%;
+    style="width: 80%;
     display: block;
     " alt="A graveyard of projects">
 </img>
@@ -24,7 +24,7 @@ So what has helped?
 I use something I call the 2 buckets method for completing projects. Broadly speaking, any project you are working on right now or pick up in the future can fall into 2 buckets.
 
 <img src="/how-to-finish/buckets.png"
-    style="width: 60%;
+    style="width: 80%;
     display: block;
     " alt="2 buckets">
 </img>
