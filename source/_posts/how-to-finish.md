@@ -1,6 +1,6 @@
 ---
 title: How to Finish What You Start
-cover_index: /assets/graveyard.png
+cover_index: /assets/graveyard-sqr.png
 date: 2020-06-07 13:50:39
 tags:
 ---
