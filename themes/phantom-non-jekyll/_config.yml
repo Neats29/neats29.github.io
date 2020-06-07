@@ -28,7 +28,7 @@ default_cover_index: "http://placehold.it/450x450"
 default_cover_detail:
 
 # Show Dates for posts and pages
-show_dates:
+show_dates: false
 
 
 # Google Analytics Tracking ID
