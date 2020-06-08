@@ -15,7 +15,7 @@ I never used to finish __anything__. 3-5 reps was my average streak. And then th
 
 Through trial and error and the growths I've had in other areas of my life, I've finally been able to "finish" projects. 
 
-This blog is a great example, while I've had some hiatuses here and there, I've been consistently writing an average of 1 post per month for 15 months. Previously, I would have excitedly written a couple of posts and stopped at number 3. Remember, that used to be my streak. Another example is climbing, I've been climbing for almost 5 years now. Yes I've had injuries and short breaks but I've never been able to sustainably practice any other sport that long. Another area of my life that has dramatically benefited from this shift is the completion of online courses. Since December 2018 I've completed 6 out of 7 purchased courses. Before, I would start a lot more but only finish maybe 10% of them. 
+This blog is a great example, while I've had some hiatuses here and there, I've been consistently writing an average of 1 post per month for 17 months. Previously, I would have excitedly written a couple of posts and stopped at number 3. Remember, that used to be my streak. Another example is climbing, I've been climbing for almost 5 years now. Yes I've had injuries and short breaks but I've never been able to sustainably practice any other sport that long. Another area of my life that has dramatically benefited from this shift is the completion of online courses. Since December 2018 I've completed 6 out of 7 purchased courses. Before, I would start a lot more but only finish maybe 10% of them. 
 
 So what has helped?
 
