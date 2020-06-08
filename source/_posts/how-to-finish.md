@@ -37,15 +37,15 @@ For these projects, allow yourself to pick up as many and drop as many of these 
 
 <h1 style="font-size: 1.3em;">Bucket 2</h1>
 
-These are projects that you *do* want to finish. By "finish" I mean do for a sustainable amount of time. There often isn't a finish line. The key is to assess every project and decide which bucket they belong to. Bucket 2 is not leaky and therefore has a limited capacity. You have to be extra careful what goes into it. Often it's better to drop projects into bucket 1 first, then you can direct them into bucket 2. But how do you know what qualifies for bucket 2? 
+These are projects that you *do* want to finish. By "finish" I mean do sustainably for a reasonable amount of time. There often isn't a finish line. The key is to assess every project and decide which bucket they belong to. Bucket 2 is not leaky and therefore has a limited capacity. You have to be extra careful what goes into it. Often it's better to drop projects into bucket 1 first, then you can direct them into bucket 2. But how do you know what qualifies for bucket 2? 
 
 **"Know thyself..."**
 
 > “The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we’re not clear about which is the one we care about.” – Naval Ravikant
 
-The most important factor in the sustainability of bucket 2 projects, is knowing what you want in life. I don't mean you have to have it all figured out, but you need to be able to hear your own voice amidst the loud noise of society. The voice that says you *should* be doing X. 
+The most important factor in the sustainability of bucket 2 projects, is knowing what you want in life. I don't mean you have to have it all figured out, but you need to be able to hear your own voice amidst the loud noise of society. The noise that says you *should* be doing X. 
 
-If you can't hear this voice and have little idea about what you want then I recommend reading [this post](https://waitbutwhy.com/2018/04/picking-career.html) by the blog Wait But Why. It gets you to rank your yearnings and desires to give you a better idea of what's important to you. Once you have a better idea of what you want, you need to be crystal clear about the "why" behind the given project. The more aligned this "why" is with your desires and long term goals, the more likely it is that it will be sustainable. 
+If you find it difficult to hear your own voice and have little idea about what you want then I recommend reading [this post](https://waitbutwhy.com/2018/04/picking-career.html) by the blog Wait But Why. It gets you to rank your yearnings and desires to give you a better idea of what's important to you. Once you have a better idea of what you want, you need to be crystal clear about the "why" behind the given project. The more aligned this "why" is with your desires and long term goals, the more likely it is that it will be sustainable. 
 
 <h1 style="font-size: 1.3em;">Reasons bucket 2 projects fail to become long term</h1>
 
@@ -60,7 +60,7 @@ If you can't hear this voice and have little idea about what you want then I rec
 
 For bucket 2 projects, it's almost essential to be in an environment that positively reinforces that goal. That environment can carry you through the pits of despair, those moments where the critic voice gets the better of you. Without my climbing community (specially people of similar height and gender), I likely would have given up by now.
 
-Managing your **Environment** and **knowing yourself** are the the 80/20 of finishing things, or better put having sustainable bucket 2 projects. If you'd like to finish more of what you start, these are the factors to pay attention to.
+Managing your **environment** and **knowing yourself** are the the 80/20 of finishing things, or better put having sustainable bucket 2 projects. If you'd like to finish more of what you start, these are the factors to pay attention to.
 
 ___
 
