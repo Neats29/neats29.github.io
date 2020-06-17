@@ -5,8 +5,15 @@ date: 2020-05-10 11:22:48
 tags:
 ---
 
-This is a summary and a review of the course [Everyone Can Build a Twitter Audience](https://gumroad.com/l/twitter-audience) by [Daniel Vassallo](https://twitter.com/dvassallo).
+This is a summary and a review of the course [Everyone Can Build a Twitter Audience](https://gumroad.com/a/536573043/PBkrO) by [Daniel Vassallo](https://twitter.com/dvassallo).
 
+<a href="https://gumroad.com/a/536573043/PBkrO">
+  <img src="/twitter-course/twitter-course.png"
+      style="width: 100%;
+      display: block;
+      " alt="Everyone can build a twitter audience">
+  </img>
+</a>
 
 <h1 style="font-size: 1.6em;">Course Background</h1>
 
@@ -42,4 +49,4 @@ Nevertheless, I'm constantly thinking about this so I will be sharing my progres
 
 ---
 
-P.S. this is not a sponsored post, I just enjoy learning and sharing my experience with others. Let me know your thoughts on [Twitter](https://twitter.com/neats29).
+Let me know your thoughts on [Twitter](https://twitter.com/neats29).
