@@ -1,5 +1,5 @@
 ---
-title: Everyone Can Build a Twitter Audience Course
+title: How to Grow Your Twitter Audience
 cover_index: /assets/twitter.png
 date: 2020-05-10 11:22:48
 tags:

@@ -62,14 +62,15 @@ I organise a monthly meetup for the kind and curious, you can sign up to hear ab
 - [How to Overcome Imposter Syndrome](/imposter-syndrome)
 - [On Shedding Identity](/identity)
 
+<p style="display: block; margin:0; font-weight:bold;">👩‍🎤Summaries of Online Courses:</p>
+- [How to Grow Your Twitter Audience](/twitter-course)
+- [How to Visualize Value — Design Fundamentals](/design-course)
+
 <p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
 - [Wait But Why: The Story of Us – Summary of Part 1](/story-of-us)
 - [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
 - [Podcasts that Make a Lasting Impact](/podcasts)
 
-<p style="display: block; margin:0; font-weight:bold;">👩‍🎤Summaries of Online Courses:</p>
-- [How to Visualize Value — Design Fundamentals](/design-course)
-- [Everyone Can Build a Twitter Audience](/twitter-course)
 
 </br>
 
