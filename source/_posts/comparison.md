@@ -10,7 +10,7 @@ I'm a recovering comparison addict. I joined a coding bootcamp in 2015, and by t
 However, I still catch myself engaging in comparisons. The other day, I noticed I was imagining that my colleague might be comparing me to another colleague. When I reflected on this afterward, I didn't know which part was more ridiculous. The meta-ness of comparing myself to person C from the perspective of person B, or the fact that I imagined this would even cross his mind? 
 
 I've been wondering how much comparing ourselves to others is part of our social survival. Is it something you can avoid altogether, or do you just have to develop a healthy relationship with it?
-It turns out that humans have a fundamental need to **evaluate** themselves. But humans can't define themselves in a vacuum, so they use others as a reference point. This need for self-evaluation is so prevalent that [baboons do it too](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5454261/). 
+It turns out that humans have a fundamental need to **evaluate** themselves. But humans can't define themselves in a vacuum, so they use others as a reference point. This need for self-evaluation is so prevalent that primates such as [baboons do it too](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5454261/). 
 
 This area of research is largely thanks to the social psychologist Leon Festinger who came up with the Social Comparison theory. According to Festinger, there are 2 fundamental reasons why we self-evaluate:
 
