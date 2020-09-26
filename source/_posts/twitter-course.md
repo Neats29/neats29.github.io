@@ -47,6 +47,8 @@ However, I'm still looking for the life event that lends itself well to building
 
 Nevertheless, I'm constantly thinking about this so I will be sharing my progress over time.
 
+Update: a couple of months after posting this, I received an affiliate link from Daniel which I have updated above, my recommendation is not informed by this.
+
 ---
 
-Let me know your thoughts on [Twitter](https://twitter.com/neats29).
+If you'd like to connect, I'm active on [Twitter](https://twitter.com/neats29). I'd love to hear your thoughts.

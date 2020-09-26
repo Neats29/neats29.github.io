@@ -50,4 +50,4 @@ I realised I've been communicating in 2D. There's a powerful tool in communicati
 
 ---
 
-P.S. this is not a sponsored post, I just enjoy learning and sharing my experience with others. Let me know your thoughts on [Twitter](https://twitter.com/neats29).
+If you'd like to connect, I'm active on [Twitter](https://twitter.com/neats29). I'd love to hear your thoughts.
