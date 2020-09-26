@@ -40,7 +40,7 @@ Here's an example of a course I started recently:
 
 Applying the lessons right away.
 
-<img src="/roam/twitter-highlight.png"
+<img src="/roam/twitter.png"
     style="width: 100%;
     display: block;
     margin: auto;"
