@@ -5,13 +5,15 @@ date: 2020-09-25 18:34:18
 tags:
 ---
 
-I might be slighty addicted to online courses. As an addict, I like to get the most bang for my buck. Since I started using Roam, I've taken around 5 online courses and I've come up with a simple system to make the most out of them. The system fulfils 3 important goals:
+<!-- I might be slighty addicted to online courses. As an addict, I like to get the most bang for my buck.  -->
+
+Since I started using [Roam](https://roamresearch.com/), I've taken around 5 online courses, through which I've landed on a simple yet effective system that fulfils 3 important goals:
 
 - Better understanding and recall
 - Easy to summarise and create content out of. Eg: blog posts or twitter threads
 - Low friction - it shouldn't take the joy out of taking the course
 
-The notes are generally made up of 3 parts:
+The note is generally made up of 3 parts:
 - **Metadata (Tags, Price, Link)**
 - **Takeaways**
 - **Modules**
@@ -19,15 +21,15 @@ The notes are generally made up of 3 parts:
 
 <h1 style="font-size: 1.6em;">The Process</h1>
 
-Add the module headings and copy any section that stands out underneath. The rest of the magic lies in the **Takeaways** section:
+The metadata is self-explanatory. As for the modules, I add the headings as I go and copy any section that stands out underneath. The core lies in the **Takeaways** section. Here's how to do it:
 
 - As you go through, write the parts that stand out **in your own words**. This is key.
-- Any parts that you've copied under the module headings that you'd want to be resurfaced later, grab a block reference of and put it under the takeaways section.
+- For any excerpts under the module headings that are key, grab a block reference and put it under the takeaways section.
 - As you do the above, you could [progressively summarise](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/) upon reflection.
-- Whenever you can, apply the lesson right there and then. For this I use an attribute called **mine** (for lack of a better word) which is how I respond to a “prompt”. These allow me to reflect on the material right away and apply the lessons to my life. I usually track these under the takeaways section. Or if it's afterwards, I might do it on my daily page under the course's page.
+- Whenever you can, apply the lessons right there and then. For this I use an attribute called **mine** (for lack of a better word) which is how I respond to a “prompt”. These allow me to reflect on the material right away and apply the lessons to my life. I usually track these under the takeaways section. Or if it's afterwards, I might do it on my daily page under the course's page.
 - Alternatively, I might create a task or link to a project if it's not something I can apply right away.
 
-Here's an example of a course I started recently.
+Here's an example of a course I started recently:
 
 <img src="/roam/yellow.png"
     style="width: 100%;
@@ -66,9 +68,7 @@ And as you can see below, making the Takeaways section a page made it easier to 
 </img>
 
 
-However, for small self-paced courses like the ones mentioned earlier, having Takeaways as an attribute works well. Of course, attributes (created by entering `::` after the word), become pages in Roam. Which is great, because at a quick glance you could see the takeaways from the short self-paced courses you've taken.
-
-
+However, for small self-paced courses like the ones mentioned earlier, having Takeaways as an attribute works well. Of course, attributes (created by entering `::` after the name), become pages in Roam. Which is great, because at a quick glance you could see the takeaways from the short self-paced courses you've taken.
 
 <h1 style="font-size: 1.6em;">Content Creation</h1>
 
@@ -80,4 +80,4 @@ I've started creating content from the courses I take. For example [this post](h
 Personally, I don't use any memorisation techniques for remembering the contents of online courses. For me the best way to "remember" the lessons is to apply them. In other words, create experiences out of them. The other method is to create content off the back of it. My goal is to have the simplest system (rather than an elaborate one) that allows me to internalise the lessons, create something out of the material and have fun doing it. Over time, I'm sure the process will evolve to fulfil these goals better.
 
 ---
-Let me know on [Twitter](https://twitter.com/neats29) if you found any of this helpful or if you'd like to share your own system.
+Let me know on [Twitter](https://twitter.com/neats29) if you found this helpful or if you'd like to share your own system.
