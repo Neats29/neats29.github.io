@@ -1,6 +1,6 @@
 ---
 title: How to Get the Most Out of Online Courses with Roam
-cover_index: /assets/astrolabe.png
+cover_index: /assets/roam.png
 date: 2020-09-25 18:34:18
 tags:
 ---
