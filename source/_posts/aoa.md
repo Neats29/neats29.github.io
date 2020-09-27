@@ -1,6 +1,6 @@
 ---
 title: "The Art of Accomplishment: Reflections"
-cover_index: /assets/aoa.jpeg
+cover_index: /assets/aoa-gold.png
 date: 2020-09-27 12:25:52
 tags:
 ---
