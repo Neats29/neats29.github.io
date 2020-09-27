@@ -1,5 +1,5 @@
 ---
-title: "The Art of Accomplishment: Reflections"
+title: "The Art of Accomplishment: Finding the Lover Inside & Befriending Anger"
 cover_index: /assets/aoa-gold.png
 date: 2020-09-27 12:25:52
 tags:
