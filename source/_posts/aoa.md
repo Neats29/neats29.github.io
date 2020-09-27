@@ -77,3 +77,6 @@ I want to finish this off by acknowledging my renewed appreciation for emotions.
 Experiencing the intention behind each emotion has helped me see them as guides rather than something to avoid or chase.
 
 > "Joy is the matriarch of a family of emotions. She will not enter a house where her children are not welcome." - Joe Hudson
+
+---
+I’d love to connect on [Twitter](https://twitter.com/neats29). If any of this resonated, I'd love to hear from you.

@@ -49,7 +49,7 @@ Applying the lessons right away.
 
 <h1 style="font-size: 1.6em;">Ongoing Courses</h1>
 
-For longer term or ongoing courses, the syntax is slightly different. For instance, I recently took a course called The Art of Accomplishment (blog post coming soon) which was a live cohort that spanned across 8 weeks. There were numerous group exercises as well as solo exercises to complete per week. In this case each section became a page in itself.
+For longer term or ongoing courses, the syntax is slightly different. For instance, I recently took a course called The Art of Accomplishment (I've written about the experience [here](/aoa)) which was a live cohort that spanned across 8 weeks. There were numerous group exercises as well as solo exercises to complete per week. In this case each section became a page in itself.
  
 <img src="/roam/aoa.png"
     style="width: 100%;
