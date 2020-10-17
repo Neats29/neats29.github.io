@@ -15,13 +15,15 @@ __My favourite thing is to learn, in order to live life intentionally. My second
 
 I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
 
----
+<!-- ---
 
 <h1 style="font-size: 1.4em;">The Curious Bunch</h1>
 
 I organise a monthly meetup for the kind and curious, you can sign up to hear about future events [here](../curious-bunch).
 
----
+-->
+
+--- 
 
 <h1 style="font-size: 1.4em;">Fun Facts</h1>
 
@@ -52,25 +54,25 @@ I organise a monthly meetup for the kind and curious, you can sign up to hear ab
 
 <h1 style="font-size: 1.4em;">Top Posts</h1>
 
-<p style="display: block; margin:0; font-weight:bold;">👩‍💻 Career Management:</p>
-- [Figuring Out What to Do With Your Life](/figuring-life-out-p1)
-- [How to Thrive in the Age of Change](/thrive-in-change)
-- [Barking up the Wrong Tree (book summary on the science of success)](/barking)
-
 <p style="display: block; margin:0; font-weight:bold;">💪 Personal Development:</p>
 - [My Psychedelic Journey to Self-Compassion ](/self-compassion)
-- [How to Overcome Imposter Syndrome](/imposter-syndrome)
+- [How to Learn: Lifelong Learning](/learn)
 - [On Shedding Identity](/identity)
 
 <p style="display: block; margin:0; font-weight:bold;">👩‍🎤Summaries of Online Courses:</p>
 - [How to Grow Your Twitter Audience](/twitter-course)
+- [The Art of Accomplishment: Finding the Lover Inside & Befriending Anger](/aoa)
 - [How to Visualize Value — Design Fundamentals](/design-course)
 
 <p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
 - [Wait But Why: The Story of Us – Summary of Part 1](/story-of-us)
+- [How to Get the Most Out of Online Courses with Roam](/roam)
 - [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
-- [Podcasts that Make a Lasting Impact](/podcasts)
 
+<p style="display: block; margin:0; font-weight:bold;">👩‍💻 Career Management:</p>
+- [Figuring Out What to Do With Your Life](/figuring-life-out-p1)
+- [How to Thrive in the Age of Change](/thrive-in-change)
+- [Barking up the Wrong Tree (book summary on the science of success)](/barking)
 
 </br>
 
@@ -79,6 +81,8 @@ I organise a monthly meetup for the kind and curious, you can sign up to hear ab
 <h1 style="font-size: 1.4em;">Distilled</h1>
 
 If you are interested in learning together with me, I have a newsletter called [__Distilled__](/subscribe) where I share my learnings.
+
+Update: I've paused the newsletter for now, as I haven't landed on a format that I like. But if you enjoyed my blog, please sign up so we can stay in touch.
 
  <!-- Mailchimp Signup Form -->
  <div>
