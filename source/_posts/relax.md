@@ -1,5 +1,5 @@
 ---
-title: "Relaxing Your Muscles: a Superpower"
+title: A Superpower with Just a Thought
 cover_index: /assets/relax.png
 date: 2020-10-17 18:15:22
 tags:
