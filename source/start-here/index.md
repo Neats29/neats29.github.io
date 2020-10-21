@@ -15,13 +15,13 @@ __My favourite thing is to learn, in order to live life intentionally. My second
 
 I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
 
-<!-- ---
+---
 
-<h1 style="font-size: 1.4em;">The Curious Bunch</h1>
+<h1 style="font-size: 1.4em;">👉 Online Course</h1>
 
-I organise a monthly meetup for the kind and curious, you can sign up to hear about future events [here](../curious-bunch).
+I'm building a course to help people figure out what they truly want in life and how to get it. If you'd like to get notified when it's ready, sign up [here](../course).
 
--->
+
 
 --- 
 
