@@ -9,6 +9,7 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
+	// exclude convertkit's sign up form button
 	button:not(.formkit-submit),
 	.button {
 		@include vendor('appearance', 'none');
