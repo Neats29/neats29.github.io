@@ -1,5 +1,5 @@
 ---
-title: Know What You Want
+title: Knowing What You Want
 date: 2020-10-21 18:51:37
 ---
 
