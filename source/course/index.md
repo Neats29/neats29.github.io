@@ -32,6 +32,11 @@ Figuring out what you truly want is one of the highest leverage tasks you could 
 
 This course is a Notion dashboard that will walk you through a set of exercises to decipher your wants and drivers. Once you have identified the life you _really_ want, you will learn how to connect the future you'd like to your present-day, develop habits and achieve your goals.
 
+<img src="./index/contents.png"
+    style="width: 100%;
+    display: block;
+    " alt="Table of Contents">
+</img>
 
 <h1 style="font-size: 1.3em;">Who is This For?</h1>
 
