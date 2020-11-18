@@ -3,19 +3,20 @@ title: The Power of Knowing What You Want
 date: 2020-10-21 18:51:37
 ---
 
-<img src="./index/know_what_you_want.png"
+<img src="./index/maze.png"
     style="width: 100%;
     display: block;
     " alt="The Power of Knowing What You Want">
 </img>
 
-<h1 style="font-size: 1.3em;">Learn to Gain Clarity on What You Truly Want and Achieve Them Systematically</h1>
+<!-- <h1 style="font-size: 1em;">Learn to Gain Clarity on What You Truly Want and Achieve Your Goals Systematically</h1> -->
+<h1 style="font-size: 1em;">Learn to gain clarity on what you truly want and achieve your goals systematically</h1>
 
 Over the years I've developed a system to identify what I truly want and achieve those wants consistently. This has deeply enriched my life. Now, I'm distilling all of that to share it with you. 
 
 Sign up to get notified when the course is ready!
 
-👉 Check your **promotions** inbox on Gmail.
+⚠️ Check your **promotions** inbox on Gmail.
 
 <script async data-uid="5cf7ca779b" src="https://chipper-crafter-5212.ck.page/5cf7ca779b/index.js"></script>
 
