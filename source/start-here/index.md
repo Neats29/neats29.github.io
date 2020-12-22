@@ -19,8 +19,7 @@ I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/),
 
 <h1 style="font-size: 1.4em;">👉 Online Course</h1>
 
-I'm building a course to help people figure out what they truly want in life and how to get it. If you'd like to get notified when it's ready, sign up [here](../course).
-
+I have mini course help people figure out what they truly want in life and how to get it. Find out more [here](../course).
 
 
 --- 
