@@ -5,14 +5,12 @@ date: 2020-12-22 17:04:22
 tags:
 ---
 
-100 Tips On Having a Healthy Relationship
+Here are a hundred tips or I should say opinions on how to have a healthy and fulfilling relationship. This is based on my Twitter thread below. If you prefer to read it on Twitter, click [here](https://twitter.com/Neats29/status/1341149898251616258?s=20) or on the image.
 
-How to Have a Healthy Relationship: 100 Tips
-
-<img src="/relationships/thread.png"
+<a href="https://twitter.com/Neats29/status/1341149898251616258?s=20"><img src="/relationships/thread.png"
     style="width: 80%;
     display: block; border: 2px solid lightgrey;" alt="">
-</img>
+</img> </a>
 
 
 1. Firstly, an important caveat. **Relationships are largely luck-based**. Chance plays a role at every step. Where you meet them, whether they match basic criteria such as age, location, availability, your respective attachment styles and many other factors.
