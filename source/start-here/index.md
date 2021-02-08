@@ -9,33 +9,58 @@ date: 2019-04-27 13:10:22
     alt="Anita Amini">
 </img>
 
-My name is Anita Amini and I’m a Software Engineer in London. I love learning, climbing and deep conversations.
+My name is Anita Amini and I’m a Software Engineer in London. I'm obsessed with __learning__, __self-awareness__ and __living life intentionally.__
 
-__My favourite thing is to learn, in order to live life intentionally. My second favourite thing is to distill that information and share my experience with others; hence this blog 😀.__
-
-I work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. I write in the programming languages [Go](https://golang.org/) and [Javascript](https://www.javascript.com/). Prior to that, I was working in the blockchain space, building applications on [Ethereum](https://www.ethereum.org/).
+I use writing as a way to make sense of this world. I love distilling what I learn and sharing it with others. The coolest side-effect is making friends online, so if anything you read on this blog resonates, please reach out to me on twitter [@neats29](https://twitter.com/neats29).
 
 ---
 
-<h1 style="font-size: 1.4em;">👉 Online Course</h1>
+<h1 style="font-size: 1.4em;">Online Course</h1>
 
-I have mini course help people figure out what they truly want in life and how to get it. Find out more [here](../course).
+About three years ago, I had a wake up call when I realised that I was working hard to get far in my career mostly to impress my colleagues. Realising this thrust me into a journey to figure out what really mattered to me and what I wanted. I figured out __what influenced me and where those influences came from__, I figured out what kind of a life I wanted, and more importantly __I figured out how to design my life accordingly.__
 
+I've distilled everything I've learned on this journey into a __short set of introspective exercises__ and a set of __frameworks to work towards the life you want.__ Find out more [here](../course).
+
+<a href="../course">
+  <img src="./index/maze.png" 
+      style="width: 100%;"
+      alt="The Power of Knowing What You Want">
+  </img>
+</a>
 
 --- 
 
+<h1 style="font-size: 1.4em;">Top Posts</h1>
+
+<p style="display: block; margin:0; font-weight:bold;">Personal Development:</p>
+- [My Psychedelic Journey to Self-Compassion](/self-compassion)
+- [How to Finish What You Start](/how-to-finish)
+- [How to Learn: Lifelong Learning](/learn)
+- [On the Art of Having a Healthy Relationship](/relationships)
+<!-- - [How to Get the Most Out of Online Courses with Roam](/roam) -->
+
+<p style="display: block; margin:0; font-weight:bold;">Summaries of Online Courses:</p>
+- [How to Grow Your Twitter Audience](/twitter-course)
+- [The Art of Accomplishment: Finding the Lover Inside & Befriending Anger](/aoa)
+- [How to Visualize Value — Design Fundamentals](/design-course)
+
+<!-- <p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
+- [Wait But Why: The Story of Us – Summary of Part 1](/story-of-us)
+- [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
+
+<p style="display: block; margin:0; font-weight:bold;">👩‍💻 Career Management:</p>
+- [Figuring Out What to Do With Your Life](/figuring-life-out-p1)
+- [How to Thrive in the Age of Change](/thrive-in-change)
+- [Barking up the Wrong Tree (book summary on the science of success)](/barking) -->
+
+---
+
 <h1 style="font-size: 1.4em;">Fun Facts</h1>
 
+- I currently work at a UK-based online pharmacy startup called [Echo](https://echo.co.uk/), which delivers prescriptions free of charge. Prior to that, I was working in the blockchain space ([Ethereum](https://www.ethereum.org/)).
 - I was born in Iran 🇮🇷, we later moved to London when I was 10 
-
 - I studied Pharmaceutical Science at university, but I changed careers in 2015 by learning to code at [Founders & Coders](https://www.foundersandcoders.com/) – the most life altering decision of my life!
 
-<!-- - My favourite thinkers are:
-  - [Naval](https://twitter.com/Naval), 
-  - [Sam Harris](https://twitter.com/SamHarrisOrg), 
-  - [Yuval Noah Harari](https://twitter.com/harari_yuval), 
-  - [Tim Urban](https://twitter.com/waitbutwhy) and 
-  - [Tim Ferriss](https://twitter.com/tferriss). -->
 - The best places I've visited: 
   - Torres del Paine (Patagonia) in Chile 🇨🇱
   - Hakone in Japan 🇯🇵
@@ -43,37 +68,11 @@ I have mini course help people figure out what they truly want in life and how t
   - Bryce Canyon and Zion Park in USA 🇺🇸
   - Weligama and Mirissa in Sri Lanka 🇱🇰
 
-
+<!-- 
 - Superpower – __picking up new skills and habits fast__:
   - Secured my first coding job 7 months after I started learning to code
   - Broke into the blockchain space by learning about it in my spare time
-  - Went from not reading at all until the age of 21, to becoming a book worm
-
----
-
-<h1 style="font-size: 1.4em;">Top Posts</h1>
-
-<p style="display: block; margin:0; font-weight:bold;">💪 Personal Development:</p>
-- [My Psychedelic Journey to Self-Compassion ](/self-compassion)
-- [How to Learn: Lifelong Learning](/learn)
-- [On Shedding Identity](/identity)
-
-<p style="display: block; margin:0; font-weight:bold;">👩‍🎤Summaries of Online Courses:</p>
-- [How to Grow Your Twitter Audience](/twitter-course)
-- [The Art of Accomplishment: Finding the Lover Inside & Befriending Anger](/aoa)
-- [How to Visualize Value — Design Fundamentals](/design-course)
-
-<p style="display: block; margin:0; font-weight:bold;">🧠Intellectual Curiosity:</p>
-- [Wait But Why: The Story of Us – Summary of Part 1](/story-of-us)
-- [How to Get the Most Out of Online Courses with Roam](/roam)
-- [2019's Best Podcast Episodes For the Curiously Minded](/top-podcasts-2019)
-
-<p style="display: block; margin:0; font-weight:bold;">👩‍💻 Career Management:</p>
-- [Figuring Out What to Do With Your Life](/figuring-life-out-p1)
-- [How to Thrive in the Age of Change](/thrive-in-change)
-- [Barking up the Wrong Tree (book summary on the science of success)](/barking)
-
-</br>
+  - Went from not reading at all until the age of 21, to becoming a book worm -->
 
 ---
 
