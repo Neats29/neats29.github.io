@@ -165,12 +165,12 @@ I have unknowingly judged myself for many years, and I now realise that the judg
 
 Kristin Neff recommends finding ways to tap into the mammalian caregiving system mentioned earlier, by finding a touch that works for you. You can try a range of touches such as putting both hands on your heart, stomach or cheeks, and seeing which one works. At first I thought this was ridiculous, some woo-woo new-age stuff I didn’t want to associate with. But the experience I’d had during the psychedelic trip was so visceral and bewildering, that I was open to trying anything to see what sticks. I also understood the relationship between touch and the release of oxytocin, so I knew there was at least some science to it. To my surprise meditating with both hands on my chest was immediately soothing. 
 
-Ultimately, developing self-compassion is a life long journey. The key is to build heightened awareness to slowly alter the default patterns that lead to a lack of love for the self. I now wholeheartedly believe that the relationship we have with ourselves is mirrored in our relationships with others.
+Ultimately, developing self-compassion is a life long journey. The key is to build heightened awareness to slowly alter the default patterns that lead to a lack of love for the self. I now wholeheartedly believe that the relationship we have with ourselves mirrors our relationships with others.
 
 The lack of belonging with others, is a symptom of a lack of acceptance in the self.
 The lack of connection, is the inability to be vulnerable, a symptom of an inability to be vulnerable with oneself.
-A continual judgement of others, is a symptom of judging oneself. 
-And the list goes on. 
+A continual judgement of others, is a symptom of judging oneself.
+And the list goes on.
 
 **I can’t think of anything having more positive downstream effects than learning to love ourselves.**
 
