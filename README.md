@@ -7,10 +7,11 @@
 
 - For images that are to be used inside the post, save them in `source/_posts/<post name>` in order to compress them you can run something like: `for X in *.jpeg; do magick "$X" -scale 400x400 "$X"; done`
 
+* Use `hexo server` to run
+* if `hexo` is not installed globally you can run `npx hexo server` instead
 
-- Use `hexo server` to run
-- if `hexo` is not installed globally you can run `npx hexo server` instead
 ---
+
 - To create a new page run `hexo new page <name>`
 
 - `cmd shift v` to preview a markdown file
@@ -18,3 +19,6 @@
 - if you need to change a css attribute, make the change in `themes/phantom-non-jekyll/source/sass/*`
 
 - The theme https://github.com/klugjo/hexo-theme-phantom
+
+**2022 update:**
+The hexo-renderer-sass package which is a dependency for the theme, uses node-sass which has been deprecated. There is a fix for it but it hasn't been merged, so I used [this fork](https://github.com/knksmith57/hexo-renderer-sass/pull/46) for the time being.
