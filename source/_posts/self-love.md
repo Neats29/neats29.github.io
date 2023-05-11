@@ -116,6 +116,6 @@ So what’s the 80/20 of self-love acquisition, you ask? There are probably as m
 Though I also have a hunch that the internal experience of self-love doesn’t end at maternal or paternal self-love, but can also take on other flavours such as platonic or romantic love. This is the next stage in my self-love explorations and I hope to report back my findings! -->
 
 ---
-<!-- UPDATE: I am now offering 1:1  -->
+UPDATE: I am now offering 1:1 sessions combining all of my experience with self-love and inner work to help others achieve self-love via nervous system regulationa and feeling the emotions. You can learn more about it [here](/coaching).
 --- 
 If you enjoyed this post let me know on [Twitter](https://twitter.com/neats29). Tell me your self-love stories!

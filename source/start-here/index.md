@@ -9,12 +9,20 @@ date: 2019-04-27 13:10:22
     alt="Anita">
 </img>
 
-My name is Anita and I’m a Software Engineer in London. I spent most of 2022 having a mini-retirement after I got burnt out in my job. It was a year of connections, healing, coming home to myself and learning and deepening lots of skills such as __regulating my nervous system__ using breathwork, __emotional awareness__, __self-love__ and __holding space for others__.
+My name is Anita and I’m currently a [feral free agent](https://www.visakanv.com/blog/feral-free-agents/). 
 
-I recently co-created [Somalist](https://somal.ist/) a directory of somatic practitioners such as therapists, bodyworkers and breathwork practitioners.
+At the end of 2021 I left my software engineering role after getting burnt out. Although I have done almost a decade of inner work, the burnout was a huge catalyst to help me heal. I had the freedom to really dive deep into some of the work I had started in previous years. It was a year of profound self-discovery and breakthrough.
+
+<h1 style="font-size: 1.4em;">Somatic sessions</h1>
+
+During this time I started to hold 1:1 space by facilitating IFS and breathwork sessions. It was also the year that I finally learned to love myself fully after 3 years of exploration. I now hold 1:1 self-love sessions under a modality I'm calling "Somatic well-being practice". You can find out more about [these sessions here](/coaching).
 
 
-I use writing as a way to make sense of this world. I love distilling what I learn and sharing it with others. The coolest side-effect is making friends online, so if anything you read on this blog resonates, please reach out to me on twitter [@neats29](https://twitter.com/neats29).
+This year, I also co-created [Somalist](https://somal.ist/) a directory of somatic practitioners such as therapists, bodyworkers and breathwork practitioners. 
+
+<!-- I use writing as a way to make sense of this world. I love distilling what I learn and sharing it with others. The coolest side-effect is making friends online, so  -->
+
+If anything you read on this blog resonates, please reach out to me on twitter [@neats29](https://twitter.com/neats29), I'd love to hear from you.
 
 
 <!-- <h1 style="font-size: 1.4em;">Online Course</h1>
@@ -32,13 +40,13 @@ I've distilled everything I've learned on this journey into a __short set of int
 
 --- 
 
-<h1 style="font-size: 1.4em;">Top Posts</h1>
+<h1 style="font-size: 1.4em;">Popular Posts</h1>
 
 <p style="display: block; margin:0; font-weight:bold;">Personal Development:</p>
-- [My Psychedelic Journey to Self-Compassion](/self-compassion)
-- [How to Finish What You Start](/how-to-finish)
-- [How to Learn: Lifelong Learning](/learn)
-- [On the Art of Having a Healthy Relationship](/relationships)
+- [How I finally found self-love](/self-love)
+- [My psychedelic journey to self-compassion](/self-compassion)
+- [How to have a healthy relationship](/relationships)
+- [How to finish what you start](/how-to-finish)
 <!-- - [How to Get the Most Out of Online Courses with Roam](/roam) -->
 
 <p style="display: block; margin:0; font-weight:bold;">Summaries of Online Courses:</p>
