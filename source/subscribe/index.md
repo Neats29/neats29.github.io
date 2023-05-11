@@ -8,7 +8,7 @@ date: 2019-04-27 13:39:10
     style="width: 80%;
     display: block;
     border: 1px solid black"
-    alt="Anita Amini">
+    alt="Anita">
 </img>
 
 This is my newsletter called __Distilled__ where I share the most fascinating things I've learned and blog posts I've written. Subscribe if you'd like to learn about personal development, the future of work, and technology.
