@@ -1,6 +1,7 @@
 ---
 title: Somatic well-being practice or self-love coaching
 date: 2023-05-11 16:52:42
+cover: /assets/pfp.jpeg
 ---
 
 <h1 style="font-size: 1.6em;">What is Somatic well-being practice or self-love coaching?</h1>
