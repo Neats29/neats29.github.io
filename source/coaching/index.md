@@ -1,7 +1,7 @@
 ---
 title: Somatic well-being practice or self-love coaching
 date: 2023-05-11 16:52:42
-cover: /assets/pfp.jpeg
+cover_detail: ./index/lotus.png
 ---
 
 <h1 style="font-size: 1.6em;">What is Somatic well-being practice or self-love coaching?</h1>
@@ -73,6 +73,15 @@ Here's what two of my favourite tweeters say about achieving self-love:
 
 > "After following Anita's journey into self-love and nervous system regulation for a while now, I finally had the opportunity to experience what she's learned, and it was really, really nice. Going into it I was pretty jittery and didn't know what to expect, but she held such a warm space and a kind presence and it helped me understand what she's moving towards. I left the session feeling much more in tune with my body, and what it meant to love myself, and to use the breath and my feelings to take me deeper into that experience. I've been continuing to use what I learned in that session since, practicing box breathing and making space for my feelings and showing them affection." — [Anansi](https://twitter.com/s0ulDirect0r)
 
+> "There's a story that some of us who have met Anita tell others: when you are speaking with her it feels like she will listen and accept anything and everything you have to say. It's something you can't force or fake. Her countenance, persence, and empathy gives you permission and space to feel into where you are right now. Her self-love coaching sessions is the epitome of this because she is there with you to inquire where you are and allow whatever needs to pass through, pass through you. I no longer have to be scared or lost in discovering things about myself anymore, knowing Anita will be there when I need her to be." — [Minnow Park](https://twitter.com/minnowpark)
+
+<img src="./index/sunofdopamine.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="Part 1">
+</img>
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
