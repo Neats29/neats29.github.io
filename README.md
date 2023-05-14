@@ -10,6 +10,8 @@
 * Use `hexo server` to run
 * if `hexo` is not installed globally you can run `npx hexo server` instead
 
+- use [this tool](https://opengraphr.com/open-graph-debugger) to preview the thumbnail image 
+
 ---
 
 - To create a new page run `hexo new page <name>`
