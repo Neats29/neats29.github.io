@@ -2,7 +2,8 @@
 title: Somatic well-being practice or self-love coaching
 date: 2023-05-11 16:52:42
 cover_detail: ./index/lotus.png
-cover_index: ./index/lotus.png
+og:
+  image: ./index/lotus.png
 ---
 
 <h1 style="font-size: 1.6em;">What is Somatic well-being practice or self-love coaching?</h1>
