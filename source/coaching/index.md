@@ -92,9 +92,11 @@ Sessions can be done on a video call or in person in London. Please [DM me on tw
 1hr - 1hr30mins
 
 **Sliding Scale:**
-- Low-income: £35
+- Low-income: £40
 - Standard: £45
 - Abundant: £60
+
+Please note the above rates are intentionally low as an introductory offer. I will most likely raise them in the near future to correctly reflect the service being offered.
 
 <!-- ⚠️ **Important:** please send me a message **before** booking to confirm.
 **Availability:**
