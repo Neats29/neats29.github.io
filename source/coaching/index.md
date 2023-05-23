@@ -29,7 +29,7 @@ Eventually, last summer, something clicked in me and I started to feel well-reso
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 1:1 sessions for 25+ individuals across IFS and Somatic well-being practice.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 1:1 sessions for 30+ individuals across IFS and Somatic well-being practice.
 
 I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
@@ -76,13 +76,30 @@ Here's what two of my favourite tweeters say about achieving self-love:
 
 > "There's a story that some of us who have met Anita tell others: when you are speaking with her it feels like she will listen and accept anything and everything you have to say. It's something you can't force or fake. Her countenance, persence, and empathy gives you permission and space to feel into where you are right now. Her self-love coaching sessions is the epitome of this because she is there with you to inquire where you are and allow whatever needs to pass through, pass through you. I no longer have to be scared or lost in discovering things about myself anymore, knowing Anita will be there when I need her to be." — [Minnow Park](https://twitter.com/minnowpark)
 
+<img src="./index/tasshin.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="just had a self-love session with @neats29! historically i've found it much easier to love others than myself, and it was such a blessing to have her guidance in accessing more self-love. there's always more love! if that calls to you, i recommend DM'ing her for a session!">
+</img>
+
 <img src="./index/sunofdopamine.png"
     style="width: 70%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
-    alt="Part 1">
+    alt="">
 </img>
+
+<img src="./index/ed.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
+</img>
+
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
