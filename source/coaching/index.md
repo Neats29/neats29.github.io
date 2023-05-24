@@ -123,7 +123,7 @@ https://cal.com/neats/self-love  -->
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
 - for video call sessions, I'd highly recommend wearing a pair of headphones so I can hear you well
-- I'd recommend taking the session laying down or sitting in a comfortable seat
+- I'd recommend taking the session laying down with the laptop camera pointing towards you to show your face and the upper part of your body. However if that is not feasible or comfortable for you, it's totally ok to do the session sitting down in a comfortable seat
 - it's best not to have a hard stop after the session in case we go over time and to allow a gentle transition into the rest of your day
 
 ---
