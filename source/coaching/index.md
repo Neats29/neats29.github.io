@@ -9,7 +9,7 @@ cover_index: /assets/coaching.png
 
 A Somatic well-being practice session consists of laying down or sitting in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy.
 
-This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love.
+This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs.
 
 <h1 style="font-size: 1.6em;">Who are you and how can you help me?</h1>
 
@@ -106,14 +106,14 @@ Here's what two of my favourite tweeters say about achieving self-love:
 Sessions can be done on a video call or in person in London. Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for more information and booking queries where I'll be able to share my calender link for the next availability.
 
 **Time commitment:**
-1hr - 1hr30mins
+1hr30mins
 
 **Sliding Scale:**
-- Low-income: £40
-- Standard: £45
-- Abundant: £60
+- Low-income: £45
+- Standard: £55
+- Abundant: £65
 
-Please note the above rates are intentionally low as an introductory offer. I will most likely raise them in the near future to correctly reflect the service being offered.
+Please note the above rates are intentionally low as an introductory offer. I will gradually raise them over time to correctly reflect the service being offered.
 
 <!-- ⚠️ **Important:** please send me a message **before** booking to confirm.
 **Availability:**
@@ -123,8 +123,8 @@ https://cal.com/neats/self-love  -->
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
 - for video call sessions, I'd highly recommend wearing a pair of headphones so I can hear you well
-- I'd recommend taking the session laying down with the laptop camera pointing towards you to show your face and the upper part of your body. However if that is not feasible or comfortable for you, it's totally ok to do the session sitting down in a comfortable seat
-- it's best not to have a hard stop after the session in case we go over time and to allow a gentle transition into the rest of your day
+- it's important to be comfortable and relaxed so I'd recommend taking the session laying down with the laptop camera pointing towards you to show your face and the upper part of your body. Please arrange this before the session. However if that is not feasible, it's ok to do the session sitting down in a comfortable seat
+- it's best not to have a hard stop after the session to allow a gentle transition into the rest of your day
 
 ---
 If you have any questions, please send me message on [twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com).
