@@ -100,6 +100,15 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
 </img>
 
+<img src="./index/huw.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="Anita's session have given me a new model for how to approach inner-work, and how to support myself through the day. She has a deeply kind, restful presence, and the focus on reaching stillness allows me to go deep and really focus on what my body is needing (rather than going in with a 'fixing' mindset)">
+</img>
+
+
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
