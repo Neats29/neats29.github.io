@@ -100,6 +100,15 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
 </img>
 
+<img src="./index/daniel.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="deeply grateful to @neats29 for the somatic wellbeing / self-love session we had this morning. our session ended up being very IFS-like, and i was really able to connect with several conflicting parts and help them feel/be seen and known more than i had before.
+">
+</img>
+
 <img src="./index/huw.png"
     style="width: 70%;
     display: in-line;
