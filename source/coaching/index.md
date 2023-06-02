@@ -117,13 +117,19 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="Anita's session have given me a new model for how to approach inner-work, and how to support myself through the day. She has a deeply kind, restful presence, and the focus on reaching stillness allows me to go deep and really focus on what my body is needing (rather than going in with a 'fixing' mindset)">
 </img>
 
-
+<!-- <img src="./index/funmi.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="Thank you so much, that was such a beautiful session, thanks for guiding me through. Your prompts were so powerful and helped me access feelings of love in a difficult way & being  more okay with myself">
+</img> -->
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
 Sessions can be done on a video call or in person in London. Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for more information and booking queries where I'll be able to share my calender link for the next availability.
 
-**Time commitment:**
+**Session duration:**
 1hr30mins
 
 <!-- **Sliding Scale:**
