@@ -126,17 +126,12 @@ Sessions can be done on a video call or in person in London. Please [DM me on tw
 **Time commitment:**
 1hr30mins
 
-**Sliding Scale:**
-- Low-income: £45
-- Standard: £55
-- Abundant: £65
-
-Please note the above rates are intentionally low as an introductory offer. I will gradually raise them over time to correctly reflect the service being offered.
-
-<!-- ⚠️ **Important:** please send me a message **before** booking to confirm.
-**Availability:**
-https://cal.com/neats/self-love  -->
-
+<!-- **Sliding Scale:**
+- Low-income: £75
+- Standard: £85
+- Abundant: £95 -->
+<!-- 
+Please note the above rates are intentionally low as an introductory offer. I will gradually raise them over time to correctly reflect the service being offered. -->
 
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
