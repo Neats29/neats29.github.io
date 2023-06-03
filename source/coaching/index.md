@@ -29,7 +29,7 @@ Eventually, last summer, something clicked in me and I started to feel well-reso
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 1:1 sessions for 30+ individuals across IFS and Somatic well-being practice.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 40+ 1:1 sessions across IFS and Somatic well-being practice.
 
 I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
@@ -73,6 +73,8 @@ Here's what two of my favourite tweeters say about achieving self-love:
 > "anita is one of the best facilitators i have worked with. she made it easy to trust her process so i could focus on what was going on inside of me. i was grateful to have her help in guiding my attention, and especially her use of breathwork. months later i still think back to what she helped me discover in our sessions and use it for making decisions in life" — [Mycelium Mage](https://twitter.com/myceliummage)
 
 > "After following Anita's journey into self-love and nervous system regulation for a while now, I finally had the opportunity to experience what she's learned, and it was really, really nice. Going into it I was pretty jittery and didn't know what to expect, but she held such a warm space and a kind presence and it helped me understand what she's moving towards. I left the session feeling much more in tune with my body, and what it meant to love myself, and to use the breath and my feelings to take me deeper into that experience. I've been continuing to use what I learned in that session since, practicing box breathing and making space for my feelings and showing them affection." — [Anansi](https://twitter.com/s0ulDirect0r)
+
+> "Anita has a really special energy. She is so warm, loving, attentive, intelligent, and clearly passionate about this work. I felt very held and cared for in our session, in which she blended IFS therapy, breathwork, and light touch into her own unique format. I think she's a perfect fit for healing work." - [Jane Miller](https://twitter.com/joespurpleshirt)
 
 > "There's a story that some of us who have met Anita tell others: when you are speaking with her it feels like she will listen and accept anything and everything you have to say. It's something you can't force or fake. Her countenance, persence, and empathy gives you permission and space to feel into where you are right now. Her self-love coaching sessions is the epitome of this because she is there with you to inquire where you are and allow whatever needs to pass through, pass through you. I no longer have to be scared or lost in discovering things about myself anymore, knowing Anita will be there when I need her to be." — [Minnow Park](https://twitter.com/minnowpark)
 
