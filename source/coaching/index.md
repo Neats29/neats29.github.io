@@ -132,12 +132,13 @@ Here's what two of my favourite tweeters say about achieving self-love:
 Sessions can be done on a video call or in person in London. Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for more information and booking queries where I'll be able to share my calender link for the next availability.
 
 **Session duration:**
-1hr30mins
+1hr30mins on average
 
-<!-- **Sliding Scale:**
-- Low-income: £75
-- Standard: £85
-- Abundant: £95 -->
+**Sliding Scale:**
+- Low-income: £65
+- Standard: £75
+- Abundant: £85
+
 <!-- 
 Please note the above rates are intentionally low as an introductory offer. I will gradually raise them over time to correctly reflect the service being offered. -->
 
