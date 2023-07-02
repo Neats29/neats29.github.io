@@ -29,7 +29,7 @@ Eventually, last summer, something clicked in me and I started to feel well-reso
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 40+ 1:1 sessions across IFS and Somatic well-being practice.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 45+ 1:1 sessions across IFS and Somatic well-being practice.
 
 I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
@@ -86,6 +86,15 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="just had a self-love session with @neats29! historically i've found it much easier to love others than myself, and it was such a blessing to have her guidance in accessing more self-love. there's always more love! if that calls to you, i recommend DM'ing her for a session!">
 </img>
 
+<img src="./index/nat.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="review of my somatic self-love coaching with 
+@neats29 :It was psychoactive. Anita quickly set the stage and got me out of my head (impressive!). We then identified 3 parts of myself in different areas of my body: a toddler, an 8 year-old and an awkward teen. I talked to them and listened to them and told them how old I was and that I could take care of us now. It was beautiful. I cried, I writhed and at one point I’m pretty sure I accessed the jhanas (bonus!). Anita’s approach was gentle and insightful and I recommend her 100%.">
+</img>
+
 <img src="./index/sunofdopamine.png"
     style="width: 70%;
     display: in-line;
@@ -100,6 +109,14 @@ Here's what two of my favourite tweeters say about achieving self-love:
     margin: auto;
     border: 1px solid lightgrey;"
     alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
+</img>
+
+<img src="./index/fractal.png"
+    style="width: 70%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="I just did a somatic session with @neats29 and there's plenty say about her facilitation and attentive presence, but what I'm actually going to say is Apparently it's time to smoke some n,n. Not now-immediately, but that's the next step in this healing journey she helped with">
 </img>
 
 <img src="./index/daniel.png"
