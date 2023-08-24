@@ -7,9 +7,9 @@ cover_index: /assets/coaching.png
 
 <h1 style="font-size: 1.6em;">What is Somatic well-being practice or self-love coaching?</h1>
 
-A Somatic well-being practice session consists of laying down or sitting in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy.
+A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy.
 
-This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs.
+This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs. Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and the relationship between the individual and what's coming up, while other sessions will be focused on feeling through difficult emotions. At its core, I think of this experience as an interactive meditation. 
 
 <h1 style="font-size: 1.6em;">Who are you and how can you help me?</h1>
 
@@ -29,7 +29,7 @@ Eventually, last summer, something clicked in me and I started to feel well-reso
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 45+ 1:1 sessions across IFS and Somatic well-being practice.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 75+ 1:1 sessions across IFS and Somatic well-being practice.
 
 I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
@@ -79,7 +79,7 @@ Here's what two of my favourite tweeters say about achieving self-love:
 > "There's a story that some of us who have met Anita tell others: when you are speaking with her it feels like she will listen and accept anything and everything you have to say. It's something you can't force or fake. Her countenance, persence, and empathy gives you permission and space to feel into where you are right now. Her self-love coaching sessions is the epitome of this because she is there with you to inquire where you are and allow whatever needs to pass through, pass through you. I no longer have to be scared or lost in discovering things about myself anymore, knowing Anita will be there when I need her to be." — [Minnow Park](https://twitter.com/minnowpark)
 
 <img src="./index/tasshin.png"
-    style="width: 70%;
+    style="width: 80%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
@@ -87,7 +87,7 @@ Here's what two of my favourite tweeters say about achieving self-love:
 </img>
 
 <img src="./index/nat.png"
-    style="width: 70%;
+    style="width: 80%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
@@ -95,32 +95,36 @@ Here's what two of my favourite tweeters say about achieving self-love:
 @neats29 :It was psychoactive. Anita quickly set the stage and got me out of my head (impressive!). We then identified 3 parts of myself in different areas of my body: a toddler, an 8 year-old and an awkward teen. I talked to them and listened to them and told them how old I was and that I could take care of us now. It was beautiful. I cried, I writhed and at one point I’m pretty sure I accessed the jhanas (bonus!). Anita’s approach was gentle and insightful and I recommend her 100%.">
 </img>
 
+
+<img src="./index/nibras.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="i had an incredible self-love session with @neats29 earlier today the conclusion of which was, hilariously, that i need to be more more of a b*tch i’ve felt such calm, energy and lightness since the session. the feelings have infused my entire day
+">
+</img>
+
+<img src="./index/fractal-2.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="@neats29
+ just helped me self-love a decade-old energetic blockage into ... uh ... an energetic dam with semi-open spillway gates. I unclenched something thats been stuck for literally 13 years. If you aren't working with her you're missing out.
+">
+</img>
+
 <img src="./index/sunofdopamine.png"
-    style="width: 70%;
+    style="width: 80%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
     alt="">
 </img>
 
-<img src="./index/ed.png"
-    style="width: 70%;
-    display: in-line;
-    margin: auto;
-    border: 1px solid lightgrey;"
-    alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
-</img>
-
-<img src="./index/fractal.png"
-    style="width: 70%;
-    display: in-line;
-    margin: auto;
-    border: 1px solid lightgrey;"
-    alt="I just did a somatic session with @neats29 and there's plenty say about her facilitation and attentive presence, but what I'm actually going to say is Apparently it's time to smoke some n,n. Not now-immediately, but that's the next step in this healing journey she helped with">
-</img>
-
 <img src="./index/daniel.png"
-    style="width: 70%;
+    style="width: 80%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
@@ -128,33 +132,67 @@ Here's what two of my favourite tweeters say about achieving self-love:
 ">
 </img>
 
+<img src="./index/sandra.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="today I had the pleasure of trying a somatic self-love session from @neats29 and it was awesome ✨ The coolest thing was that I was able to connect with familiar tensions in my body, de-label them and investigate them with fresh eyes. I'd highly recommend it!
+">
+</img>
+
+<img src="./index/fractal.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="I just did a somatic session with @neats29 and there's plenty say about her facilitation and attentive presence, but what I'm actually going to say is Apparently it's time to smoke some n,n. Not now-immediately, but that's the next step in this healing journey she helped with">
+</img>
+
+<img src="./index/ed.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
+</img>
+
+<!-- <img src="./index/ben.png"
+    style="width: 60%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="it was such a lovely blend of IFS, somatic work, and  holding space. i noticed several junctures where your question or comment helped to remind me i am fully safe and can fully surrender">
+</img> -->
+
 <img src="./index/huw.png"
-    style="width: 70%;
+    style="width: 60%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
     alt="Anita's session have given me a new model for how to approach inner-work, and how to support myself through the day. She has a deeply kind, restful presence, and the focus on reaching stillness allows me to go deep and really focus on what my body is needing (rather than going in with a 'fixing' mindset)">
 </img>
 
-<!-- <img src="./index/funmi.png"
-    style="width: 70%;
+<img src="./index/funmi.png"
+    style="width: 60%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
-    alt="Thank you so much, that was such a beautiful session, thanks for guiding me through. Your prompts were so powerful and helped me access feelings of love in a difficult way & being  more okay with myself">
-</img> -->
+    alt="Thank you so much, that was such a beautiful session, thanks for guiding me through. Your prompts were so powerful and helped me access feelings of love in a difficult way & being more okay with myself">
+</img>
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
-Sessions can be done on a video call or in person in London. Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for more information and booking queries where I'll be able to share my calender link for the next availability.
+Sessions are done on a video call. Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for more information and booking queries where I'll be able to share my calender link for the next availability.
 
 **Session duration:**
 1hr30mins on average
 
 **Sliding Scale:**
-- Low-income: £65
+- Low-income: £65 (reserved only for those with limited means)
 - Standard: £75
 - Abundant: £85
+- Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :)
 
 <!-- 
 Please note the above rates are intentionally low as an introductory offer. I will gradually raise them over time to correctly reflect the service being offered. -->
@@ -162,8 +200,15 @@ Please note the above rates are intentionally low as an introductory offer. I wi
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
 - for video call sessions, I'd highly recommend wearing a pair of headphones so I can hear you well
-- it's important to be comfortable and relaxed so I'd recommend taking the session laying down with the laptop camera pointing towards you to show your face and the upper part of your body. Please arrange this before the session. However if that is not feasible, it's ok to do the session sitting down in a comfortable seat
+- most sessions are done laying down (bed/sofa/floor etc) to enable deep relaxation. Please arrange this before the session so that the laptop camera is pointing towards you to show your face and torso. We will have a brief chat at the start of the call and then I will invite you to lay down. However if that is not at all feasible, then it's ok to do the session sitting down in a comfortable seat. 
+<!-- Most people remain in this position for the rest of the session, however you are welcome to move however you like during the session. -->
 - it's best not to have a hard stop after the session to allow a gentle transition into the rest of your day
+
+<h1 style="font-size: 1.6em;">Podcast conversation</h1>
+
+If you'd like to hear more about my self-love journey and this work, you can listen to the Rad Friends podcast with Khe Hy.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 If you have any questions, please send me message on [twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com).
