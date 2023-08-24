@@ -157,13 +157,16 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
 </img>
 
-<!-- <img src="./index/ben.png"
+<img src="./index/ben.png"
     style="width: 60%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
     alt="it was such a lovely blend of IFS, somatic work, and  holding space. i noticed several junctures where your question or comment helped to remind me i am fully safe and can fully surrender">
-</img> -->
+</img>
+</br>
+<span>[Benjamin Haynes](@Bee_Eye_
+)</span>
 
 <img src="./index/huw.png"
     style="width: 60%;
@@ -172,14 +175,16 @@ Here's what two of my favourite tweeters say about achieving self-love:
     border: 1px solid lightgrey;"
     alt="Anita's session have given me a new model for how to approach inner-work, and how to support myself through the day. She has a deeply kind, restful presence, and the focus on reaching stillness allows me to go deep and really focus on what my body is needing (rather than going in with a 'fixing' mindset)">
 </img>
+</br>
+<span>[@EgregoreGalore](@EgregoreGalore)</span>
 
-<img src="./index/funmi.png"
+<!-- <img src="./index/funmi.png"
     style="width: 60%;
     display: in-line;
     margin: auto;
     border: 1px solid lightgrey;"
     alt="Thank you so much, that was such a beautiful session, thanks for guiding me through. Your prompts were so powerful and helped me access feelings of love in a difficult way & being more okay with myself">
-</img>
+</img> -->
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
