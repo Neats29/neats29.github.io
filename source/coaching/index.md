@@ -9,7 +9,9 @@ cover_index: /assets/coaching.png
 
 A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy.
 
-This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs. Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and the relationship between the individual and what's coming up, while other sessions will be focused on feeling through difficult emotions. At its core, I think of this experience as an interactive meditation. 
+This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs. 
+
+Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and the relationship between the individual and what's coming up, while other sessions will be focused on feeling through difficult emotions.
 
 <h1 style="font-size: 1.6em;">Who are you and how can you help me?</h1>
 
@@ -43,7 +45,8 @@ Working towards self-love which in my experience involves learning to feel one's
 - lessening procrastination and perfectionism
 - feeling less anxious or less numb
 - better connection and improved interpersonal abilities
-- getting [out of a triggered state](https://twitter.com/neats29/status/1612453371251769347?s=20) or recovering from it quickly 
+- getting [out of a triggered state](https://twitter.com/neats29/status/1612453371251769347?s=20) or recovering from it quickly
+- getting closer to a [secure attachment style](https://twitter.com/neats29/status/1684959585977634816?s=20)
 
 Here's what two of my favourite tweeters say about achieving self-love:
 
@@ -190,6 +193,8 @@ Here's what two of my favourite tweeters say about achieving self-love:
 
 Sessions are done on a video call. Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for more information and booking queries where I'll be able to share my calender link for the next availability.
 
+Please note: some individuals book these as a one-off experience, while others book for a period of time on a weekly or semi-regular basis to dive deeper. We can discuss this after the first call.
+
 **Session duration:**
 1hr30mins on average
 
@@ -213,7 +218,7 @@ Please note the above rates are intentionally low as an introductory offer. I wi
 
 If you'd like to hear more about my self-love journey and this work, you can listen to the Rad Friends podcast with Khe Hy.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="400" height="240" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 If you have any questions, please send me message on [twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com).
