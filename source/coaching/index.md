@@ -9,7 +9,7 @@ cover_index: /assets/coaching.png
 
 A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy.
 
-This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs. 
+This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as IFS therapy and meditation to tailor the session to your needs. 
 
 Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and the relationship between the individual and what's coming up, while other sessions will be focused on feeling through difficult emotions.
 
@@ -31,7 +31,7 @@ Eventually, last summer, something clicked in me and I started to feel well-reso
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 75+ 1:1 sessions across IFS and Somatic well-being practice.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 85+ 1:1 sessions across IFS and Somatic well-being practice.
 
 I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
@@ -209,10 +209,12 @@ Please note the above rates are intentionally low as an introductory offer. I wi
 
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
-- for video call sessions, I'd highly recommend wearing a pair of headphones so I can hear you well
-- most sessions are done laying down (bed/sofa/floor etc) to enable deep relaxation. Please arrange this before the session so that the laptop camera is pointing towards you to show your face and torso. We will have a brief chat at the start of the call and then I will invite you to lay down. However if that is not at all feasible, then it's ok to do the session sitting down in a comfortable seat. 
-<!-- Most people remain in this position for the rest of the session, however you are welcome to move however you like during the session. -->
-- it's best not to have a hard stop after the session to allow a gentle transition into the rest of your day
+
+- Most sessions are done laying down (bed/sofa/floor etc) to enable deep relaxation. Please arrange this before the session so that the laptop camera is pointing towards you to show your face and torso. We will have a brief chat at the start of the call and then I will invite you to lay down. Most people remain in this position for the rest of the session, however you are welcome to move however you like during the session. If that is not at all feasible, then you may do the session sitting down in a comfortable seat.
+
+- Please wear a pair of headphones so I can hear you well, when laying down away from the laptop, the sound can become muffled.
+
+- It's best not to have a hard stop after the session to allow a gentle transition into the rest of your day
 
 <h1 style="font-size: 1.6em;">Podcast conversation</h1>
 

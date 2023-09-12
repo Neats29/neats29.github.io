@@ -26,4 +26,7 @@
 The hexo-renderer-sass package which is a dependency for the theme, uses node-sass which has been deprecated. There is a fix for it but it hasn't been merged, so I used [this fork](https://github.com/knksmith57/hexo-renderer-sass/pull/46) for the time being.
 
 
-<!-- cd ../ && sudo chmod -R 777 neats29.github.io && cd neats29.github.io -->
+<!-- 
+sudo chown -R $(whoami) .
+chmod -R u+rwx . 
+ -->
