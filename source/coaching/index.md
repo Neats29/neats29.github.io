@@ -160,6 +160,14 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="I was one of the beneficiaries of this...feelin' floaty after Anita's awesome session, highly recommend!">
 </img>
 
+<img src="./index/christine.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="I recently did a self healing session with @neats29 and I  finally stopped to listen to my body without immediately veto-ing it with my mind (because what would it implicate if I just let the message reverberate?) ">
+</img>
+
 <img src="./index/ben.png"
     style="width: 60%;
     display: in-line;
