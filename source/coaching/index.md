@@ -31,7 +31,7 @@ Eventually, last summer, something clicked in me and I started to feel well-reso
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held 85+ 1:1 sessions across IFS and Somatic well-being practice.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held more than 100 1:1 sessions across IFS and Somatic well-being practice.
 
 I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
@@ -179,6 +179,17 @@ Here's what two of my favourite tweeters say about achieving self-love:
 <span>[Benjamin Haynes](@Bee_Eye_
 )</span>
 
+<img src="./index/panashe.png"
+    style="width: 60%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="The session: what a joy! I think you strike a very good balance of facilitating an experience without leading me anywhere in particular, allow me to see what arises for me. I really enjoyed your particular brand of breathwork, somatic meditation and IFS. Expect to see me again 🙂">
+</img>
+</br>
+<span>[Panashe M. Fundira](@panafunds
+)</span>
+
 <img src="./index/huw.png"
     style="width: 60%;
     display: in-line;
@@ -212,8 +223,10 @@ Please note: some individuals book these as a one-off experience, while others b
 - Abundant: £85
 - Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :)
 
-<!-- 
-Please note the above rates are intentionally low as an introductory offer. I will gradually raise them over time to correctly reflect the service being offered. -->
+
+P.S. I'm going to be offering a "company package" soon. The purpose of it would be to help unblock team members as and when they are emotionally stuck at work or in their personal lives. Please message me for inquiries in the meantime.
+
+<!-- where a pre-determined number of sessions could be purchased to be redeemed by individuals on a team. -->
 
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
