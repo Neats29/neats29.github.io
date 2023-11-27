@@ -18,7 +18,7 @@ At the end of 2021 I left my software engineering role after getting burnt out. 
 During this time I started to hold 1:1 space by facilitating IFS and breathwork sessions. It was also the year that I finally learned to love myself fully after 3 years of exploration. I now hold 1:1 self-love sessions under a modality I'm calling "Somatic well-being practice". You can find out more about [these sessions here](/coaching).
 
 
-This year, I also co-created [Somalist](https://somal.ist/) a directory of somatic practitioners such as therapists, bodyworkers and breathwork practitioners. 
+<!-- This year, I also co-created [Somalist](https://somal.ist/) a directory of somatic practitioners such as therapists, bodyworkers and breathwork practitioners.  -->
 
 <!-- I use writing as a way to make sense of this world. I love distilling what I learn and sharing it with others. The coolest side-effect is making friends online, so  -->
 
