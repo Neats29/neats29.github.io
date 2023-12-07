@@ -13,7 +13,7 @@ This is the culmination of what has worked for me to increase a sense of well-be
 
 Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and feeling through difficult emotions, while some will involve a cathartic emotional release through dance or anger work.
 
-<h1 style="font-size: 1.6em;">Who are you and how can you help me?</h1>
+<h1 style="font-size: 1.6em;">Who are you and how do you work with clients?</h1>
 
 <img src="./index/me.jpeg"
     style="width: 50%;
@@ -47,6 +47,8 @@ Working towards self-love which in my experience involves learning to feel one's
 - better connection and improved interpersonal abilities
 - getting [out of a triggered state](https://twitter.com/neats29/status/1612453371251769347?s=20) or recovering from it quickly
 - getting closer to a [secure attachment style](https://twitter.com/neats29/status/1684959585977634816?s=20)
+
+You can read more about my framework for self-love which informs this coaching practice [here](/self-love-framework).
 
 Here's what two of my favourite tweeters say about achieving self-love:
 
@@ -168,6 +170,14 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="I recently did a self healing session with @neats29 and I  finally stopped to listen to my body without immediately veto-ing it with my mind (because what would it implicate if I just let the message reverberate?) ">
 </img>
 
+<img src="./index/matcha.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="i just got off a self-love coaching session w @neats29, with the intention of being able to tap into the Love within me even while sober and my god it was 2 hours of rediscovering my parts, talking to my younger self, expressing gratitude to my body, and hugging myself again ">
+</img>
+
 <img src="./index/ben.png"
     style="width: 60%;
     display: in-line;
@@ -200,14 +210,6 @@ Here's what two of my favourite tweeters say about achieving self-love:
 </br>
 <span>[@EgregoreGalore](https://twitter.com/EgregoreGalore)</span>
 
-<!-- <img src="./index/matcha.png"
-    style="width: 80%;
-    display: in-line;
-    margin: auto;
-    border: 1px solid lightgrey;"
-    alt="">
-</img> -->
-
 <!-- <img src="./index/funmi.png"
     style="width: 60%;
     display: in-line;
@@ -224,7 +226,7 @@ There are broadly two ways of working together:
 
 - **Ongoing Exploration**: a timeboxed or open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity and a greater capacity to be with difficult emotions.
 
-Please [DM me on twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com) for booking queries. We would then book a free intro call to discuss working together, or book a one-off session.
+You may [book an intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a booking link if you'd like to book a one-off session without an intro call.
 
 Sessions are done on a video call.
 
@@ -260,4 +262,4 @@ If you'd like to hear more about my self-love journey and this work, you can lis
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3D7Qe5q9zf4l0STMH0qZyf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
 ---
-If you have any questions, please send me message on [twitter](https://twitter.com/neats29) or email me at [anita.amini29@gmail.com](mailto:anita.amini29@gmail.com).
+If you have any questions, please send me message on [twitter](https://twitter.com/neats29).

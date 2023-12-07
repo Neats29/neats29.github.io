@@ -11,7 +11,7 @@ date: 2019-04-27 13:10:22
 
 My name is Anita and I’m currently a [feral free agent](https://www.visakanv.com/blog/feral-free-agents/). 
 
-At the end of 2021 I left my software engineering role after getting burnt out. Although I have done almost a decade of inner work, the burnout was a huge catalyst to help me heal. I had the freedom to really dive deep into some of the work I had started in previous years. It was a year of profound self-discovery and breakthrough.
+At the end of 2021 I left my software engineering role after getting burnt out. Although I have done many years of inner work, the burnout was a huge catalyst to help me heal. I had the freedom to really dive deep into some of the work I had started in previous years. It was a year of profound self-discovery and breakthrough.
 
 <h1 style="font-size: 1.4em;">Somatic sessions</h1>
 

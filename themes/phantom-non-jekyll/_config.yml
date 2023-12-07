@@ -14,7 +14,7 @@ logo_src: /images/anita-icon.png
 subtitle_main: Information Distillery
 
 # # Theme Secondary subtitle
-susbtitle_secondary: <h3><a href="/start-here">Start Here</a></h3>
+susbtitle_secondary: <h3><a href="/coaching">Coaching</a></h3>
 
 # Footer About Section
 about_footer: Hi, my name is Anita and I love to learn. This blog is here to capture all the fascinating things I'm learning about. I write code, when I'm not reading, listening to podcasts, climbing or hanging out with people I like.
@@ -37,6 +37,5 @@ google_analytics: UA-131516982-1
 
 # Social Accounts
 twitter_url: https://twitter.com/Neats29
-instagram_url: https://www.instagram.com/Neats29
+instagram_url: https://www.instagram.com/neats0beats
 github_url: https://github.com/Neats29
-email_url: mailto:anita.amini29@gmail.com
