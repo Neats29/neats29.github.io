@@ -170,7 +170,7 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="I recently did a self healing session with @neats29 and I  finally stopped to listen to my body without immediately veto-ing it with my mind (because what would it implicate if I just let the message reverberate?) ">
 </img>
 
-<img src="./index/matcha.png"
+<img src="./index/matcha_.png"
     style="width: 80%;
     display: in-line;
     margin: auto;
