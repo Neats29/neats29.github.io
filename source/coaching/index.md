@@ -222,9 +222,9 @@ Here's what two of my favourite tweeters say about achieving self-love:
 
 There are broadly two ways of working together:
 
-- **One-off Experience**: for those looking to experience this flavour of inner work or to focus on a particular challenge, or both! It's an opportunity to connect with your internal parts and work with difficult emotions, or even deepen into pleasurable ones.
-
 - **Ongoing Exploration**: a timeboxed or open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity and a greater capacity to be with difficult emotions.
+
+- **One-off Experience**: for those looking to experience this flavour of inner work. It's an opportunity to connect with your internal parts and work with difficult emotions, or even deepen into pleasurable ones. The purpose is to get a taste for the session and see if you'd like to continue working together.
 
 You may [book an intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a booking link if you'd like to book a one-off session without an intro call.
 
