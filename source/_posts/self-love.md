@@ -5,7 +5,7 @@ date: 2023-03-30 16:23:05
 tags:
 ---
 
-About 3 years ago, sitting on the sofa, in an [altered state of consciousness](/self-compassion), I was suddenly struck by a visceral realisation that I did not love myself. Ever since then, I’ve been on a treasure hunt in pursuit of self-love.
+In late 2019, sitting on the sofa, in an [altered state of consciousness](/self-compassion), I was suddenly struck by a visceral realisation that I did not love myself. Ever since then, I’ve been on a treasure hunt in pursuit of self-love.
 
 It’s become apparent to me that much of my own and other people’s internal suffering is downstream of a lack of self-love. Everything from self-doubt, negative self-talk and self-image, to the inability to connect deeply with others, is a partial symptom of a lack of self-love.
 
@@ -79,7 +79,7 @@ On top of it all I had the opportunity to be of service by holding space through
 
 <h1 style="font-size: 1.6em;">Finding indestructible love</h1>
 
-Then, during another unordinary state of consciousness, I experienced a thing deep, deep inside me that loved me no matter what. It wasn’t a “part” exactly, it felt deeper than that. Unconditional, unapologetic love. It didn’t care what the hell I did, it loved me regardless. There was no need for shame. And although I am skeptical of unconditional love (between individuals), I had no doubt in the unconditionality of this love. All the negative emotions I felt towards myself 3 years ago, seemed to have vanished, and be replaced by this love. Or perhaps it had always been there, buried under harmful beliefs about myself.
+Then, during another unordinary state of consciousness, I experienced a thing deep, deep inside me that loved me no matter what. It wasn’t a “part” exactly, it felt deeper than that. Unconditional, unapologetic love. It didn’t care what the hell I did, it loved me regardless. There was no need for shame. And although I am skeptical of unconditional love (between individuals), I had no doubt in the unconditionality of this love. All the negative emotions I felt towards myself all those years ago, seemed to have vanished, and be replaced by this love. Or perhaps it had always been there, buried under harmful beliefs about myself.
 
 I don’t know whether this shift is persistent and baseline-raising or not. But what I do know is that in general, these days, I relate to myself in a much more loving way. And I seem to have more equanimity too as seen in my Tweets:
 
