@@ -11,7 +11,7 @@ Slowly, people started asking about how to do the same so I began to come up wit
 
 Before I talk about the framework, I’d like to share what self-love has offered me so far:
 
-- Increased feelings of aliveness and joy, and crucially, a higher baseline of wellbeing
+- Increased feelings of aliveness and joy, and crucially, a higher baseline of well-being
 - Improved skills in setting boundaries
 - Richer connections, better interpersonal skills, and reduced social anxiety
 - Transitioning to a more secure attachment style
@@ -31,9 +31,9 @@ Self-love is a vague and imprecise word, with a marketing problem. So here’s h
 
 Self-love, you could say, is the harmonisation of the parts within us. It's the welcoming of the parts we judge, the shadow parts we disown and the parts from which our attention has been denied.
 
-Sometimes I like to call it internal love; that’s the felt sense of it. Some call it Deep Okayness or simply raising your baseline of wellbeing.
+Sometimes I like to call it internal love; that’s the felt sense of it. Some call it Deep Okayness or simply raising your baseline of well-being.
 
-With this piece I hope to create a somewhat systematic approach to self-love. The same approach that informs my Somatic Well-being Practice and [self-love coaching](/coaching).
+With this piece I hope to create a somewhat systematic approach to self-love. The same approach that informs my Somatic Well-Being Practice and [self-love coaching](/coaching).
 
 Your journey will certainly be different from mine. I’m merely sharing my path.
 
@@ -84,7 +84,7 @@ On my journey I found 4 core areas that created the most substantial change towa
 <h1 style="font-size: 1.8em;">Inner critic transformation</h1>
 
 <img src="/self-love-framework/pyramid-critic.png"
-    style="width: 70%;
+    style="width: 80%;
     display: block;
     " alt="">
 </img>
@@ -107,6 +107,7 @@ While the most cathartic anger releases are often those that involve the use of 
 2. Connect with your anger by speaking from it or identifying bodily sensations (often both)
 3. Imagine various scenarios for expressing this anger, such as screaming alone in a forest, hitting an inanimate object like a car with a baseball bat, or running as fast as you can.
 4. Choose a scenario and play it out in your mind while squeezing the towel as if wringing out water.
+5. Continue to stay connected with the anger and see how else it would like to be expressed
 
 While this method is less physically and vocally expressive, it can still be quite cathartic and it offers a great starting point for those apprehensive about anger work.
 
@@ -127,7 +128,7 @@ Here’s a simple hack I stumbled upon from my meditation practice: when feeling
 <h1 style="font-size: 1.8em;">Nervous system regulation</h1>
 
 <img src="/self-love-framework/pyramid-ns.png"
-    style="width: 70%;
+    style="width: 80%;
     display: block;
     " alt="">
 </img>
@@ -193,7 +194,7 @@ Aside from chronic nervous system dysregulation, it’s very helpful to learn to
 <h1 style="font-size: 1.8em;">Emotional fluidity</h1>
 
 <img src="/self-love-framework/pyramid-emotion.png"
-    style="width: 70%;
+    style="width: 80%;
     display: block;
     " alt="">
 </img>
@@ -233,7 +234,7 @@ I recently had a difficulty at work. This triggered some feelings of self-doubt,
 - Hopelessness
 - Despair
 
-I worked with each and every one of those, and did a turnaround exercise from Byron Katie’s _The Work_ on a problematic belief that was coming up, and then returned to my baseline. I was then able to identify different actions I could take to tackle the challenge at work and carry on with my day from a calm and rational place.
+I worked with each and every one of those and then returned to my baseline. I was then able to identify different actions I could take to tackle the challenge at work and carry on with my day from a calm and rational place.
 
 The next day I noticed some emotions reactivating from the previous day. I felt through each emotion, this time it was mostly shame, sadness and anger. During some anger work, I moved on to some shadow work where I identified a potential way I was engaging in self-sabotage. I saw the wisdom in that self-sabotage; feeling loved and protected by it.
 
@@ -245,7 +246,7 @@ Moving through this entire process and being able to restore my baseline sense o
 <h1 style="font-size: 1.8em;">Connection</h1>
 
 <img src="/self-love-framework/pyramid-connection.png"
-    style="width: 70%;
+    style="width: 80%;
     display: block;
     " alt="">
 </img>
