@@ -7,11 +7,13 @@ cover_index: /assets/coaching.png
 
 <h1 style="font-size: 1.6em;">What is Somatic well-being practice or self-love coaching?</h1>
 
-A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy.
+A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques. 
+<!-- 
+This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy. -->
 
-This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as IFS therapy, shadow work and meditation to tailor the session to your needs. 
+This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), shadow work and meditation to tailor the session to your needs. 
 
-Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and feeling through difficult emotions, while some will involve a cathartic emotional release through dance or anger work.
+Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and feeling through difficult emotions, while some will involve a cathartic emotional release through movement or anger work.
 
 <h1 style="font-size: 1.6em;">Who are you and how do you work with clients?</h1>
 
@@ -27,13 +29,13 @@ I used to have a lot of self-doubt, worry incessantly and compare myself to my p
 
 Along the way I learned that many of my afflictions stemed from my lack of self-love. Somewhere deep in my psyche, unbewknonst to me, I didn’t like myself. That’s where the self-doubt and everything else stemed from. So I went on a 3-year journey to find [persistent self-love](/self-love). I did it and it was everything I hoped it’d be and more. You can read more about the story [here](/self-love).
 
-Eventually, in the summer of 2022, something clicked in me and I started to feel well-resourced and drawn to holding space for others. Slowly I started to hold IFS sessions for friends and in October-December 2022, I got to put this into practice by running regular 1:1 sessions at a residency in Berlin; combing IFS and breathwork.
+Eventually, in the summer of 2022, something clicked in me and I started to feel well-resourced and drawn to holding space for others. Slowly I started to hold IFS sessions for friends and in October-December 2022, I got to put this into practice by running regular 1:1 sessions at a residency in Berlin; combing IFS and nervous system regulation.
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
 I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held more than 150 1:1 sessions.
 
-I am not a certified therapist or coach (yet). Though I have taken many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
+I am not a certified therapist or coach (yet). Though I have taken and continue to take many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
 
 
 <h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
@@ -222,7 +224,7 @@ Here's what two of my favourite tweeters say about achieving self-love:
 
 There are broadly two ways of working together:
 
-- **Ongoing Exploration**: a timeboxed or open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity and a greater capacity to be with difficult emotions.
+- **Ongoing Exploration**: a timeboxed or open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
 
 - **One-off Experience**: for those looking to experience this flavour of inner work. It's an opportunity to connect with your internal parts and work with difficult emotions, or even deepen into pleasurable ones. The purpose is to get a taste for the session and see if you'd like to continue working together.
 
@@ -233,14 +235,11 @@ Sessions are done on a video call.
 **Session duration:**
 1hr30mins on average
 
-**Sliding Scale:**
+<!-- **Sliding Scale:**
 - Abundant: £85
 - Standard: £75
 - Low-income: £65 (reserved only for those with limited means)
-- Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :)
-
-
-P.S. I'm going to be offering a "company package" soon. The purpose of it would be to help unblock team members as and when they are emotionally stuck at work or in their personal lives. Please message me for inquiries in the meantime.
+- Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :) -->
 
 
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
