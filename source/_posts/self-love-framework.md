@@ -142,9 +142,9 @@ What I came to learn was that my nervous system–the intricate network responsi
 
 The nervous system (as described by Polyvagal Theory) is made up of three main branches:
 
-- **Parasympathetic** (Ventral Vagal) System: Responsible for rest, digest, safety, social engagement, and relaxation.
-- **Sympathetic** Nervous System: Governs the fight or flight response.
-- **Dorsal Vagal** System: Controls the freeze and shutdown reactions.
+- **Ventral Vagal** complex (parasympathetic nervous system): Responsible for rest, digest, safety, social engagement, and relaxation.
+- **Sympathetic** nervous system: Governs the fight or flight response.
+- **Dorsal Vagal** complex (parasympathetic nervous system): Controls the freeze and shutdown reactions.
 
 Dysregulation in the nervous system can be characterised by an overactivity in the sympathetic and/or dorsal vagal branches. This leaves the body in a state of heightened alertness, stress or numbness even when there is no immediate threat.
 

@@ -33,9 +33,10 @@ Eventually, in the summer of 2022, something clicked in me and I started to feel
 
 More recently, I have decided to focus the sessions on self-love given how impactful it has been.
 
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. So far I have held more than 150 1:1 sessions.
+I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love. 
+<!-- So far I have held close to 200 1:1 sessions. -->
 
-I am not a certified therapist or coach (yet). Though I have taken and continue to take many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session.
+I am not a certified therapist or coach (yet). Though I have taken and continue to take many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done close to 300 hours of these sessions.
 
 
 <h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
@@ -180,6 +181,15 @@ Here's what two of my favourite tweeters say about achieving self-love:
     alt="i just got off a self-love coaching session w @neats29, with the intention of being able to tap into the Love within me even while sober and my god it was 2 hours of rediscovering my parts, talking to my younger self, expressing gratitude to my body, and hugging myself again ">
 </img>
 
+<img src="./index/sunof.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="A session with someone like @neats29
+ is usually more effective than shadow work because a lot of shadow stuff releases naturally if you feel sufficiently loved and safe there's a sense in which some of what we term shadow work is trying to jump directly to the end">
+</img>
+
 <img src="./index/ben.png"
     style="width: 60%;
     display: in-line;
@@ -212,13 +222,6 @@ Here's what two of my favourite tweeters say about achieving self-love:
 </br>
 <span>[@EgregoreGalore](https://twitter.com/EgregoreGalore)</span>
 
-<!-- <img src="./index/funmi.png"
-    style="width: 60%;
-    display: in-line;
-    margin: auto;
-    border: 1px solid lightgrey;"
-    alt="Thank you so much, that was such a beautiful session, thanks for guiding me through. Your prompts were so powerful and helped me access feelings of love in a difficult way & being more okay with myself">
-</img> -->
 
 <h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
@@ -235,10 +238,10 @@ Sessions are done on a video call.
 **Session duration:**
 1hr30mins on average
 
-<!-- **Sliding Scale:**
-- Abundant: £85
+<!-- **Sliding Scale:** -->
+<!-- £75-120 -->
+<!-- - Abundant: £85
 - Standard: £75
-- Low-income: £65 (reserved only for those with limited means)
 - Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :) -->
 
 
@@ -256,6 +259,11 @@ Sessions are done on a video call.
 If you'd like to hear more about my self-love journey and this work, you can listen to The Examined Life podcast with Khe Hy.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br />
+<h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_PRMvBA6dQ8?si=QT5q6puQwGy9KsW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3D7Qe5q9zf4l0STMH0qZyf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
