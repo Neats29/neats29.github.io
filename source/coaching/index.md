@@ -7,9 +7,7 @@ cover_index: /assets/coaching.png
 
 <h1 style="font-size: 1.6em;">What is somatic well-being practice?</h1>
 
-A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques. 
-<!-- 
-This will be followed by a guided meditation to explore the somatic experience of feeling love for yourself. And finally, we will conclude the session with another nervous system exercise to release any stuck energy. -->
+A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques.
 
 This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), shadow work and meditation to tailor the session to your needs. 
 
@@ -253,12 +251,7 @@ Sessions are done on a video call.
 1hr30mins on average
 
 **Sliding Scale:**
-£75—100
-
-<!-- - Abundant: £85
-- Standard: £75
-- Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :) -->
-
+£75—£100
 
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
