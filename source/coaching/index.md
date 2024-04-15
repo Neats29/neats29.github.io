@@ -5,7 +5,7 @@ cover_detail: /assets/coaching.png
 cover_index: /assets/coaching.png
 ---
 
-<h1 style="font-size: 1.6em;">What is Somatic well-being practice or self-love coaching?</h1>
+<h1 style="font-size: 1.6em;">What is somatic well-being practice?</h1>
 
 A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques. 
 <!-- 
@@ -35,7 +35,7 @@ More recently, I have decided to focus the sessions on self-love given how impac
 
 I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love.
 
-I am not a certified therapist or coach (yet). Though I have taken and continue to take many courses that don't come with official credentials. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done close to 300 hours of these sessions.
+I am not a certified therapist or coach (yet). Though I am currently taking an IFS certification course and I have done many courses over the years that don't come with official certifications. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done more than 300 hours of these sessions.
 
 __Current courses I'm undertaking:__
 - IFS certification
@@ -233,17 +233,28 @@ There are broadly two ways of working together:
 
 - **Ongoing Exploration**: a timeboxed or open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
 
+    Here's a client describing the specific benefits they gained by working with me over the space of a few months:
+
+<img src="./index/sam.png"
+    style="width: 100%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid white;"
+    alt="">
+</img>
+
 - **One-off Experience**: for those looking to experience this flavour of inner work. It's an opportunity to connect with your internal parts and work with difficult emotions, or even deepen into pleasurable ones. The purpose is to get a taste for the session and see if you'd like to continue working together.
 
-You may [book an intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a booking link if you'd like to book a one-off session without an intro call.
+You may [book an intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. Alternatively, you may [DM me on twitter](https://twitter.com/neats29) with any questions or to request a booking link if you'd like to book a one-off session without an intro call.
 
 Sessions are done on a video call.
 
 **Session duration:**
 1hr30mins on average
 
-<!-- **Sliding Scale:** -->
-<!-- £75-120 -->
+**Sliding Scale:**
+£75—100
+
 <!-- - Abundant: £85
 - Standard: £75
 - Bonus: any value to further support my work, subsidise more low-income slots or if you particularly enjoyed the session :) -->
