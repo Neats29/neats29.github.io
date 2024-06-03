@@ -33,10 +33,10 @@ More recently, I have decided to focus the sessions on self-love given how impac
 
 I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love.
 
-I am not a certified therapist or coach (yet). Though I am currently taking an IFS certification course and I have done many courses over the years that don't come with official certifications. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done more than 300 hours of these sessions.
+I am not a certified therapist or coach (yet). Though I am currently undertaking an IFS training course and I have done many courses over the years that don't come with official certifications. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done close to 400 hours of these sessions.
 
 __Current courses I'm undertaking:__
-- IFS certification
+- IFS training
 - MDMA facilitator training
 - A year-long programme with the Art of Accomplishment (Joe Hudson)
 
@@ -192,6 +192,22 @@ Here's what two of my favourite tweeters say about achieving self-love:
  is usually more effective than shadow work because a lot of shadow stuff releases naturally if you feel sufficiently loved and safe there's a sense in which some of what we term shadow work is trying to jump directly to the end">
 </img>
 
+<img src="./index/sam2.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="">
+</img>
+
+<img src="./index/kaleigh.png"
+    style="width: 80%;
+    display: in-line;
+    margin: auto;
+    border: 1px solid lightgrey;"
+    alt="">
+</img>
+
 <img src="./index/ben.png"
     style="width: 60%;
     display: in-line;
@@ -262,6 +278,12 @@ Sessions are done on a video call.
 
 - It's best not to have a hard stop after the session to allow a gentle transition into the rest of your day
 
+<h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_PRMvBA6dQ8?si=QT5q6puQwGy9KsW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br />
+
 <h1 style="font-size: 1.6em;">Podcast appearances</h1>
 
 If you'd like to hear more about my self-love journey and this work, you can listen to The Examined Life podcast with Khe Hy.
@@ -269,12 +291,9 @@ If you'd like to hear more about my self-love journey and this work, you can lis
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br />
-<h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_PRMvBA6dQ8?si=QT5q6puQwGy9KsW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TNDjemBYahc?si=xA9nreQJd8yntfDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3D7Qe5q9zf4l0STMH0qZyf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
 ---
 If you have any questions, please send me message on [twitter](https://twitter.com/neats29).
