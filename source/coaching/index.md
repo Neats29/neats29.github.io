@@ -35,11 +35,6 @@ I have created a new session format that I am calling Somatic well-being practic
 
 I am not a certified therapist or coach (yet). Though I am currently undertaking an IFS training course and I have done many courses over the years that don't come with official certifications. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done close to 400 hours of these sessions.
 
-__Current courses I'm undertaking:__
-- IFS training
-- MDMA facilitator training
-- A year-long programme with the Art of Accomplishment (Joe Hudson)
-
 
 <h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
 
