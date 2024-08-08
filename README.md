@@ -22,8 +22,6 @@
 
 - The theme https://github.com/klugjo/hexo-theme-phantom
 
-**2022 update:**
-The hexo-renderer-sass package which is a dependency for the theme, uses node-sass which has been deprecated. There is a fix for it but it hasn't been merged, so I used [this fork](https://github.com/knksmith57/hexo-renderer-sass/pull/46) for the time being.
 
 The "mode" argument must be of type number. Received an instance of Object - this error means that we are using the wrong version of node so change it with nvm
 
@@ -33,4 +31,5 @@ chmod -R u+rwx .
  -->
 
 ** August 2024 update
-Upgrade node from version 12.4.0 to 14 and hexo to the latest version (7.3.0). [ref](https://github.com/Neats29/neats29.github.io/commit/8ef65d9dd37f6cc0c507a7300171418da06233c7)
+Upgrade node from version 12.4.0 to 16 and hexo to the latest version (7.3.0).
+
