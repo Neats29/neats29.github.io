@@ -7,11 +7,13 @@ cover_index: /assets/coaching.png
 
 <h1 style="font-size: 1.6em;">What is somatic well-being practice?</h1>
 
-A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided breathing exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques.
+A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques.
 
-This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), shadow work and meditation to tailor the session to your needs. 
+Over time I have leaned more into [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model) as the main modality in the session, however I still draw from other modalities and blend them in lightly.
 
-Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and feeling through difficult emotions, while some will involve a cathartic emotional release through movement or anger work.
+<!-- This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), shadow work and meditation to tailor the session to your needs. 
+
+Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and feeling through difficult emotions, while some will involve a cathartic emotional release through movement or anger work. -->
 
 <h1 style="font-size: 1.6em;">Who are you and how do you work with clients?</h1>
 
@@ -25,18 +27,14 @@ For the last few years I've predominately made a living from Software Engineerin
 
 I used to have a lot of self-doubt, worry incessantly and compare myself to my peers. But I was deeply curious and explored each affliction like a detective. For many years I devoured books and courses, experienced altered states of consciousness and sought out wisdom wherever I could find it. I tried many healing and embodiment modalities; [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), breathwork, dance and more. I trained with world-class coaches like [Joe Hudson](https://artofaccomplishment.com/) who helped me dissolve my inner critic. I healed my nervous system using a [breathwork app](https://othership.onelink.me/loJo/anita).
 
-Along the way I learned that many of my afflictions stemed from my lack of self-love. Somewhere deep in my psyche, unbewknonst to me, I didn’t like myself. That’s where the self-doubt and everything else stemed from. So I went on a 3-year journey to find [persistent self-love](/self-love). I did it and it was everything I hoped it’d be and more. You can read more about the story [here](/self-love).
+Along the way I learned that many of my afflictions stemmed from my lack of self-love. Somewhere deep in my psyche, unbeknownst to me, I didn’t like myself. That’s where the self-doubt and everything else stemmed from. So I went on a 3-year journey to find [persistent self-love](/self-love). You can read more about the story [here](/self-love).
 
 Eventually, in the summer of 2022, something clicked in me and I started to feel well-resourced and drawn to holding space for others. Slowly I started to hold IFS sessions for friends and in October-December 2022, I got to put this into practice by running regular 1:1 sessions at a residency in Berlin; combing IFS and nervous system regulation.
 
-More recently, I have decided to focus the sessions on self-love given how impactful it has been.
-
-I have created a new session format that I am calling Somatic well-being practice, which is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love.
-
-I am not a certified therapist or coach (yet). Though I am currently undertaking an IFS training course and I have done many courses over the years that don't come with official certifications. I bring my [deep sensitivity](https://twitter.com/neats29/status/1547967565602836482?s=20), [intuition](https://twitter.com/neats29/status/1568747740330618881?s=20), [compassion](https://twitter.com/neats29/status/1617284793405739009?s=20) and patience to every session. So far I have done close to 400 hours of these sessions.
+I have been offering 1:1 IFS sessions professionally since May 2023. I am not a psychotherapist or a certified coach. However, I have completed IFS therapy training from IFSCA and I have done many courses over the years that don't come with official certifications. So far I have completed over 400 hours of these sessions.
 
 
-<h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
+<!-- <h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
 
 Self-love is a nurturing source of internal love that helps soften the harsh aspects of being a human in this world.
 
@@ -48,8 +46,8 @@ Working towards self-love which in my experience involves learning to feel one's
 - getting [out of a triggered state](https://twitter.com/neats29/status/1612453371251769347?s=20) or recovering from it quickly
 - getting closer to a [secure attachment style](https://twitter.com/neats29/status/1684959585977634816?s=20)
 
-You can read more about my framework for self-love which informs this coaching practice [here](/self-love-framework).
-
+You can read more about my framework for self-love which informs this coaching practice [here](/self-love-framework). -->
+<!-- 
 Here's what two of my favourite tweeters say about achieving self-love:
 
 
@@ -71,7 +69,7 @@ Here's what two of my favourite tweeters say about achieving self-love:
     border: 1px solid lightgrey;"
     alt="Part 1">
 </img>
-</a>
+</a> -->
 
 <h1 style="font-size: 1.6em;">Testimonials</h1>
 
@@ -240,7 +238,7 @@ Here's what two of my favourite tweeters say about achieving self-love:
 
 There are broadly two ways of working together:
 
-- **Ongoing Exploration**: a timeboxed or open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
+- **Ongoing Exploration**: an open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
 
     Here's a client describing the specific benefits they gained by working with me over the space of a few months:
 
@@ -254,7 +252,7 @@ There are broadly two ways of working together:
 
 - **One-off Experience**: for those looking to experience this flavour of inner work. It's an opportunity to connect with your internal parts and work with difficult emotions, or even deepen into pleasurable ones. The purpose is to get a taste for the session and see if you'd like to continue working together.
 
-You may [book an intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. Alternatively, you may [DM me on twitter](https://twitter.com/neats29) with any questions or to request a booking link if you'd like to book a one-off session without an intro call.
+You may [book a free intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a session.
 
 Sessions are done on a video call.
 
@@ -264,14 +262,16 @@ Sessions are done on a video call.
 **Sliding Scale:**
 £75—£100
 
+The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
+
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
 
-- Most sessions are done laying down (bed/sofa/floor etc) to enable deep relaxation. Please arrange this before the session so that the laptop camera is pointing towards you to show your face and torso. We will have a brief chat at the start of the call and then I will invite you to lay down. Most people remain in this position for the rest of the session, however you are welcome to move however you like during the session. If that is not at all feasible, then you may do the session sitting down in a comfortable seat.
+- Most sessions are done laying down (bed/sofa/floor etc) to enable deep relaxation. Please arrange this before the session so that the laptop camera is pointing towards you to show your face and torso. We will have a brief chat at the start of the call and then I will invite you to lay down. Most people remain in this position for the rest of the session, however you are welcome to move however you like during the session. If laying down isn't feasible or preferable, then you may do the session sitting down in a comfortable seat.
 
 - Please wear a pair of headphones so I can hear you well, when laying down away from the laptop, the sound can become muffled.
 
-- It's best not to have a hard stop after the session to allow a gentle transition into the rest of your day
+- It's best not to have a hard stop after the session to allow a gentle transition into the rest of your day. If you have a hard stop please let me know at the start of the session so I can ensure the ending is not abrupt.
 
 <h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
 
