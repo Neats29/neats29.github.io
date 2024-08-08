@@ -31,5 +31,5 @@ chmod -R u+rwx .
  -->
 
 ** August 2024 update
-Upgrade node from version 12.4.0 to 16 and hexo to the latest version (7.3.0).
+Upgrade node from version 12.4.0 to v20.16.0 (LTS) and hexo to the latest version (7.3.0).
 
