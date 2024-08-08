@@ -1,5 +1,5 @@
 ---
-title: Somatic well-being practice or self-love coaching
+title: Somatic well-being practice
 date: 2023-05-11 16:52:42
 cover_detail: /assets/coaching.png
 cover_index: /assets/coaching.png
