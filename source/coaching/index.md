@@ -31,7 +31,7 @@ Along the way I learned that many of my afflictions stemmed from my lack of self
 
 Eventually, in the summer of 2022, something clicked in me and I started to feel well-resourced and drawn to holding space for others. Slowly I started to hold IFS sessions for friends and in October-December 2022, I got to put this into practice by running regular 1:1 sessions at a residency in Berlin; combing IFS and nervous system regulation.
 
-I have been offering 1:1 IFS sessions professionally since May 2023. I am not a psychotherapist or a certified coach. However, I have completed IFS therapy training from IFSCA and I have done many courses over the years that don't come with official certifications. So far I have completed over 450 hours of these sessions.
+I have been offering 1:1 IFS sessions professionally since May 2023. I am not a psychotherapist or a certified coach. However, I have completed IFS therapy training from IFSCA and I have done many courses over the years that don't come with official certifications. So far I have completed over 500 hours of these sessions.
 
 
 <!-- <h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
