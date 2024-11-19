@@ -1,19 +1,19 @@
 ---
 title: Somatic well-being practice
 date: 2023-05-11 16:52:42
-cover_detail: /assets/coaching.png
+# cover_detail: /assets/coaching.png
 cover_index: /assets/coaching.png
 ---
 
-<h1 style="font-size: 1.6em;">What is somatic well-being practice?</h1>
+<h1 style="font-size: 1.1em; font-style:italic">A space to feel, heal, and understand yourself more deeply.</h1>
 
-A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques.
+At the core of what causes dissatisfaction in our lives is often a young part of us frozen in time, holding a painful belief about itself or the world.
 
-Over time I have leaned more into IFS therapy as the main modality in the session, however I still draw from other modalities and blend them in lightly.
+You could think of our work together as a treasure hunt. We'll use your pain points in life as breadcrumbs to find these young parts, and bring them back home. Over time, you will experience more ease, freedom and joy in your life.
 
 Book a [free discovery call here](https://cal.com/neats/intro) or read below for more information.
 
-<h1 style="font-size: 1.6em;">Who are you and how do you work with clients?</h1>
+<h1 style="font-size: 1.6em;">Why I do this work</h1>
 
 <img src="./index/me.jpeg"
     style="width: 50%;
@@ -21,22 +21,36 @@ Book a [free discovery call here](https://cal.com/neats/intro) or read below for
     alt="Anita">
 </img>
 
-For the last few years I've predominately made a living from Software Engineering and while that's been a fulfilling career, I've been consistently obsessed with the inner workings of the mind and how to live a good life. 
+I have been on my own inner journey for many years now and so much freedom and well-being has come as a result. This is why I love supporting others through their unique self exploration journey.
 
-I used to have a lot of self-doubt, worry incessantly and compare myself to my peers. But I was deeply curious and explored each affliction like a detective. For many years I devoured books and courses, experienced altered states of consciousness and sought out wisdom wherever I could find it. I tried many healing and embodiment modalities; [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), breathwork, dance and more. I trained with world-class coaches like [Joe Hudson](https://artofaccomplishment.com/) who helped me dissolve my inner critic. I healed my nervous system using a [breathwork app](https://othership.onelink.me/loJo/anita).
+I have been been offering 1:1 IFS sessions professionally since the Spring of 2023. While I'm not a psychotherapist, I've completed IFS training from IFSCA and have completed many courses with the Art of Accomplishment school since 2020. 
 
-Along the way I learned that many of my afflictions stemmed from my lack of self-love. Somewhere deep in my psyche, unbeknownst to me, I didn’t like myself. That’s where the self-doubt and everything else stemmed from. So I went on a 3-year journey to find [persistent self-love](/self-love). You can read more about the story [here](/self-love).
+Thus far, I have facilitated over **550 hours** of sessions.
 
-Eventually, in the summer of 2022, something clicked in me and I started to feel well-resourced and drawn to holding space for others. Slowly I started to hold IFS sessions for friends and in October-December 2022, I got to put this into practice by running regular 1:1 sessions at a residency in Berlin; combing IFS and nervous system regulation.
+I view doing my own inner work as essential for holding space for others, so I take this very seriously; receiving weekly IFS therapy, meditation, group consults, peer coaching, meditative dance practice, year-long programmes with Joe Hudson etc.
 
-I have been offering 1:1 IFS sessions professionally since May 2023. I am not a psychotherapist or a certified coach. However, I have completed IFS therapy training from IFSCA and I have done many courses over the years that don't come with official certifications. So far I have completed over 500 hours of these sessions.
+<h1 style="font-size: 1.6em;">How does it work?</h1>
+
+We'll start by exploring what you want to work on, or what's present in the moment. Most of the time we will start the session laying down and doing some grounding to begin with, but I will tailor the session to your needs such as incorporating movement. 
+
+IFS (Internal Family Systems) therapy will be our main modality but I will weave in other modalities as and when needed. We will use sensations, feelings, thoughts and images to connect with your parts and emotions.
+
+<h1 style="font-size: 1.6em;">Benefits of this work</h1>
+
+People who work with me regularly report:
+
+- a deeper sense of trust with themselves
+- more capacity and skillfulness around difficult emotions
+- less inner conflict, more self-compassion and better ability to take care of themselves
+- more ease in relationships
+- better understanding of who they are while simultaneously holding it more lightly
 
 
-<h1 style="font-size: 1.6em;">How can I book a session?</h1>
+<h1 style="font-size: 1.6em;">How to book a session</h1>
 
 There are broadly two ways of working together:
 
-- **Ongoing Exploration**: an open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
+- **Ongoing Exploration**: meeting regularly to dive deep. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
 
     Here's a client describing the specific benefits they gained by working with me over the space of a few months:
 
@@ -52,13 +66,10 @@ There are broadly two ways of working together:
 
 You may [book a free discovery call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a session.
 
-Sessions are done on a video call.
+**Duration:**
+sessions are 90 minutes on average, done via video call.
 
-**Session duration:**
-1hr30mins on average
-
-**Sliding Scale:**
-£75—£100
+**Investment:** £75—£100 (sliding scale).
 
 The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
 
@@ -226,14 +237,14 @@ The sliding scale is to accommodate different affordability levels. You may choo
 <span>[@EgregoreGalore](https://twitter.com/EgregoreGalore)</span>
 
 
-<h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
+<h1 style="font-size: 1.6em;">How to prepare for a session</h1>
 
+- Find a quiet space where you can lie down comfortably (bed/sofa/floor etc), or you may do this seated if you prefer
+- Position your device so I can see your face and chest
+- Wear a pair of headphones, as the sound can get muffled when laying down
+- Leave some buffer time after our session to allow a gentle transition into the rest of your day
+- Let me know if you have a hard stop
 
-- Most sessions are done laying down (bed/sofa/floor etc) to enable deep relaxation. Please arrange this before the session so that the laptop camera is pointing towards you to show your face and torso. We will have a brief chat at the start of the call and then I will invite you to lay down. Most people remain in this position for the rest of the session, however you are welcome to move however you like during the session. If laying down isn't feasible or preferable, then you may do the session sitting down in a comfortable seat.
-
-- Please wear a pair of headphones so I can hear you well, when laying down away from the laptop, the sound can become muffled.
-
-- It's best not to have a hard stop after the session to allow a gentle transition into the rest of your day. If you have a hard stop please let me know at the start of the session so I can ensure the ending is not abrupt.
 
 <h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
 
