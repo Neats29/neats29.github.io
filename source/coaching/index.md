@@ -9,11 +9,9 @@ cover_index: /assets/coaching.png
 
 A Somatic well-being practice session consists of laying down in a comfortable position, followed by a guided exercise to bring the nervous system into the parasympathetic and encourage feelings of safety in the body. I will then guide you to feel emotions present in the body, which will be the focal point of the practice. We will use parts work, shadow work and emotional fluidity techniques.
 
-Over time I have leaned more into [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model) as the main modality in the session, however I still draw from other modalities and blend them in lightly.
+Over time I have leaned more into IFS therapy as the main modality in the session, however I still draw from other modalities and blend them in lightly.
 
-<!-- This is the culmination of what has worked for me to increase a sense of well-being and developing a nurturing resource of internal love or "Deep Okayness". During the session I will be drawing from different modalities such as [IFS therapy](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model), shadow work and meditation to tailor the session to your needs. 
-
-Some sessions will be IFS-dominant, some will be focused on the moment by moment sensations in the body and feeling through difficult emotions, while some will involve a cathartic emotional release through movement or anger work. -->
+Book a [free discovery call here](https://cal.com/neats/intro) or read below for more information.
 
 <h1 style="font-size: 1.6em;">Who are you and how do you work with clients?</h1>
 
@@ -34,42 +32,36 @@ Eventually, in the summer of 2022, something clicked in me and I started to feel
 I have been offering 1:1 IFS sessions professionally since May 2023. I am not a psychotherapist or a certified coach. However, I have completed IFS therapy training from IFSCA and I have done many courses over the years that don't come with official certifications. So far I have completed over 500 hours of these sessions.
 
 
-<!-- <h1 style="font-size: 1.6em;">What are the benefits of this work?</h1>
+<h1 style="font-size: 1.6em;">How can I book a session?</h1>
 
-Self-love is a nurturing source of internal love that helps soften the harsh aspects of being a human in this world.
+There are broadly two ways of working together:
 
-Working towards self-love which in my experience involves learning to feel one's emotions and regulate one's nervous system, helps with the following:
-- dissolving or lessening the inner critic and self-doubt
-- lessening procrastination and perfectionism
-- feeling less anxious or less numb
-- better connection and improved interpersonal abilities
-- getting [out of a triggered state](https://twitter.com/neats29/status/1612453371251769347?s=20) or recovering from it quickly
-- getting closer to a [secure attachment style](https://twitter.com/neats29/status/1684959585977634816?s=20)
+- **Ongoing Exploration**: an open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
 
-You can read more about my framework for self-love which informs this coaching practice [here](/self-love-framework). -->
-<!-- 
-Here's what two of my favourite tweeters say about achieving self-love:
+    Here's a client describing the specific benefits they gained by working with me over the space of a few months:
 
-
-<a href="https://twitter.com/sashachapin/status/1482799699333550082?s=20">
-<img src="./index/sasha.png"
-    style="width: 70%;
-    display: block;
+<img src="./index/sam.png"
+    style="width: 100%;
+    display: in-line;
     margin: auto;
-    border: 1px solid lightgrey;"
-    alt="Part 1">
+    border: 1px solid white;"
+    alt="">
 </img>
-</a>
 
-<a href="https://twitter.com/nickcammarata/status/1459740265862684680?s=20">
-<img src="./index/nick.png"
-    style="width: 70%;
-    display: block;
-    margin: auto;
-    border: 1px solid lightgrey;"
-    alt="Part 1">
-</img>
-</a> -->
+- **One-off Experiences**: for those looking to experience this flavour of inner work or to work on an ad-hoc basis. It's an opportunity to connect with your internal parts and work with different emotions. The purpose is to get a taste for the session and see if you'd like to continue working together. Or alternatively, to book as and when needed.
+
+You may [book a free discovery call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a session.
+
+Sessions are done on a video call.
+
+**Session duration:**
+1hr30mins on average
+
+**Sliding Scale:**
+£75—£100
+
+The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
+
 
 <h1 style="font-size: 1.6em;">Testimonials</h1>
 
@@ -234,36 +226,6 @@ Here's what two of my favourite tweeters say about achieving self-love:
 <span>[@EgregoreGalore](https://twitter.com/EgregoreGalore)</span>
 
 
-<h1 style="font-size: 1.6em;">How can I book a session?</h1>
-
-There are broadly two ways of working together:
-
-- **Ongoing Exploration**: an open-ended series of sessions for those looking to dive deeper and explore their parts and emotions. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
-
-    Here's a client describing the specific benefits they gained by working with me over the space of a few months:
-
-<img src="./index/sam.png"
-    style="width: 100%;
-    display: in-line;
-    margin: auto;
-    border: 1px solid white;"
-    alt="">
-</img>
-
-- **One-off Experience**: for those looking to experience this flavour of inner work. It's an opportunity to connect with your internal parts and work with difficult emotions, or even deepen into pleasurable ones. The purpose is to get a taste for the session and see if you'd like to continue working together.
-
-You may [book a free intro call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a session.
-
-Sessions are done on a video call.
-
-**Session duration:**
-1hr30mins on average
-
-**Sliding Scale:**
-£75—£100
-
-The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
-
 <h1 style="font-size: 1.6em;">How can I best prepare for a session?</h1>
 
 
@@ -279,15 +241,18 @@ The sliding scale is to accommodate different affordability levels. You may choo
 
 <br />
 
-<h1 style="font-size: 1.6em;">Podcast appearances</h1>
+<h1 style="font-size: 1.6em;">Podcast conversations</h1>
 
-If you'd like to hear more about my self-love journey and this work, you can listen to The Examined Life podcast with Khe Hy.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TNDjemBYahc?si=xA9nreQJd8yntfDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TNDjemBYahc?si=xA9nreQJd8yntfDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+If you'd like to hear more about my self-love journey, you can listen to The Examined Life podcast with Khe Hy.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 
 ---
