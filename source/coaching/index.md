@@ -252,19 +252,5 @@ The sliding scale is to accommodate different affordability levels. You may choo
 
 <br />
 
-<h1 style="font-size: 1.6em;">Podcast conversations</h1>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TNDjemBYahc?si=xA9nreQJd8yntfDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br />
-
-If you'd like to hear more about my self-love journey, you can listen to The Examined Life podcast with Khe Hy.
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6MSODcs4qfBjtaXLPoUqJm/video?utm_source=generator" width="496" height="279" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-
-
 ---
 If you have any questions, please send me message on [twitter](https://twitter.com/neats29).
