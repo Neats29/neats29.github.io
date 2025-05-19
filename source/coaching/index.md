@@ -62,14 +62,17 @@ There are broadly two ways of working together:
     alt="">
 </img>
 
-- **One-off Experiences**: for those looking to experience this flavour of inner work or to work on an ad-hoc basis. It's an opportunity to connect with your internal parts and work with different emotions. The purpose is to get a taste for the session and see if you'd like to continue working together. Or alternatively, to book as and when needed.
+- **Short term Experience**: for those looking to experience this flavour of inner work, to tackle a recent challenge or to work on an ad-hoc basis.
 
 You may [book a free discovery call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a session.
 
 **Duration:**
 sessions are 90 minutes on average, done via video call.
 
-**Investment:** £75—£100 (sliding scale).
+**Investment:** 
+suggested: £100. 
+
+However, I offer a sliding scale: £75—£120 
 
 The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
 
@@ -244,6 +247,11 @@ The sliding scale is to accommodate different affordability levels. You may choo
 - Wear a pair of headphones, as the sound can get muffled when laying down
 - Leave some buffer time after our session to allow a gentle transition into the rest of your day
 - Let me know if you have a hard stop
+
+
+<h1 style="font-size: 1.6em;">Disclaimer</h1>
+
+By booking a session, you acknowledge that I am not a licensed mental health professional, psychotherapist, or medical provider. This session is for personal growth and emotional support only. It is not psychotherapy, counselling, or mental health treatment. By proceeding, you agree to take full responsibility for your own well-being.
 
 
 <h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
