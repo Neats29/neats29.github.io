@@ -72,7 +72,7 @@ sessions are 90 minutes on average, done via video call.
 **Investment:** 
 suggested: £100. 
 
-However, I offer a sliding scale: £75—£150 
+However, I offer a sliding scale: £75—£120 
 
 The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
 
