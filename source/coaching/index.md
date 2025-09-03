@@ -25,7 +25,7 @@ I have been on my own inner journey for many years now and so much freedom and w
 
 I have been been offering 1:1 IFS sessions professionally since the Spring of 2023. While I'm not a psychotherapist, I've completed the IFSCA IFS course which makes me an IFS-informed practitioner. I have also completed many courses with the Art of Accomplishment school since 2020.
 
-Thus far, I have facilitated over **700 hours** of sessions.
+Thus far, I have facilitated over **750 hours** of sessions.
 
 I view doing my own inner work as essential for holding space for others, so I take this very seriously; receiving weekly IFS therapy, meditation, group consults, peer coaching, meditative dance practice, year-long programmes with the Art of Accomplishment (Joe Hudson) etc.
 
@@ -72,7 +72,7 @@ sessions are 90 minutes on average, done via video call.
 **Investment:** 
 suggested: £100. 
 
-However, I offer a sliding scale: £75—£120 
+However, I offer a sliding scale: £75—£150 
 
 The sliding scale is to accommodate different affordability levels. You may choose a value in this range that feels good to you.
 
