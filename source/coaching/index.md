@@ -69,8 +69,7 @@ You may [book a free discovery call](https://cal.com/neats/intro) where we will 
 **Duration:**
 sessions are 90 minutes on average, done via video call.
 
-**Investment:**
-standard rate: £100
+**Investment:** £100 
 
 <h1 style="font-size: 1.6em;">Testimonials</h1>
 
