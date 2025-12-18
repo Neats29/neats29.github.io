@@ -29,7 +29,7 @@ I view doing my own inner work as essential for holding space for others, so I t
 
 <h1 style="font-size: 1.6em;">How does it work?</h1>
 
-IFS sessions are a bit different from talk therapy or regular coaching. Instead of conversing most of the session, I will invite you to turn inwards to notice emotions, body sensations, thoughts and/or internal visual imagery and share what comes up.
+IFS (Internal Family Systems) sessions are a bit different from talk therapy or regular coaching. Instead of conversing most of the session, I will invite you to turn inwards to notice emotions, body sensations, thoughts and/or internal visual imagery and share what comes up.
 
 From there, a moment from your past may surface that's holding a difficult emotion or belief; frozen, because either it wasn't witnessed or the emotional arc couldn't complete. 
 
