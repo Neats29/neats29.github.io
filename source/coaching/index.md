@@ -1,5 +1,5 @@
 ---
-title: Somatic well-being practice
+title: Somatic IFS practice
 date: 2023-05-11 16:52:42
 # cover_detail: /assets/coaching.png
 cover_index: /assets/coaching.png
@@ -9,11 +9,11 @@ cover_index: /assets/coaching.png
 
 At the core of what causes dissatisfaction in our lives is often a young part of us frozen in time, holding a painful belief about itself or the world.
 
-You could think of our work together as a treasure hunt. We'll use your pain points in life as breadcrumbs to find these young parts, and bring them back home. Over time, you will experience more ease, freedom and joy in your life.
+You could think of our work together as a treasure hunt. We’ll use your pain points in life as breadcrumbs to find these young parts, and bring them back home. Over time, you will experience more freedom, empowerment and joy.
 
 Book a [free discovery call here](https://cal.com/neats/intro) or read below for more information.
 
-<h1 style="font-size: 1.6em;">Why I do this work</h1>
+<h1 style="font-size: 1.6em;">About me</h1>
 
 <img src="./index/me.jpeg"
     style="width: 50%;
@@ -21,38 +21,38 @@ Book a [free discovery call here](https://cal.com/neats/intro) or read below for
     alt="Anita">
 </img>
 
-I have been on my own inner journey for many years now and so much freedom and well-being has come as a result. This is why I love supporting others through their unique self exploration journey.
-
-I have been been offering 1:1 IFS sessions professionally since the Spring of 2023. While I'm not a psychotherapist, I've completed the IFSCA IFS course which makes me an IFS-informed practitioner. I have also completed many courses with the Art of Accomplishment school since 2020 (including two year-long programs).
+I have been offering 1:1 IFS sessions professionally since the Spring of 2023. I am an IFS-informed practitioner trained by IFSCA. I have also completed many courses with the Art of Accomplishment since 2020 (including two year-long programmes).
 
 Thus far, I have facilitated almost **900 hours** of sessions.
 
-I view doing my own inner work as essential for holding space for others, so I take this very seriously; receiving weekly IFS therapy, meditation, group consults, peer coaching, meditative dance practice, year-long programmes with the Art of Accomplishment (Joe Hudson) etc.
+I view doing my own inner work as essential for holding space for others, so I take this very seriously; receiving weekly IFS therapy, group consults, peer coaching, meditative dance practice, year-long programmes with the Art of Accomplishment (Joe Hudson) and attending silent meditation retreats.
 
 <h1 style="font-size: 1.6em;">How does it work?</h1>
 
-We'll start by exploring what you want to work on, or what's present in the moment. Most of the time we will start the session laying down and doing some grounding to begin with, but I will tailor the session to your needs such as incorporating movement. 
+IFS sessions are a bit different from talk therapy or regular coaching. Instead of conversing most of the session, I will invite you to turn inwards to notice emotions, body sensations, thoughts and/or internal visual imagery and share what comes up.
 
-IFS (Internal Family Systems) therapy will be our main modality but I will weave in other modalities as and when needed. We will use sensations, feelings, thoughts and images to connect with your parts and emotions.
+From there, a moment from your past may surface that's holding a difficult emotion or belief; frozen, because either it wasn't witnessed or the emotional arc couldn't complete. 
 
-<h1 style="font-size: 1.6em;">Benefits of this work</h1>
-
-People who work with me regularly report:
-
-- a deeper sense of trust with themselves
-- more capacity and skillfulness around difficult emotions
-- less inner conflict, more self-compassion and better ability to take care of themselves
-- more ease in relationships
-- better understanding of who they are while simultaneously holding it more lightly
+In these sessions, we offer the witnessing and completion that was needed. Once this happens, the pattern either dissolves completely or a new layer surfaces to be witnessed. My role is to help you stay connected to your own wisdom and follow this organic process.
 
 
 <h1 style="font-size: 1.6em;">How to book a session</h1>
 
-There are broadly two ways of working together:
+Please book a [free discovery call here](https://cal.com/neats/intro) to get to know each other and see if we're a good fit. From there, you can book a single session and decide afterwards whether to continue. You can also [DM me on twitter](https://twitter.com/neats29) with questions or to book a session without a discovery call.
 
-- **Ongoing Exploration**: meeting regularly to dive deep. Regular clients report increased emotional fluidity, a greater capacity to be with difficult emotions and more compassion for themselves.
 
-    Here's a client describing the specific benefits they gained by working with me over the space of a few months:
+**Duration:**
+sessions are around **90 minutes**, done via video call. Please let me know if you have a hard stop.
+
+**Investment:** £100 
+
+<!-- **Note:**
+IFS sessions are a bit different from talk therapy or regular coaching. Instead of us talking most of the session, I will invite you to turn inwards to notice emotions, body sensations, thoughts and/or internal visual imagery and share what comes up. My role is to help you stay connected to your own wisdom. -->
+
+
+<h1 style="font-size: 1.6em;">Testimonials</h1>
+
+(Please note, these sessions used to be called self-love coaching)
 
 <img src="./index/sam.png"
     style="width: 100%;
@@ -61,17 +61,6 @@ There are broadly two ways of working together:
     border: 1px solid white;"
     alt="">
 </img>
-
-- **Short term Experience**: for those looking to experience this flavour of inner work, to tackle a recent challenge or to work on an ad-hoc basis.
-
-You may [book a free discovery call](https://cal.com/neats/intro) where we will discuss working together and book your first call. You may also [DM me on twitter](https://twitter.com/neats29) with any questions or to request a session.
-
-**Duration:**
-sessions are 90 minutes on average, done via video call.
-
-**Investment:** £100 
-
-<h1 style="font-size: 1.6em;">Testimonials</h1>
 
 > "anita is one of the best facilitators i have worked with. she made it easy to trust her process so i could focus on what was going on inside of me. i was grateful to have her help in guiding my attention, and especially her use of breathwork. months later i still think back to what she helped me discover in our sessions and use it for making decisions in life" — [Mycelium Mage](https://twitter.com/myceliummage)
 
@@ -234,18 +223,9 @@ sessions are 90 minutes on average, done via video call.
 <span>[@EgregoreGalore](https://twitter.com/EgregoreGalore)</span>
 
 
-<h1 style="font-size: 1.6em;">How to prepare for a session</h1>
-
-- Find a quiet space where you can lie down comfortably (bed/sofa/floor etc), or you may do this seated if you prefer
-- Position your device so I can see your face and chest
-- Wear a pair of headphones, as the sound can get muffled when laying down
-- Leave some buffer time after our session to allow a gentle transition into the rest of your day
-- Let me know if you have a hard stop
-
-
 <h1 style="font-size: 1.6em;">Disclaimer</h1>
 
-By booking a session, you acknowledge that I am not a licensed mental health professional, psychotherapist, or medical provider. This session is for personal growth and emotional support only. It is not psychotherapy, counselling, or mental health treatment. By proceeding, you agree to take full responsibility for your own well-being.
+By booking a session, you acknowledge that I am not a licensed mental health professional, psychotherapist, or medical provider. Sessions are for personal growth and emotional support, not psychotherapy, counselling, or mental health treatment.
 
 
 <h1 style="font-size: 1.6em;">Self-love guided meditation</h1>
