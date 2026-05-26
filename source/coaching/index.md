@@ -23,7 +23,7 @@ Book a [free discovery call here](https://cal.com/neats/intro) or read below for
 
 I have been offering 1:1 IFS sessions professionally since the Spring of 2023. I am an IFS-informed practitioner trained by IFSCA. I have also completed many courses with the Art of Accomplishment since 2020 (including two year-long programmes).
 
-Thus far, I have facilitated almost **900 hours** of sessions.
+Thus far, I have facilitated over **1000 hours** of sessions.
 
 I view doing my own inner work as essential for holding space for others, so I take this very seriously; receiving weekly IFS therapy, group consults, peer coaching, meditative dance practice, year-long programmes with the Art of Accomplishment (Joe Hudson) and attending silent meditation retreats.
 
